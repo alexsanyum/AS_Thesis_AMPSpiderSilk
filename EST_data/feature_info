@@ -1,0 +1,10 @@
+##EST data
+##AgSG:Aggregate silk glang	ASG: all silk glands	WS:whole spider	
+##
+BIOSAMPLE	SPECIES	VECTOR	REGION		F_PRIMER	R_PRIMERTISSUE	
+SAMN10434145	Leucauge_venusta	pZErO-2	*|*	-	-	AgSG
+SAMN00168071	Nephila_antipodiana	Uni-Zap_XR	xhol|EcoRI	-	-	ASG
+SAMN00169250	Latrodectus_hesperus	pBluescript_II_SK	*|*	-	-	WS
+SAMN10461775	Parasteatoda_tepidariorum	pZErO-2	*|*	-	-	AgSG
+SAMN00222751	Steatoda_grossa	pZErO-2	*|*	-	-	ASG
+
