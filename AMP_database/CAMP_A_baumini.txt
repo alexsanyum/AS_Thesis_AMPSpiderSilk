@@ -1,0 +1,10 @@
+  Camp_ID;gi;UniProt_id;PDBID;Title;Source_Organism;Taxonomy;Seqence;Length;Pubmed_id;Activity;Gram_Nature;Validation
+CAMPSQ2773;;;;  Cyclic L27-11 ;Synthetic construct;;TWLKKRRWKKAK;12;20167788;Antibacterial;Gram+ve, Gram-ve;Experimentally Validated
+CAMPSQ2929;;;;  Cathelicidin-AM ;Ailuropoda melanoleuca;Animalia (Mammals);GRLRNLIEKAGQNIRGKIQGIGRRIKDILKNLQPRPQV;38;22101189;Antibacterial, Antifungal;;Experimentally Validated
+CAMPSQ3396;;;;  Pc-CATH1 ;Phasianus colchicus;Animalia (Aves);RIKRFWPVVIRTVVAGYNLYRAIKKK;26;20955730;Antibacterial, Antifungal;Gram +ve, Gram -ve;Experimentally Validated
+CAMPSQ3472;269819993;D1MJ08;;Cc-CATH2 ;Coturnix coturnix;Animalia (Aves);LVQRGRFGRFLKKVRRFIPKVIIAAQIGSRFG;32;21375690;Antibacterial, Antifungal;Gram+ve, Gram-ve;Experimentally Validated
+CAMPSQ3473;269819995;D1MJ09;;Cc-CATH3 ;Coturnix coturnix;Animalia (Aves);RVRRFWPLVPVAINTVAAGINLYKAIRRK;29;21375690;Antibacterial, Antifungal;Gram+ve, Gram-ve;Experimentally Validated
+CAMPSQ7495;827029579;;;Hc-CATH;Hydrophis cyanocinctus ;Animalia (Reptiles);KFFKRLLKSVRRAVKKFRKKPRLIGLSTLL;30;26013823;Antifungal, Antibacterial;Gram+ve, Gram-ve;Experimentally Validated
+CAMPSQ8239;;;;Mastoparan analogue 4;Synthetic construct;;InLKALAALAKKIL;14;26114809;Antibacterial;Gram-ve;Experimentally Validated
+CAMPSQ8241;;;;Mastoparan analogue 6 (l form), 7 (d form) and 10;Synthetic construct;;LIKKALAALAKLNIlikkalaalaklni;14;26114809;Antibacterial;Gram-ve;Experimentally Validated
+CAMPSQ8243;;;;Mastoparan analogue 9, 11, 12;Synthetic construct;;INLKALAALAKKIL;14;26114811;Antibacterial;;Experimentally Validated
