@@ -11,8 +11,18 @@ And mathches was replaced to:
 ~~~
 >et|\1_\2
 ~~~
+Diffent problems in TGICL package instalation did not allow us to use it. However, EST data keep change name
 ### Vector clipping
-In order to minimize the chance to culster unreleated sequences, we cut vector sequences in ESTs. For this, we develop an python scripts using jupyter notebook that align fasta sequences with insertion region of plasmids used in clonation. 
+In order to minimize the chance to culster unreleated sequences, we chech if sequences were already taken away vector sequences. NCBi data features does not explai9n any kind of traetment to cut adapters sequences. To check if this was already done we use Figaro and cross_match packages. Figaro use a statistics model to search kmer in 5' sequences, while cross_match use vector sequences to look for adapters sequences in EST data and replace them by "X". 
+Figaro and cross_match were use and no adapters sequencse were found in EST sequences. 
+
+##EST Data cluster 
+Data were cluster using MeshClust package, used command line was:
+
+~~~
+bin/meshclust ../EST_data/*.fasta --id 0.60 --kmer 5 --delta 5 --output *.clstr --iterations 20 --align --sample 3000 --pivot 40 --threads 1
+~~~
+Clusters files are avaible in clusters_files directory
 ## AMP database
 A databse of antimicrobial peptides was obtain from CAMP database. In this, peptides was searching looking for target organisms that spider silk was reported to inhibit. We recuperate four data sets for *Escherichia coli*, *Candida albicans*, *Staphylococcus aureus* and *Acinetobacter baumannii*. We looked for antimicrobial peptides that inhibit all these microorganisms. For this, we use the next command line tool.
 ~~~
