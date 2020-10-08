@@ -16,7 +16,7 @@ Diffent problems in TGICL package instalation did not allow us to use it. Howeve
 In order to minimize the chance to culster unreleated sequences, we chech if sequences were already taken away vector sequences. NCBi data features does not explai9n any kind of traetment to cut adapters sequences. To check if this was already done we use Figaro and cross_match packages. Figaro use a statistics model to search kmer in 5' sequences, while cross_match use vector sequences to look for adapters sequences in EST data and replace them by "X". 
 Figaro and cross_match were use and no adapters sequencse were found in EST sequences. 
 
-##EST Data cluster 
+## EST Data cluster 
 Data were cluster using MeshClust package, used command line was:
 
 ~~~
