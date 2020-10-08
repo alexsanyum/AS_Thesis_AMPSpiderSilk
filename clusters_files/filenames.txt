@@ -1,0 +1,6 @@
+Latrodectushesperus.fasta
+Leucaugevenusta_2.fasta
+Leucaugevenusta.fasta
+Nephilaantipodiana.fasta
+Parasteatodatepidariorum.fasta
+Steatodagrossa.fasta
