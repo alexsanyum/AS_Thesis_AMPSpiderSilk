@@ -1,0 +1,332 @@
+<!--
+ UGENE - Integrated Bioinformatics Tools.
+ Copyright (C) 2008-2020 UniPro <ugene@unipro.ru>
+ http://ugene.net
+
+ This program is free software; you can redistribute it and/or
+ modify it under the terms of the GNU General Public License
+ as published by the Free Software Foundation; either version 2
+ of the License, or (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+ MA 02110-1301, USA.
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Dashboard</title>
+
+    <link rel="stylesheet" type="text/css" href="qrc:///javascript/bootstrap/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="qrc:///U2Designer/html/Dashboard.css"/>
+    <script type="text/javascript" src="qrc:///javascript/jquery/jquery.js"></script>
+    <script type="text/javascript" src="qrc:///javascript/bootstrap/js/bootstrap.js"></script>
+    <script type="text/javascript" src="qrc:///U2Designer/javascript/Common.js"></script>
+    <script type="text/javascript" src="qrc:///U2Designer/javascript/ContextMenu.js"></script>
+    <script type="text/javascript" src="qrc:///U2Designer/javascript/TableWidget.js"></script>
+    <script type="text/javascript" src="qrc:///U2Designer/javascript/ParametersWidget.js"></script>
+    <script type="text/javascript" src="qrc:///U2Designer/javascript/ExternalToolsWidget.js"></script>
+    <script type="text/javascript" src="qrc:///U2Designer/javascript/ProblemsWidget.js"></script>
+    <script type="text/javascript" src="qrc:///U2Designer/javascript/StatisticsWidget.js"></script>
+    <script type="text/javascript" src="qrc:///U2Designer/javascript/StatusWidget.js"></script>
+</head>
+
+<body>
+
+<script>
+setTimeout(function() {
+  document.getElementById("wrapper").innerHTML = "<center><b>This dashboard was created with a newer version of UGENE. Please <a href='https://ugene.net'>update</a>.</b></center>";
+}, 500);
+</script>
+
+<div id="wrapper">
+    <div class="tabbable">
+        <div class="dash-menu-line">
+            <ul class="nav nav-pills dash-nav">
+                <li class="active">
+                    <a href="#overview_tab" data-toggle="tab" class="dash-tab-name">
+                        <span lang="en" class="translatable">Overview</span>
+                        <span lang="ru" class="translatable">Обзор</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="#input_tab" data-toggle="tab" class="dash-tab-name">
+                        <span lang="en" class="translatable">Input</span>
+                        <span lang="ru" class="translatable">Параметры схемы</span>
+                    </a>
+                </li>
+                <li id="ext_tools_tab_menu" style="display: none;">
+                    <a href="#ext_tools_tab" data-toggle="tab" class="dash-tab-name">
+                        <span lang="en" class="translatable">External Tools</span>
+                        <span lang="ru" class="translatable">Внешние инструменты</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="dash-outer-tab-content">
+            <div class="tab-content dash-tab-content">
+                <div class="tab-pane active" id="overview_tab">
+<div id="statisticsWidget">
+<table>
+<thead><tr><th>Element</th><th>Elapsed time</th><th>Output messages</th></tr></thead>
+<tbody id="statisticsWidget123">
+<tr class="filled-row" id="read-msa"><td>Read Alignment</td><td>00:00:00.016</td><td>0</td></tr>
+<tr class="filled-row" id="extract-msa-consensus-sequence"><td>Extract Consensus from Alignment as Sequence</td><td>00:00:00.000</td><td>1</td></tr>
+<tr class="filled-row" id="write-sequence"><td>Write Sequence</td><td>00:00:00.000</td><td>0</td></tr>
+</tbody>
+</table>
+</div>
+
+
+<div id="statusWidget"><div id="timer">00:00:01</div><div id="progressBar"><div style="width: 100%;"></div></div><div id="status-bar" class="alert-success"> <div id="status-message"><span>The workflow task has been finished successfully!</span></div></div></div>
+
+<div id="outputWidget">
+<table>
+<thead><tr><th>File</th><th>Producer</th></tr></thead>
+<tbody id="outputWidget123">
+<tr id="output-widget:write-sequence">
+<td><div><ul>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_48.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_57.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_90.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_103.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_110.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_111.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_112.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_113.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_115.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_128.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_143.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_154.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_155.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_172.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Latrodectushesperus_0_75_175.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_0_75_3.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_0_75_5.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_0_75_6.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_0_75_7.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_2_0_75_3.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_2_0_75_7.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_2_0_75_18.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_2_0_75_25.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_2_0_75_30.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_2_0_75_33.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_2_0_75_52.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_2_0_75_61.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Leucaugevenusta_2_0_75_67.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_14.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_15.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_16.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_20.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_28.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_32.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_34.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_36.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_42.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_45.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_47.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_50.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_55.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_59.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_60.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_61.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_66.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_68.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_75.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_77.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_78.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_80.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_83.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_92.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_97.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_107.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_123.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_124.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_125.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_131.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_151.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_160.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_161.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_169.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_192.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_201.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_202.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_203.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_246.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_260.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_297.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_313.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_316.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_327.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Nephilaantipodiana_0_75_336.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Parasteatodatepidariorum_0_75_17.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Parasteatodatepidariorum_0_75_32.fasta_consensus.fa</a></li>
+<li><a>/home/alex/AMP_thesis_scripts/consensus_sequence_muscle/2020.10.28_22-26/Steatodagrossa_0_75_7.fasta_consensus.fa</a></li>
+</ul></div></td>
+<td>Write Sequence</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+                    <div class="left-container"></div>
+                    <div class="right-container"></div>
+                </div>
+                <div class="tab-pane" id="input_tab">
+                    <div class="widget">
+                        <div class="title">
+                            <div class="title-content">
+                                <span lang="en" class="translatable">Parameters</span>
+                                <span lang="ru" class="translatable">Параметры</span>
+                            </div>
+                        </div>
+                        <div class="widget-content" id="parametersWidget">
+<div class="tabbable tabs-left">
+<ul class="nav nav-tabs params-nav-tabs">
+<li class="active"><a href="#params_tab_id_0" data-toggle="tab">Read Alignment</a></li>
+<li><a href="#params_tab_id_1" data-toggle="tab">Extract Consensus from Alignment as Sequence</a></li>
+<li><a href="#params_tab_id_2" data-toggle="tab">Write Sequence</a></li>
+</ul>
+<div class="tab-content params-tab-content">
+<div class="tab-pane active" id="params_tab_id_0">
+<table class="table table-bordered table-fixed param-value-column">
+<thead><tr><th>Parameter</th><th>Value</th></tr></thead>
+<tbody>
+<tr><td>Input file(s)</td><td class="dataset-marker">/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_48.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_57.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_90.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_103.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_110.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_111.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_112.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_113.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_115.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_128.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_143.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_154.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_155.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_172.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_175.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_0_75_3.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_0_75_5.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_0_75_6.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_0_75_7.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_3.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_7.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_18.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_25.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_30.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_33.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_52.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_61.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_67.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_14.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_15.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_16.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_20.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_28.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_32.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_34.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_36.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_42.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_45.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_47.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_50.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_55.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_59.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_60.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_61.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_66.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_68.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_75.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_77.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_78.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_80.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_83.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_92.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_97.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_107.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_123.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_124.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_125.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_131.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_151.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_160.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_161.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_169.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_192.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_201.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_202.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_203.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_246.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_260.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_297.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_313.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_316.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_327.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_336.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Parasteatodatepidariorum_0_75_17.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Parasteatodatepidariorum_0_75_32.fasta
+/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Steatodagrossa_0_75_7.fasta</td></tr>
+</tbody>
+</table>
+</div>
+<div class="tab-pane" id="params_tab_id_1">
+<table class="table table-bordered table-fixed param-value-column">
+<thead><tr><th>Parameter</th><th>Value</th></tr></thead>
+<tbody>
+<tr><td>Algorithm</td><td class="">Strict</td></tr>
+<tr><td>Keep gaps</td><td class="">True</td></tr>
+<tr><td>Threshold</td><td class="">75</td></tr>
+</tbody>
+</table>
+</div>
+<div class="tab-pane" id="params_tab_id_2">
+<table class="table table-bordered table-fixed param-value-column">
+<thead><tr><th>Parameter</th><th>Value</th></tr></thead>
+<tbody>
+<tr><td>Accumulate objects</td><td class="">True</td></tr>
+<tr><td>Data storage</td><td class="">Local file system</td></tr>
+<tr><td>Database</td><td class=""></td></tr>
+<tr><td>Output path</td><td class="">/</td></tr>
+<tr><td>Document format</td><td class="">fasta</td></tr>
+<tr><td>Split sequence</td><td class="">1</td></tr>
+<tr><td>Output file</td><td class="url-marker"></td></tr>
+<tr><td>Output file suffix</td><td class=""></td></tr>
+<tr><td>Existing file</td><td class="">0</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+
+                    </div>
+                </div>
+                <div class="tab-pane" id="ext_tools_tab">
+                    <div class="widget">
+                        <div class="title">
+                            <div class="title-content">
+                                <span lang="en" class="translatable">External Tools</span>
+                                <span lang="ru" class="translatable">Внешние инструменты</span>
+                            </div>
+                        </div>
+                        <div class="widget-content" id="externalToolsWidget"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--For debug purposes-->
+<div id="log_messages" style="position: fixed; top: 10%; left: 2%;"></div>
+</body>
+
+</html>

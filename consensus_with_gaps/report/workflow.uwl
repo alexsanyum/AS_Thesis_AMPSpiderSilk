@@ -1,0 +1,213 @@
+#@UGENE_WORKFLOW
+#For each input multiple alignment the workflow calculates the consensus and saves it to a fasta file, named according to the name of the input alignment.
+#
+#The "strict" algorithm with the "threshold" parameter set to "100%" is used by default to calculate the consensus. It means that the consensus will only contain characters that are the same in ALL sequences of the alignment.
+#
+#Decreasing the threshold will result in taking into account only the specified percentage number of the sequences, i.e. if the threshold is "80%" and 82% of the sequences have "A" at a certain column position, the consensus will also contain "A" at this position.
+#
+#Also, you may select another algorithm to calculate the consensus. The algorithm, proposed by Victor Levitsky, uses the extended DNA alphabet. The greater the "threshold" value selected for this algorithm, the more rare characters are taken into account. The specified value must be between 50% and 100%.
+#
+#Finally, there is "Keep gaps" parameter that specifies whether the result sequence must contain gaps, or they must be skipped. By default, the gaps are kept in the result consensus sequence.
+
+
+
+workflow "Extract consensus as sequence"{
+
+    read-msa {
+        type:read-msa;
+        name:"Read Alignment";
+        url-in {
+            dataset:"Dataset 1";
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_48.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_57.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_90.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_103.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_110.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_111.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_112.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_113.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_115.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_128.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_143.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_154.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_155.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_172.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Latrodectushesperus_0_75_175.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_0_75_3.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_0_75_5.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_0_75_6.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_0_75_7.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_3.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_7.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_18.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_25.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_30.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_33.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_52.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_61.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Leucaugevenusta_2_0_75_67.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_14.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_15.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_16.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_20.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_28.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_32.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_34.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_36.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_42.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_45.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_47.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_50.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_55.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_59.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_60.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_61.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_66.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_68.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_75.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_77.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_78.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_80.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_83.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_92.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_97.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_107.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_123.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_124.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_125.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_131.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_151.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_160.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_161.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_169.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_192.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_201.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_202.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_203.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_246.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_260.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_297.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_313.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_316.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_327.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Nephilaantipodiana_0_75_336.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Parasteatodatepidariorum_0_75_17.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Parasteatodatepidariorum_0_75_32.fasta;
+            file:/home/alex/AMP_thesis_scripts/clusters_files/clstr_demultiplex/clustered_sequences/Steatodagrossa_0_75_7.fasta;
+        }
+    }
+    extract-msa-consensus-sequence {
+        type:extract-msa-consensus-sequence;
+        name:"Extract Consensus from Alignment as Sequence";
+        threshold:75;
+    }
+    write-sequence {
+        type:write-sequence;
+        name:"Write Sequence";
+        url-out {
+var re = /[\\\/]/;
+var tokens = url.toString().split(re);
+var dir = "";
+if (tokens.length > 0) {
+    dir = tokens[tokens.length-1];
+}
+url_out = dir + "_consensus.fa"
+        };
+        write-mode:0;
+    }
+
+    .actor-bindings {
+        read-msa.out-msa->extract-msa-consensus-sequence.in-msa
+        extract-msa-consensus-sequence.out-sequence->write-sequence.in-sequence
+    }
+
+    read-msa.msa->extract-msa-consensus-sequence.in-msa.msa
+    extract-msa-consensus-sequence.sequence->write-sequence.in-sequence.sequence
+
+    .meta {
+        parameter-aliases {
+            read-msa.url-in {
+                alias:in;
+            }
+            extract-msa-consensus-sequence.algorithm {
+                alias:algorithm;
+            }
+            extract-msa-consensus-sequence.keep-gaps {
+                alias:keep_gaps;
+            }
+            extract-msa-consensus-sequence.threshold {
+                alias:threshold;
+            }
+        }
+        visual {
+            extract-msa-consensus-sequence {
+                pos:"-390 -1050";
+                style:ext;
+                bg-color-ext:"0 128 0 64";
+                in-msa.angle:180;
+                out-sequence.angle:360;
+            }
+            read-msa {
+                pos:"-645 -1050";
+                style:ext;
+                bg-color-ext:"24 102 175 64";
+                bounds:"-30 -30 75.25 80";
+                out-msa.angle:360;
+            }
+            write-sequence {
+                pos:"-90 -1050";
+                style:ext;
+                bg-color-ext:"64 26 96 64";
+                in-sequence.angle:180;
+            }
+            extract-msa-consensus-sequence.out-sequence->write-sequence.in-sequence {
+                text-pos:"-46 -37";
+            }
+            read-msa.out-msa->extract-msa-consensus-sequence.in-msa {
+                text-pos:"-45 -50";
+            }
+        }
+        wizard {
+            name:"Extract Alignment Consensus as Sequence";
+            auto-run:true;
+            page {
+                id:1;
+                next:2;
+                title:"Input Multiple Alighments";
+                parameters-area {
+                    read-msa.url-in {
+                        type:datasets;
+                    }
+                }
+            }
+            page {
+                id:2;
+                next:3;
+                title:"Extracting Consensus Settings";
+                parameters-area {
+                    group {
+                        title:"Extracting Consensus as Sequence Worker Settings";
+                        label-size:120;
+                        extract-msa-consensus-sequence.algorithm {
+                        }
+                        extract-msa-consensus-sequence.threshold {
+                        }
+                        extract-msa-consensus-sequence.keep-gaps {
+                        }
+                    }
+                }
+            }
+            page {
+                id:3;
+                title:"Output Files";
+                parameters-area {
+                    label {
+                        text:"For each input alignment the workflow outputs separate sequence file with consensus in it.";
+                        background-color:rgb(203,222,228);
+                    }
+                }
+            }
+        }
+    }
+}
+
