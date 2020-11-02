@@ -18,7 +18,7 @@ Figaro and cross_match were use and no adapters sequencse were found in EST sequ
 
 ## EST Data cluster 
 
-In order to specify an optimal identty porcentage to run clustering process we use MeshClust with diifferent identity porcentages (id %). We run differetn clustering process changing id % from 0.65 to 0.90 with an increase of 0.05. Shell scripts used for this are Using a python script we estimate the number and mean size of clusters with id % from 0.65 to 0.90 wih an increase of 0.05. Result plot is in this repository as permutaciones.pdf
+In order to specify an optimal identty porcentage to run clustering process we use MeshClust with diifferent identity porcentages (id %). We run differetn clustering process changing id % from 0.65 to 0.90 with an increase of 0.05. Shell scripts used for this are in clusters_files directory (cluste_data.sh and run all clusters.sh). Using a python script we estimate the number and mean size of each clusters. Result plot is in this repository as permutaciones.pdf. Used script is avaible in clusters_files directory.
 
 ~~~
 bin/meshclust ../EST_data/*.fasta --id 0.60 --kmer 5 --delta 5 --output *.clstr --iterations 20 --align --sample 3000 --pivot 40 --threads 1
