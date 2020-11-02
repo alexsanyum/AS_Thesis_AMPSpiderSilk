@@ -1,6 +1,6 @@
 # AS_Thesis_AMPSpiderSilk
 ## EST Data
-All EST data are in EST-data directory. Five spider species data were collected from NCBI-EST database in FASTA format. feature_info file contain information about biosamplre id, spider species, used vector, insertion region, primers and tissue type. 
+To slect data, we focus on samples than contain at least one silk gland in tissue sample. All EST data are in EST-data directory. Five spider species data were collected from NCBI-EST database in FASTA format. feature_info file contain information about biosample id, spider species, used vector, insertion region, primers and tissue type. 
 ## EST Data pre-traetment
 Before all analysis, fasta files where modified using regular expressions to get adequate format for TCGIL cluster tool software. Regular expression used for modified reads was:
 ~~~
@@ -13,12 +13,12 @@ And mathches was replaced to:
 ~~~
 Diffent problems in TGICL package instalation did not allow us to use it. However, EST data keep change name
 ### Vector clipping
-In order to minimize the chance to culster unreleated sequences, we chech if sequences were already taken away vector sequences. NCBi data features does not explai9n any kind of traetment to cut adapters sequences. To check if this was already done we use Figaro and cross_match packages. Figaro use a statistics model to search kmer in 5' sequences, while cross_match use vector sequences to look for adapters sequences in EST data and replace them by "X". 
+In order to minimize the chance to cluster unreleated sequences, we check if sequences were already taken away vector sequences using Figaro and cross_match packages. Figaro use a statistics model to search kmer in 5' sequences, while cross_match use vector sequences to look for adapters sequences in EST data and replace them by "X". 
 Figaro and cross_match were use and no adapters sequencse were found in EST sequences. 
 
 ## EST Data cluster 
 
-In order to specify an optimal identty porcentage to run clustering process we use MeshClust with diifferent identity porcentages (id %). We run differetn clustering process changing id % from 0.65 to 0.90 with an increase of 0.05. Shell scripts used for this are in clusters_files directory (cluste_data.sh and run all clusters.sh). Using a python script we estimate the number and mean size of each clusters. Result plot is in this repository as permutaciones.pdf. Used script is avaible in clusters_files directory.
+In order to specify an optimal identty porcentage to run clustering process we use MeshClust with diifferent identity porcentages (id %). We run differetn clustering process changing id % from 0.65 to 0.90 with an increase of 0.05. Shell scripts used for this are in clusters_files directory ( [a relative link](cluster_data.sh) and run_all_clusters.sh). Using a python script we estimate the number and mean size of each clusters. Result plot is in this repository as permutaciones.pdf. Used script is avaible in clusters_files directory.
 
 ~~~
 bin/meshclust ../EST_data/*.fasta --id 0.60 --kmer 5 --delta 5 --output *.clstr --iterations 20 --align --sample 3000 --pivot 40 --threads 1
