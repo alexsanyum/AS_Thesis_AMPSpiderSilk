@@ -1,0 +1,276 @@
+BLASTP 2.11.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: Non-redundant UniProtKB/SwissProt sequences
+           474,906 sequences; 179,746,915 total letters
+
+
+
+Query= Leucaugevenusta_0_75_5_ORF6
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.342    0.148    0.342    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2156962980
+
+
+Query= Leucaugevenusta_0_75_6_ORF1
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.342    0.148    0.342    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2156962980
+
+
+Query= Leucaugevenusta_0_75_7_ORF1
+
+Length=40
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q54FF3.1 RecName: Full=Ras guanine nucleotide exchange factor K; ...  26.9    4.1  
+
+
+>Q54FF3.1 RecName: Full=Ras guanine nucleotide exchange factor K; AltName: 
+Full=RasGEF domain-containing protein K [Dictyostelium discoideum]
+Length=1557
+
+ Score = 26.9 bits (58),  Expect = 4.1, Method: Compositional matrix adjust.
+ Identities = 14/32 (44%), Positives = 19/32 (59%), Gaps = 4/32 (13%)
+
+Query  13    ATFKSDLPLSSN----YHLLMLLEPRNTFRSN  40
+              TF  D+ +SS     YHL +L EPRN  +S+
+Sbjct  1524  QTFIRDVSISSTSDDLYHLSLLKEPRNALKSD  1555
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.128    0.359    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4500554006
+
+
+Query= Leucaugevenusta_0_75_7_ORF2
+
+Length=33
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q54FF3.1 RecName: Full=Ras guanine nucleotide exchange factor K; ...  26.9    3.0  
+
+
+>Q54FF3.1 RecName: Full=Ras guanine nucleotide exchange factor K; AltName: 
+Full=RasGEF domain-containing protein K [Dictyostelium discoideum]
+Length=1557
+
+ Score = 26.9 bits (58),  Expect = 3.0, Method: Compositional matrix adjust.
+ Identities = 14/31 (45%), Positives = 19/31 (61%), Gaps = 4/31 (13%)
+
+Query  7     TFKSDLPLSSN----YHLLMLLEPRNTFRSN  33
+             TF  D+ +SS     YHL +L EPRN  +S+
+Sbjct  1525  TFIRDVSISSTSDDLYHLSLLKEPRNALKSD  1555
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.129    0.364    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4398691675
+
+
+Query= Leucaugevenusta_0_75_7_ORF3
+
+Length=32
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q54FF3.1 RecName: Full=Ras guanine nucleotide exchange factor K; ...  26.6    3.0  
+
+
+>Q54FF3.1 RecName: Full=Ras guanine nucleotide exchange factor K; AltName: 
+Full=RasGEF domain-containing protein K [Dictyostelium discoideum]
+Length=1557
+
+ Score = 26.6 bits (57),  Expect = 3.0, Method: Compositional matrix adjust.
+ Identities = 14/31 (45%), Positives = 19/31 (61%), Gaps = 4/31 (13%)
+
+Query  6     TFKSDLPLSSN----YHLLMLLEPRNTFRSN  32
+             TF  D+ +SS     YHL +L EPRN  +S+
+Sbjct  1525  TFIRDVSISSTSDDLYHLSLLKEPRNALKSD  1555
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.129    0.364    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4410564325
+
+
+Query= Leucaugevenusta_0_75_7_ORF4
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.134    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2156962980
+
+
+Query= Leucaugevenusta_0_75_7_ORF5
+
+Length=32
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q76FK4.1 RecName: Full=Nucleolar protein 8; AltName: Full=Nucleol...  25.8    6.7  
+
+
+>Q76FK4.1 RecName: Full=Nucleolar protein 8; AltName: Full=Nucleolar protein 
+Nop132 [Homo sapiens]
+Length=1167
+
+ Score = 25.8 bits (55),  Expect = 6.7, Method: Composition-based stats.
+ Identities = 13/30 (43%), Positives = 18/30 (60%), Gaps = 0/30 (0%)
+
+Query  3    DTPCLIQMPSNLAKLSNLTNFPDLFKSYQK  32
+            DT  +I M  N+AK+ N T F  + KS +K
+Sbjct  380  DTDEIIAMKKNVAKVKNSTEFSQMEKSTKK  409
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.134    0.399    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4410564325
+
+
+Query= Leucaugevenusta_0_75_7_ORF6
+
+Length=23
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.129    0.364    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4134179045
+
+
+Query= Leucaugevenusta_0_75_7_ORF8
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.342    0.148    0.342    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2156962980
+
+
+Query= Leucaugevenusta_0_75_7_ORF12
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.302    0.120    0.348    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1078481490
+
+
+  Database: Non-redundant UniProtKB/SwissProt sequences
+    Posted date:  Nov 29, 2020  5:54 AM
+  Number of letters in database: 179,746,915
+  Number of sequences in database:  474,906
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

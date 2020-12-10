@@ -1,0 +1,1316 @@
+BLASTP 2.11.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: Non-redundant UniProtKB/SwissProt sequences
+           474,906 sequences; 179,746,915 total letters
+
+
+
+Query= Leucaugevenusta_2_0_75_25_ORF1
+
+Length=11
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.326    0.127    0.436    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1977216065
+
+
+Query= Leucaugevenusta_2_0_75_25_ORF3
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.331    0.124    0.356    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2156962980
+
+
+Query= Leucaugevenusta_2_0_75_25_ORF9
+
+Length=24
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q605M7.1 RecName: Full=Isoleucine--tRNA ligase; AltName: Full=Iso...  24.6    9.8  
+
+
+>Q605M7.1 RecName: Full=Isoleucine--tRNA ligase; AltName: Full=Isoleucyl-tRNA 
+synthetase; Short=IleRS [Methylococcus capsulatus str. 
+Bath]
+Length=939
+
+ Score = 24.6 bits (52),  Expect = 9.8, Method: Composition-based stats.
+ Identities = 9/22 (41%), Positives = 13/22 (59%), Gaps = 0/22 (0%)
+
+Query  3    FKNLFHQLAFFCRLDVGSSLLD  24
+            F  +F +   FC +D+GS  LD
+Sbjct  710  FNTIFQKTHHFCSVDLGSFYLD  731
+
+
+
+Lambda      K        H        a         alpha
+   0.340    0.148    0.464    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4313925960
+
+
+Query= Leucaugevenusta_2_0_75_25_ORF19
+
+Length=14
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.332    0.132    0.444    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2516456810
+
+
+Query= Leucaugevenusta_2_0_75_3_ORF1
+
+Length=26
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+O29262.1 RecName: Full=NH(3)-dependent NAD(+) synthetase [Archaeo...  28.1    0.72 
+
+
+>O29262.1 RecName: Full=NH(3)-dependent NAD(+) synthetase [Archaeoglobus 
+fulgidus DSM 4304]
+Length=247
+
+ Score = 28.1 bits (61),  Expect = 0.72, Method: Composition-based stats.
+ Identities = 9/23 (39%), Positives = 15/23 (65%), Gaps = 0/23 (0%)
+
+Query  3    RRIVPSSPMQQIWPTQSPKESLG  25
+            RRI+   P  ++WP Q+ +E +G
+Sbjct  175  RRIIEKKPSARLWPGQTDEEEMG  197
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.125    0.383    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4481800225
+
+
+Query= Leucaugevenusta_2_0_75_3_ORF2
+
+Length=25
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+O29262.1 RecName: Full=NH(3)-dependent NAD(+) synthetase [Archaeo...  28.1    0.66 
+
+
+>O29262.1 RecName: Full=NH(3)-dependent NAD(+) synthetase [Archaeoglobus 
+fulgidus DSM 4304]
+Length=247
+
+ Score = 28.1 bits (61),  Expect = 0.66, Method: Composition-based stats.
+ Identities = 9/23 (39%), Positives = 15/23 (65%), Gaps = 0/23 (0%)
+
+Query  2    RRIVPSSPMQQIWPTQSPKESLG  24
+            RRI+   P  ++WP Q+ +E +G
+Sbjct  175  RRIIEKKPSARLWPGQTDEEEMG  197
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.126    0.384    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4493672875
+
+
+Query= Leucaugevenusta_2_0_75_3_ORF3
+
+Length=16
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.304    0.122    0.377    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2875950640
+
+
+Query= Leucaugevenusta_2_0_75_3_ORF9
+
+Length=56
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+P44016.2 RecName: Full=Putative oligopeptide transporter HI_0561 ...  29.6    0.80 
+Q9LN20.1 RecName: Full=Probable prolyl 4-hydroxylase 3; Short=AtP...  27.7    4.5  
+B7K8I7.1 RecName: Full=Probable transcriptional regulatory protei...  27.3    4.9  
+Q8SW90.1 RecName: Full=Uncharacterized membrane protein ECU02_147...  27.3    6.0  
+B5F1U0.1 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.9    8.4  
+B5FQ81.1 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.9    8.4  
+Q57QZ3.2 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.9    8.5  
+B4TRW6.1 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.9    8.5  
+A9N6Y6.1 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.9    8.6  
+P22253.2 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.9    8.6  
+Q8Z7Y9.3 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.9    8.6  
+B4TDS5.1 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.6    9.3  
+
+
+>P44016.2 RecName: Full=Putative oligopeptide transporter HI_0561 [Haemophilus 
+influenzae Rd KW20]
+Length=633
+
+ Score = 29.6 bits (65),  Expect = 0.80, Method: Compositional matrix adjust.
+ Identities = 12/36 (33%), Positives = 22/36 (61%), Gaps = 0/36 (0%)
+
+Query  4    IFALFMLLVVLLAMVEAGVHHYRVKDGGDDEKDSTI  39
+            I A++ LL+++  M+E  VH +R+  GG +  +  I
+Sbjct  237  IAAIWTLLILMKPMIEGMVHSFRMLKGGQEASEHRI  272
+
+
+>Q9LN20.1 RecName: Full=Probable prolyl 4-hydroxylase 3; Short=AtP4H3 [Arabidopsis 
+thaliana]
+Length=287
+
+ Score = 27.7 bits (60),  Expect = 4.5, Method: Composition-based stats.
+ Identities = 15/44 (34%), Positives = 22/44 (50%), Gaps = 0/44 (0%)
+
+Query  1   MKAIFALFMLLVVLLAMVEAGVHHYRVKDGGDDEKDSTIFTDAA  44
+           M  +F LFML +VLL ++  GV    + +      D + F  AA
+Sbjct  18  MLVLFMLFMLTIVLLMLLAFGVFSLPINNDESSPIDLSYFRRAA  61
+
+
+>B7K8I7.1 RecName: Full=Probable transcriptional regulatory protein PCC7424_2775 
+[Gloeothece citriformis PCC 7424]
+Length=255
+
+ Score = 27.3 bits (59),  Expect = 4.9, Method: Composition-based stats.
+ Identities = 14/35 (40%), Positives = 22/35 (63%), Gaps = 1/35 (3%)
+
+Query  12   VVLLAMVEAGVHHYRVKDGGDDEKDSTIFTDAANL  46
+            V+L A VE G   Y + D  D+E+ + +FT+ +NL
+Sbjct  152  VLLDASVEGGADTYEIFDS-DEEQGAEVFTEVSNL  185
+
+
+>Q8SW90.1 RecName: Full=Uncharacterized membrane protein ECU02_1470 [Encephalitozoon 
+cuniculi GB-M1]
+Length=156
+
+ Score = 27.3 bits (59),  Expect = 6.0, Method: Compositional matrix adjust.
+ Identities = 14/34 (41%), Positives = 21/34 (62%), Gaps = 5/34 (15%)
+
+Query  1   MKAIFALFMLL-----VVLLAMVEAGVHHYRVKD  29
+           M AIF L  +L     ++L+ +V AGV+ YRV+ 
+Sbjct  61  MTAIFTLIYVLYRLELIILIGIVAAGVYAYRVRP  94
+
+
+>B5F1U0.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Agona str. 
+SL483]
+Length=400
+
+ Score = 26.9 bits (58),  Expect = 8.4, Method: Composition-based stats.
+ Identities = 12/28 (43%), Positives = 17/28 (61%), Gaps = 0/28 (0%)
+
+Query  7    LFMLLVVLLAMVEAGVHHYRVKDGGDDE  34
+            + M  V LLA++   VHHYR  + G D+
+Sbjct  118  VIMWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>B5FQ81.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Dublin str. 
+CT_02021853]
+ B5QZD8.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Enteritidis 
+str. P125109]
+ B5R8M1.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Gallinarum 
+str. 287/91]
+ C0PXX2.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Paratyphi 
+C str. RKS4594]
+Length=400
+
+ Score = 26.9 bits (58),  Expect = 8.4, Method: Composition-based stats.
+ Identities = 12/28 (43%), Positives = 17/28 (61%), Gaps = 0/28 (0%)
+
+Query  7    LFMLLVVLLAMVEAGVHHYRVKDGGDDE  34
+            + M  V LLA++   VHHYR  + G D+
+Sbjct  118  VIMWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>Q57QZ3.2 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Choleraesuis 
+str. SC-B67]
+Length=400
+
+ Score = 26.9 bits (58),  Expect = 8.5, Method: Composition-based stats.
+ Identities = 12/28 (43%), Positives = 17/28 (61%), Gaps = 0/28 (0%)
+
+Query  7    LFMLLVVLLAMVEAGVHHYRVKDGGDDE  34
+            + M  V LLA++   VHHYR  + G D+
+Sbjct  118  VIMWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>B4TRW6.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Schwarzengrund 
+str. CVM19633]
+Length=400
+
+ Score = 26.9 bits (58),  Expect = 8.5, Method: Composition-based stats.
+ Identities = 12/28 (43%), Positives = 17/28 (61%), Gaps = 0/28 (0%)
+
+Query  7    LFMLLVVLLAMVEAGVHHYRVKDGGDDE  34
+            + M  V LLA++   VHHYR  + G D+
+Sbjct  118  VIMWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>A9N6Y6.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Paratyphi 
+B str. SPB7]
+ B4T172.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Newport str. 
+SL254]
+ B5BBM4.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Paratyphi 
+A str. AKU_12601]
+ Q5PGD8.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Paratyphi 
+A str. ATCC 9150]
+Length=400
+
+ Score = 26.9 bits (58),  Expect = 8.6, Method: Composition-based stats.
+ Identities = 12/28 (43%), Positives = 17/28 (61%), Gaps = 0/28 (0%)
+
+Query  7    LFMLLVVLLAMVEAGVHHYRVKDGGDDE  34
+            + M  V LLA++   VHHYR  + G D+
+Sbjct  118  VIMWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>P22253.2 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Typhimurium 
+str. LT2]
+Length=400
+
+ Score = 26.9 bits (58),  Expect = 8.6, Method: Composition-based stats.
+ Identities = 12/28 (43%), Positives = 17/28 (61%), Gaps = 0/28 (0%)
+
+Query  7    LFMLLVVLLAMVEAGVHHYRVKDGGDDE  34
+            + M  V LLA++   VHHYR  + G D+
+Sbjct  118  VIMWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>Q8Z7Y9.3 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Typhi]
+Length=400
+
+ Score = 26.9 bits (58),  Expect = 8.6, Method: Composition-based stats.
+ Identities = 12/28 (43%), Positives = 17/28 (61%), Gaps = 0/28 (0%)
+
+Query  7    LFMLLVVLLAMVEAGVHHYRVKDGGDDE  34
+            + M  V LLA++   VHHYR  + G D+
+Sbjct  118  VIMWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>B4TDS5.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Heidelberg 
+str. SL476]
+Length=400
+
+ Score = 26.6 bits (57),  Expect = 9.3, Method: Composition-based stats.
+ Identities = 12/28 (43%), Positives = 17/28 (61%), Gaps = 0/28 (0%)
+
+Query  7    LFMLLVVLLAMVEAGVHHYRVKDGGDDE  34
+            + M  V LLA++   VHHYR  + G D+
+Sbjct  118  VIMWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+
+Lambda      K        H        a         alpha
+   0.325    0.140    0.393    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4481315307
+
+
+Query= Leucaugevenusta_2_0_75_3_ORF10
+
+Length=48
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+B5F1U0.1 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.6    7.4  
+Q57QZ3.2 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.6    7.4  
+B5FQ81.1 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.6    7.4  
+B4TRW6.1 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.6    7.4  
+A9N6Y6.1 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.6    7.4  
+P22253.2 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.6    7.4  
+Q8Z7Y9.3 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.6    7.4  
+B4TDS5.1 RecName: Full=Nicotinate phosphoribosyltransferase; Shor...  26.6    8.0  
+
+
+>B5F1U0.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Agona str. 
+SL483]
+Length=400
+
+ Score = 26.6 bits (57),  Expect = 7.4, Method: Composition-based stats.
+ Identities = 12/26 (46%), Positives = 16/26 (62%), Gaps = 0/26 (0%)
+
+Query  1    MLLVVLLAMVEAGVHHYRVKDGGDDE  26
+            M  V LLA++   VHHYR  + G D+
+Sbjct  120  MWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>Q57QZ3.2 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Choleraesuis 
+str. SC-B67]
+Length=400
+
+ Score = 26.6 bits (57),  Expect = 7.4, Method: Composition-based stats.
+ Identities = 12/26 (46%), Positives = 16/26 (62%), Gaps = 0/26 (0%)
+
+Query  1    MLLVVLLAMVEAGVHHYRVKDGGDDE  26
+            M  V LLA++   VHHYR  + G D+
+Sbjct  120  MWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>B5FQ81.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Dublin str. 
+CT_02021853]
+ B5QZD8.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Enteritidis 
+str. P125109]
+ B5R8M1.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Gallinarum 
+str. 287/91]
+ C0PXX2.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Paratyphi 
+C str. RKS4594]
+Length=400
+
+ Score = 26.6 bits (57),  Expect = 7.4, Method: Composition-based stats.
+ Identities = 12/26 (46%), Positives = 16/26 (62%), Gaps = 0/26 (0%)
+
+Query  1    MLLVVLLAMVEAGVHHYRVKDGGDDE  26
+            M  V LLA++   VHHYR  + G D+
+Sbjct  120  MWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>B4TRW6.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Schwarzengrund 
+str. CVM19633]
+Length=400
+
+ Score = 26.6 bits (57),  Expect = 7.4, Method: Composition-based stats.
+ Identities = 12/26 (46%), Positives = 16/26 (62%), Gaps = 0/26 (0%)
+
+Query  1    MLLVVLLAMVEAGVHHYRVKDGGDDE  26
+            M  V LLA++   VHHYR  + G D+
+Sbjct  120  MWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>A9N6Y6.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Paratyphi 
+B str. SPB7]
+ B4T172.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Newport str. 
+SL254]
+ B5BBM4.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Paratyphi 
+A str. AKU_12601]
+ Q5PGD8.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Paratyphi 
+A str. ATCC 9150]
+Length=400
+
+ Score = 26.6 bits (57),  Expect = 7.4, Method: Composition-based stats.
+ Identities = 12/26 (46%), Positives = 16/26 (62%), Gaps = 0/26 (0%)
+
+Query  1    MLLVVLLAMVEAGVHHYRVKDGGDDE  26
+            M  V LLA++   VHHYR  + G D+
+Sbjct  120  MWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>P22253.2 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Typhimurium 
+str. LT2]
+Length=400
+
+ Score = 26.6 bits (57),  Expect = 7.4, Method: Composition-based stats.
+ Identities = 12/26 (46%), Positives = 16/26 (62%), Gaps = 0/26 (0%)
+
+Query  1    MLLVVLLAMVEAGVHHYRVKDGGDDE  26
+            M  V LLA++   VHHYR  + G D+
+Sbjct  120  MWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>Q8Z7Y9.3 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Typhi]
+Length=400
+
+ Score = 26.6 bits (57),  Expect = 7.4, Method: Composition-based stats.
+ Identities = 12/26 (46%), Positives = 16/26 (62%), Gaps = 0/26 (0%)
+
+Query  1    MLLVVLLAMVEAGVHHYRVKDGGDDE  26
+            M  V LLA++   VHHYR  + G D+
+Sbjct  120  MWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+>B4TDS5.1 RecName: Full=Nicotinate phosphoribosyltransferase; Short=NAPRTase 
+[Salmonella enterica subsp. enterica serovar Heidelberg 
+str. SL476]
+Length=400
+
+ Score = 26.6 bits (57),  Expect = 8.0, Method: Composition-based stats.
+ Identities = 12/26 (46%), Positives = 16/26 (62%), Gaps = 0/26 (0%)
+
+Query  1    MLLVVLLAMVEAGVHHYRVKDGGDDE  26
+            M  V LLA++   VHHYR  + G D+
+Sbjct  120  MWEVPLLAVISELVHHYRSPNAGVDQ  145
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.138    0.386    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4401773558
+
+
+Query= Leucaugevenusta_2_0_75_3_ORF11
+
+Length=40
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+F4HTM3.1 RecName: Full=Mannosyl-oligosaccharide glucosidase GCS1;...  26.2    7.4  
+
+
+>F4HTM3.1 RecName: Full=Mannosyl-oligosaccharide glucosidase GCS1; AltName: 
+Full=Alpha-glucosidase 1; Short=Glucosidase 1; AltName: 
+Full=Protein KNOPF; AltName: Full=Protein MUNCHKIN [Arabidopsis 
+thaliana]
+Length=852
+
+ Score = 26.2 bits (56),  Expect = 7.4, Method: Composition-based stats.
+ Identities = 12/40 (30%), Positives = 23/40 (58%), Gaps = 1/40 (3%)
+
+Query  1    MVEAGVHHYRVKDGGDDEKDSTIFTD-AANLADSVAKGIF  39
+            M+ + ++HY + DG   EK   I+T+  +NL  +V +  +
+Sbjct  773  MILSSLYHYSIVDGPYREKSKAIYTELRSNLIRNVVRNYY  812
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.135    0.385    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4500554006
+
+
+Query= Leucaugevenusta_2_0_75_30_ORF1
+
+Length=33
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q4UM73.1 RecName: Full=tRNA-specific 2-thiouridylase MnmA [Ricket...  25.4    9.0  
+
+
+>Q4UM73.1 RecName: Full=tRNA-specific 2-thiouridylase MnmA [Rickettsia 
+felis URRWXCal2]
+Length=365
+
+ Score = 25.4 bits (54),  Expect = 9.0, Method: Composition-based stats.
+ Identities = 9/25 (36%), Positives = 16/25 (64%), Gaps = 0/25 (0%)
+
+Query  5    NSKIRIIYIGPNSGLRRKKVVLSNI  29
+            + K  I+Y+GP S L  ++ ++ NI
+Sbjct  267  DPKDNIVYVGPESALHVQEFIIKNI  291
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.140    0.415    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4398691675
+
+
+Query= Leucaugevenusta_2_0_75_30_ORF3
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.338    0.134    0.327    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2156962980
+
+
+Query= Leucaugevenusta_2_0_75_33_ORF1
+
+Length=25
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.130    0.459    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4493672875
+
+
+Query= Leucaugevenusta_2_0_75_33_ORF2
+
+Length=8
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.121    0.331    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1437975320
+
+
+Query= Leucaugevenusta_2_0_75_33_ORF3
+
+Length=21
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+A1L4V7.1 RecName: Full=D-cysteine desulfhydrase 2, mitochondrial;...  25.4    4.9  
+
+
+>A1L4V7.1 RecName: Full=D-cysteine desulfhydrase 2, mitochondrial; AltName: 
+Full=AtD-CDes1; Short=D-CDes1; Flags: Precursor [Arabidopsis 
+thaliana]
+Length=427
+
+ Score = 25.4 bits (54),  Expect = 4.9, Method: Composition-based stats.
+ Identities = 8/14 (57%), Positives = 9/14 (64%), Gaps = 0/14 (0%)
+
+Query  5   FLTIESKCNFHHFH  18
+           FL +  K N HHFH
+Sbjct  8   FLAVTGKSNLHHFH  21
+
+
+
+Lambda      K        H        a         alpha
+   0.345    0.146    0.578    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3774685215
+
+
+Query= Leucaugevenusta_2_0_75_33_ORF5
+
+Length=43
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.309    0.119    0.343    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4463511338
+
+
+Query= Leucaugevenusta_2_0_75_52_ORF1
+
+Length=7
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.325    0.113    0.266    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1258228405
+
+
+Query= Leucaugevenusta_2_0_75_52_ORF2
+
+Length=16
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.136    0.411    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 2875950640
+
+
+Query= Leucaugevenusta_2_0_75_52_ORF3
+
+Length=23
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.309    0.119    0.321    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4134179045
+
+
+Query= Leucaugevenusta_2_0_75_52_ORF4
+
+Length=26
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.300    0.131    0.356    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4481800225
+
+
+Query= Leucaugevenusta_2_0_75_52_ORF7
+
+Length=17
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.140    0.360    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3055697555
+
+
+Query= Leucaugevenusta_2_0_75_67_ORF1
+
+Length=27
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q9D6S7.1 RecName: Full=Ribosome-recycling factor, mitochondrial; ...  27.3    1.6  
+
+
+>Q9D6S7.1 RecName: Full=Ribosome-recycling factor, mitochondrial; Short=RRF; 
+AltName: Full=Ribosome-releasing factor, mitochondrial; 
+Flags: Precursor [Mus musculus]
+Length=262
+
+ Score = 27.3 bits (59),  Expect = 1.6, Method: Composition-based stats.
+ Identities = 10/21 (48%), Positives = 14/21 (67%), Gaps = 0/21 (0%)
+
+Query  3   CLRPLHISFVGFHASLSAPAS  23
+           C R LH +F  +HA+L+ P S
+Sbjct  7   CFRLLHPAFRSYHAALTRPVS  27
+
+
+
+Lambda      K        H        a         alpha
+   0.332    0.137    0.453    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4469927575
+
+
+Query= Leucaugevenusta_2_0_75_67_ORF2
+
+Length=27
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q9D6S7.1 RecName: Full=Ribosome-recycling factor, mitochondrial; ...  28.5    0.51 
+
+
+>Q9D6S7.1 RecName: Full=Ribosome-recycling factor, mitochondrial; Short=RRF; 
+AltName: Full=Ribosome-releasing factor, mitochondrial; 
+Flags: Precursor [Mus musculus]
+Length=262
+
+ Score = 28.5 bits (62),  Expect = 0.51, Method: Composition-based stats.
+ Identities = 11/21 (52%), Positives = 14/21 (67%), Gaps = 0/21 (0%)
+
+Query  3   CLRPLHHLFRRFHASLSAPAS  23
+           C R LH  FR +HA+L+ P S
+Sbjct  7   CFRLLHPAFRSYHAALTRPVS  27
+
+
+
+Lambda      K        H        a         alpha
+   0.337    0.139    0.479    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4469927575
+
+
+Query= Leucaugevenusta_2_0_75_67_ORF3
+
+Length=69
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+P51706.1 RecName: Full=Uncharacterized 19.2 kDa protein in cox-re...  32.0    0.19 
+O23651.1 RecName: Full=Terpenoid synthase 1; Short=AtTPS01 [Arabi...  31.6    0.25 
+P24583.3 RecName: Full=Protein kinase C-like 1; Short=PKC 1 [Sacc...  29.6    1.3  
+Q65730.1 RecName: Full=Genome polyprotein; Contains: RecName: Ful...  29.6    1.5  
+P46314.1 RecName: Full=Uncharacterized protein ycf23 [Antithamnio...  28.9    2.9  
+P32898.2 RecName: Full=Mitochondrial presequence protease; AltNam...  28.5    3.4  
+C7YTL6.1 RecName: Full=rRNA biogenesis protein RRP36; AltName: Fu...  28.1    4.4  
+P22579.2 RecName: Full=Transcriptional regulatory protein SIN3 [S...  27.7    6.7  
+P48825.1 RecName: Full=Beta-glucosidase 1; AltName: Full=Beta-D-g...  27.7    7.9  
+
+
+>P51706.1 RecName: Full=Uncharacterized 19.2 kDa protein in cox-rep intergenic 
+region; AltName: Full=ORF21; AltName: Full=ORF5 [Haemophilus 
+phage HP1c1]
+Length=167
+
+ Score = 32.0 bits (71),  Expect = 0.19, Method: Compositional matrix adjust.
+ Identities = 15/39 (38%), Positives = 22/39 (56%), Gaps = 0/39 (0%)
+
+Query  8   PRMHAHNPDPPHPSTSAQHPPLTSLRASPQPSSRVSHSL  46
+           PR  A+N +     T A+H  +  L AS + S+R +HSL
+Sbjct  60  PRKQANNDETTSQYTGAEHQAIRDLFASLKQSAREAHSL  98
+
+
+>O23651.1 RecName: Full=Terpenoid synthase 1; Short=AtTPS01 [Arabidopsis 
+thaliana]
+Length=598
+
+ Score = 31.6 bits (70),  Expect = 0.25, Method: Composition-based stats.
+ Identities = 19/56 (34%), Positives = 27/56 (48%), Gaps = 14/56 (25%)
+
+Query  18  PHPSTSAQHPPLTSLRASP------QPSSRVSHSLPATRFCCSVPHILRHHFPSSQ  67
+           PH S S QH  L  ++A+P      Q S+R    LP +++         HHF S+Q
+Sbjct  38  PHKSFSGQHGKLVRMKATPTRACHDQESNRKFKRLPLSKW--------GHHFLSAQ  85
+
+
+>P24583.3 RecName: Full=Protein kinase C-like 1; Short=PKC 1 [Saccharomyces 
+cerevisiae S288C]
+Length=1151
+
+ Score = 29.6 bits (65),  Expect = 1.3, Method: Composition-based stats.
+ Identities = 16/42 (38%), Positives = 18/42 (43%), Gaps = 3/42 (7%)
+
+Query  3    PYLPQPRMHAHNPDPP---HPSTSAQHPPLTSLRASPQPSSR  41
+            P  PQPR H   P P      S + QH P+   R S Q   R
+Sbjct  588  PLPPQPRKHDKTPSPQKVGRDSPTKQHDPIIDKRISLQTHGR  629
+
+
+>Q65730.1 RecName: Full=Genome polyprotein; Contains: RecName: Full=P1 
+proteinase; AltName: Full=N-terminal protein; Contains: RecName: 
+Full=Helper component proteinase; Short=HC-pro; Contains: 
+RecName: Full=Protein P3; Contains: RecName: Full=6 kDa protein 
+1; Short=6K1; Contains: RecName: Full=Cytoplasmic inclusion 
+protein; Short=CI; Contains: RecName: Full=6 kDa protein 
+2; Short=6K2; Contains: RecName: Full=Viral genome-linked 
+protein; AltName: Full=VPg; Contains: RecName: Full=Nuclear 
+inclusion protein A; Short=NI-a; Short=NIa; AltName: Full=49 
+kDa proteinase; Short=49 kDa-Pro; AltName: Full=NIa-pro; 
+Contains: RecName: Full=Nuclear inclusion protein B; Short=NI-b; 
+Short=NIb; AltName: Full=RNA-directed RNA polymerase; Contains: 
+RecName: Full=Coat protein; Short=CP [Brome streak 
+virus (strain 11-Cal)]
+Length=3093
+
+ Score = 29.6 bits (65),  Expect = 1.5, Method: Composition-based stats.
+ Identities = 14/33 (42%), Positives = 17/33 (52%), Gaps = 0/33 (0%)
+
+Query  15    PDPPHPSTSAQHPPLTSLRASPQPSSRVSHSLP  47
+             P P   STS   PP   LRA+P+   +V   LP
+Sbjct  2860  PVPTRKSTSLYLPPKVKLRATPERIEKVRKYLP  2892
+
+
+>P46314.1 RecName: Full=Uncharacterized protein ycf23 [Antithamnion sp.]
+Length=277
+
+ Score = 28.9 bits (63),  Expect = 2.9, Method: Composition-based stats.
+ Identities = 10/22 (45%), Positives = 15/22 (68%), Gaps = 0/22 (0%)
+
+Query  41   RVSHSLPATRFCCSVPHILRHH  62
+            +V + LP T  C ++PHIL+ H
+Sbjct  114  QVKYLLPYTDICVTIPHILKLH  135
+
+
+>P32898.2 RecName: Full=Mitochondrial presequence protease; AltName: Full=Cytosolic 
+metalloprotease 1; AltName: Full=Metalloprotease 
+of 112 kDa [Saccharomyces cerevisiae S288C]
+Length=989
+
+ Score = 28.5 bits (62),  Expect = 3.4, Method: Composition-based stats.
+ Identities = 20/73 (27%), Positives = 30/73 (41%), Gaps = 10/73 (14%)
+
+Query  1    MRPYLPQPRMHAHNPDPPHPSTSAQHPPL----------TSLRASPQPSSRVSHSLPATR  50
+            +R  LP P +     D  H  T A+H  +           + + +P  S+ V H L  T 
+Sbjct  31   VRRILPVPELRLTAVDLVHSQTGAEHLHIDRDDKNNVFSIAFKTNPPDSTGVPHILEHTT  90
+
+Query  51   FCCSVPHILRHHF  63
+             C SV + +R  F
+Sbjct  91   LCGSVKYPVRDPF  103
+
+
+>C7YTL6.1 RecName: Full=rRNA biogenesis protein RRP36; AltName: Full=Ribosomal 
+RNA-processing protein 36 [Fusarium vanettenii 77-13-4]
+Length=310
+
+ Score = 28.1 bits (61),  Expect = 4.4, Method: Composition-based stats.
+ Identities = 16/45 (36%), Positives = 21/45 (47%), Gaps = 2/45 (4%)
+
+Query  6    PQPRMHAHNPDPPHPSTSAQHPPLTSLRASPQPSSRVSHSLPATR  50
+            P PR    + D P P  S++H P    + S +P SR    LP  R
+Sbjct  119  PAPRKSTRSKDDPKPKRSSKHAP--QEQTSKKPVSRRREILPDNR  161
+
+
+>P22579.2 RecName: Full=Transcriptional regulatory protein SIN3 [Saccharomyces 
+cerevisiae S288C]
+Length=1536
+
+ Score = 27.7 bits (60),  Expect = 6.7, Method: Composition-based stats.
+ Identities = 11/32 (34%), Positives = 19/32 (59%), Gaps = 0/32 (0%)
+
+Query  4    YLPQPRMHAHNPDPPHPSTSAQHPPLTSLRAS  35
+            ++P P +  H P+  H   + ++PPL+ LR S
+Sbjct  571  FMPLPSIVQHGPNMVHQGIANENPPLSDLRTS  602
+
+
+>P48825.1 RecName: Full=Beta-glucosidase 1; AltName: Full=Beta-D-glucoside 
+glucohydrolase; AltName: Full=Cellobiase; AltName: Full=Gentiobiase; 
+Flags: Precursor [Aspergillus aculeatus]
+Length=860
+
+ Score = 27.7 bits (60),  Expect = 7.9, Method: Composition-based stats.
+ Identities = 12/36 (33%), Positives = 19/36 (53%), Gaps = 0/36 (0%)
+
+Query  3    PYLPQPRMHAHNPDPPHPSTSAQHPPLTSLRASPQP  38
+            P+L    + A + DP +   +A+H P  +   SPQP
+Sbjct  709  PWLNSTDLKASSGDPYYGVDTAEHVPEGATDGSPQP  744
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.131    0.443    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4487721532
+
+
+Query= Leucaugevenusta_2_0_75_67_ORF4
+
+Length=60
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+O23651.1 RecName: Full=Terpenoid synthase 1; Short=AtTPS01 [Arabi...  31.6    0.18 
+Q65730.1 RecName: Full=Genome polyprotein; Contains: RecName: Ful...  29.6    1.1  
+P46314.1 RecName: Full=Uncharacterized protein ycf23 [Antithamnio...  28.9    2.1  
+P51706.1 RecName: Full=Uncharacterized 19.2 kDa protein in cox-re...  28.1    3.5  
+Q00709.1 RecName: Full=Apoptosis regulator Bcl-2 [Gallus gallus]      26.9    9.1  
+
+
+>O23651.1 RecName: Full=Terpenoid synthase 1; Short=AtTPS01 [Arabidopsis 
+thaliana]
+Length=598
+
+ Score = 31.6 bits (70),  Expect = 0.18, Method: Composition-based stats.
+ Identities = 19/56 (34%), Positives = 27/56 (48%), Gaps = 14/56 (25%)
+
+Query  9   PHPSTSAQHPPLTSLRASP------QPSSRVSHSLPATRFCCSVPHILRHHFPSSQ  58
+           PH S S QH  L  ++A+P      Q S+R    LP +++         HHF S+Q
+Sbjct  38  PHKSFSGQHGKLVRMKATPTRACHDQESNRKFKRLPLSKW--------GHHFLSAQ  85
+
+
+>Q65730.1 RecName: Full=Genome polyprotein; Contains: RecName: Full=P1 
+proteinase; AltName: Full=N-terminal protein; Contains: RecName: 
+Full=Helper component proteinase; Short=HC-pro; Contains: 
+RecName: Full=Protein P3; Contains: RecName: Full=6 kDa protein 
+1; Short=6K1; Contains: RecName: Full=Cytoplasmic inclusion 
+protein; Short=CI; Contains: RecName: Full=6 kDa protein 
+2; Short=6K2; Contains: RecName: Full=Viral genome-linked 
+protein; AltName: Full=VPg; Contains: RecName: Full=Nuclear 
+inclusion protein A; Short=NI-a; Short=NIa; AltName: Full=49 
+kDa proteinase; Short=49 kDa-Pro; AltName: Full=NIa-pro; 
+Contains: RecName: Full=Nuclear inclusion protein B; Short=NI-b; 
+Short=NIb; AltName: Full=RNA-directed RNA polymerase; Contains: 
+RecName: Full=Coat protein; Short=CP [Brome streak 
+virus (strain 11-Cal)]
+Length=3093
+
+ Score = 29.6 bits (65),  Expect = 1.1, Method: Composition-based stats.
+ Identities = 14/33 (42%), Positives = 17/33 (52%), Gaps = 0/33 (0%)
+
+Query  6     PDPPHPSTSAQHPPLTSLRASPQPSSRVSHSLP  38
+             P P   STS   PP   LRA+P+   +V   LP
+Sbjct  2860  PVPTRKSTSLYLPPKVKLRATPERIEKVRKYLP  2892
+
+
+>P46314.1 RecName: Full=Uncharacterized protein ycf23 [Antithamnion sp.]
+Length=277
+
+ Score = 28.9 bits (63),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 10/22 (45%), Positives = 15/22 (68%), Gaps = 0/22 (0%)
+
+Query  32   RVSHSLPATRFCCSVPHILRHH  53
+            +V + LP T  C ++PHIL+ H
+Sbjct  114  QVKYLLPYTDICVTIPHILKLH  135
+
+
+>P51706.1 RecName: Full=Uncharacterized 19.2 kDa protein in cox-rep intergenic 
+region; AltName: Full=ORF21; AltName: Full=ORF5 [Haemophilus 
+phage HP1c1]
+Length=167
+
+ Score = 28.1 bits (61),  Expect = 3.5, Method: Compositional matrix adjust.
+ Identities = 13/36 (36%), Positives = 20/36 (56%), Gaps = 0/36 (0%)
+
+Query  2   HAHNPDPPHPSTSAQHPPLTSLRASPQPSSRVSHSL  37
+            A+N +     T A+H  +  L AS + S+R +HSL
+Sbjct  63  QANNDETTSQYTGAEHQAIRDLFASLKQSAREAHSL  98
+
+
+>Q00709.1 RecName: Full=Apoptosis regulator Bcl-2 [Gallus gallus]
+Length=233
+
+ Score = 26.9 bits (58),  Expect = 9.1, Method: Composition-based stats.
+ Identities = 9/24 (38%), Positives = 15/24 (63%), Gaps = 0/24 (0%)
+
+Query  4   HNPDPPHPSTSAQHPPLTSLRASP  27
+           H P+PP  + +++ PP   LR +P
+Sbjct  61  HRPEPPGSAAASEVPPAEGLRPAP  84
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.128    0.431    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4430025459
+
+
+Query= Leucaugevenusta_2_0_75_7_ORF2
+
+Length=29
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+J3SBQ3.1 RecName: Full=Inactive snake venom serine proteinase 13;...  25.0    9.9  
+
+
+>J3SBQ3.1 RecName: Full=Inactive snake venom serine proteinase 13; Short=SVSP; 
+Flags: Precursor [Crotalus adamanteus]
+Length=262
+
+ Score = 25.0 bits (53),  Expect = 9.9, Method: Composition-based stats.
+ Identities = 8/24 (33%), Positives = 14/24 (58%), Gaps = 0/24 (0%)
+
+Query  2    RFYCSGKRNFVRWKLLQSILSLNL  25
+            +F+C   RNF +W     ++ LN+
+Sbjct  94   KFFCLSSRNFTKWDKDIMLIRLNI  117
+
+
+
+Lambda      K        H        a         alpha
+   0.334    0.145    0.466    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4446182275
+
+
+Query= Leucaugevenusta_2_0_75_7_ORF3
+
+Length=55
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q3TRM4.2 RecName: Full=Patatin-like phospholipase domain-containi...  28.9    1.7  
+C1JJY6.1 RecName: Full=Uncharacterized protein 7 [Halorubrum pleo...  27.7    3.4  
+P16154.2 RecName: Full=Toxin A; Contains: RecName: Full=Glucosylt...  27.7    3.5  
+Q6XQG9.1 RecName: Full=Galactose-3-O-sulfotransferase 2; Short=Ga...  27.7    4.1  
+Q9H3Q3.2 RecName: Full=Galactose-3-O-sulfotransferase 2; Short=Ga...  27.3    4.7  
+
+
+>Q3TRM4.2 RecName: Full=Patatin-like phospholipase domain-containing protein 
+6; AltName: Full=Neuropathy target esterase [Mus musculus]
+Length=1355
+
+ Score = 28.9 bits (63),  Expect = 1.7, Method: Composition-based stats.
+ Identities = 15/38 (39%), Positives = 22/38 (58%), Gaps = 1/38 (3%)
+
+Query  1    MRIFPNHIFYAAVVASPAVVASGAAVVSSAYAPEARSM  38
+            +RI  +H FY  + A P+VV S A  V++  +P  R M
+Sbjct  586  LRISKSH-FYEIMRAQPSVVLSAAHTVAARMSPFVRQM  622
+
+
+>C1JJY6.1 RecName: Full=Uncharacterized protein 7 [Halorubrum pleomorphic 
+virus 1]
+Length=270
+
+ Score = 27.7 bits (60),  Expect = 3.4, Method: Composition-based stats.
+ Identities = 16/47 (34%), Positives = 26/47 (55%), Gaps = 2/47 (4%)
+
+Query  9   FYAAVVASPAVVASGAAVVSSAYAPEARSMMALTATAMYEKNFIFKV  55
+           F AAV ASP    +G+ VV   Y P+   ++ L+A    EK  ++++
+Sbjct  55  FLAAVFASPIAYYTGSTVVRWLYDPKWLYLIDLSAAE--EKGSLYRL  99
+
+
+>P16154.2 RecName: Full=Toxin A; Contains: RecName: Full=Glucosyltransferase 
+TcdA [Clostridioides difficile]
+Length=2710
+
+ Score = 27.7 bits (60),  Expect = 3.5, Method: Composition-based stats.
+ Identities = 12/50 (24%), Positives = 24/50 (48%), Gaps = 0/50 (0%)
+
+Query  2    RIFPNHIFYAAVVASPAVVASGAAVVSSAYAPEARSMMALTATAMYEKNF  51
+            +IF + +F +A   +   +   A  +   + PEARS ++L+    Y   +
+Sbjct  428  KIFHDSLFNSATAENSMFLTKIAPYLQVGFMPEARSTISLSGPGAYASAY  477
+
+
+>Q6XQG9.1 RecName: Full=Galactose-3-O-sulfotransferase 2; Short=Gal3ST-2; 
+AltName: Full=Beta-galactose-3-O-sulfotransferase 2; AltName: 
+Full=Gal-beta-1, 3-GalNAc 3'-sulfotransferase 2 [Sus scrofa]
+Length=398
+
+ Score = 27.7 bits (60),  Expect = 4.1, Method: Composition-based stats.
+ Identities = 10/42 (24%), Positives = 21/42 (50%), Gaps = 0/42 (0%)
+
+Query  2    RIFPNHIFYAAVVASPAVVASGAAVVSSAYAPEARSMMALTA  43
+            ++ PN  FY +++ +P      + +    Y P  R +++L A
+Sbjct  129  KVMPNDTFYFSILRNPVFQLESSFIYYKGYVPAFRDVVSLEA  170
+
+
+>Q9H3Q3.2 RecName: Full=Galactose-3-O-sulfotransferase 2; Short=Gal3ST-2; 
+AltName: Full=Beta-galactose-3-O-sulfotransferase 2; AltName: 
+Full=Gal-beta-1, 3-GalNAc 3'-sulfotransferase 2; AltName: 
+Full=Glycoprotein beta-Gal 3'-sulfotransferase 2 [Homo sapiens]
+Length=398
+
+ Score = 27.3 bits (59),  Expect = 4.7, Method: Composition-based stats.
+ Identities = 12/50 (24%), Positives = 22/50 (44%), Gaps = 0/50 (0%)
+
+Query  2    RIFPNHIFYAAVVASPAVVASGAAVVSSAYAPEARSMMALTATAMYEKNF  51
+            ++ PN  FY +++ +P      + +    YAP  R   +L A     + F
+Sbjct  128  KVMPNDTFYFSILRNPVFQLESSFIYYKTYAPAFRGAPSLDAFLASPRTF  177
+
+
+
+Lambda      K        H        a         alpha
+   0.325    0.128    0.352    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4494137769
+
+
+Query= Leucaugevenusta_2_0_75_7_ORF4
+
+Length=18
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.334    0.132    0.357    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3235444470
+
+
+Query= Leucaugevenusta_2_0_75_7_ORF5
+
+Length=17
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.332    0.132    0.357    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3055697555
+
+
+Query= Leucaugevenusta_2_0_75_7_ORF8
+
+Length=7
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.326    0.133    0.352    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1258228405
+
+
+  Database: Non-redundant UniProtKB/SwissProt sequences
+    Posted date:  Nov 29, 2020  5:54 AM
+  Number of letters in database: 179,746,915
+  Number of sequences in database:  474,906
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
