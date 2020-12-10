@@ -1,0 +1,1480 @@
+BLASTP 2.11.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: lamp
+           22,533 sequences; 644,227 total letters
+
+
+
+Query= Latrodectushesperus_0_75_103_ORF3
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.309    0.127    0.327    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7730724
+
+
+Query= Latrodectushesperus_0_75_103_ORF8
+
+Length=7
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.144    0.400    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4509589
+
+
+Query= Latrodectushesperus_0_75_103_ORF9
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.347    0.144    0.448    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= Latrodectushesperus_0_75_110_ORF1
+
+Length=15
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.329    0.138    0.422    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 9663405
+
+
+Query= Latrodectushesperus_0_75_111_ORF1
+
+Length=20
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L11A010955| unnamed protein product                                   17.3    6.9  
+
+
+>L11A010955| unnamed protein product
+Length=20
+
+ Score = 17.3 bits (33),  Expect = 6.9, Method: Compositional matrix adjust.
+ Identities = 6/9 (67%), Positives = 8/9 (89%), Gaps = 0/9 (0%)
+
+Query  1   MPSARGFAI  9
+           MP+ARG +I
+Sbjct  12  MPNARGCSI  20
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.128    0.360    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12884540
+
+
+Query= Latrodectushesperus_0_75_111_ORF5
+
+Length=59
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.308    0.122    0.351    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16159708
+
+
+Query= Latrodectushesperus_0_75_111_ORF6
+
+Length=51
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L11A008441| unnamed protein product                                   19.2    7.0  
+L12A11192| unnamed protein product                                    19.2    7.8  
+L11A002030| unnamed protein product                                   18.9    9.6  
+
+
+>L11A008441| unnamed protein product
+Length=42
+
+ Score = 19.2 bits (38),  Expect = 7.0, Method: Compositional matrix adjust.
+ Identities = 11/26 (42%), Positives = 12/26 (46%), Gaps = 3/26 (12%)
+
+Query  14  RLACQVREAS---RSAEEKMTADIKN  36
+           RLAC   EAS   +   E M   I N
+Sbjct  15  RLACFAHEASVGQKECAEGMLCCIPN  40
+
+
+>L12A11192| unnamed protein product
+Length=41
+
+ Score = 19.2 bits (38),  Expect = 7.8, Method: Compositional matrix adjust.
+ Identities = 11/26 (42%), Positives = 12/26 (46%), Gaps = 3/26 (12%)
+
+Query  14  RLACQVREAS---RSAEEKMTADIKN  36
+           RLAC   EAS   +   E M   I N
+Sbjct  15  RLACFAHEASVGQKECAEGMLCCIPN  40
+
+
+>L11A002030| unnamed protein product
+Length=34
+
+ Score = 18.9 bits (37),  Expect = 9.6, Method: Compositional matrix adjust.
+ Identities = 6/16 (38%), Positives = 11/16 (69%), Gaps = 0/16 (0%)
+
+Query  10  EKANRLACQVREASRS  25
+           EKA R+ C++++  R 
+Sbjct  19  EKAERIWCKIKDIFRG  34
+
+
+
+Lambda      K        H        a         alpha
+   0.310    0.121    0.345    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15854560
+
+
+Query= Latrodectushesperus_0_75_111_ORF7
+
+Length=22
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.128    0.422    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 14172994
+
+
+Query= Latrodectushesperus_0_75_111_ORF11
+
+Length=26
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L13A26919| unnamed protein product                                    20.0    0.87 
+L13A22299| unnamed protein product                                    17.7    8.7  
+L11A010491| unnamed protein product                                   17.7    8.7  
+
+
+>L13A26919| unnamed protein product
+Length=18
+
+ Score = 20.0 bits (40),  Expect = 0.87, Method: Compositional matrix adjust.
+ Identities = 8/14 (57%), Positives = 8/14 (57%), Gaps = 0/14 (0%)
+
+Query  8   RQIDWHAKCERLRD  21
+           R IDW   CE L D
+Sbjct  3   RLIDWDWICEVLSD  16
+
+
+>L13A22299| unnamed protein product
+Length=15
+
+ Score = 17.7 bits (34),  Expect = 8.7, Method: Compositional matrix adjust.
+ Identities = 6/12 (50%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+
+Query  14  AKCERLRDQQKR  25
+           A CE++ D Q R
+Sbjct  2   ATCEQIADSQHR  13
+
+
+>L11A010491| unnamed protein product
+Length=18
+
+ Score = 17.7 bits (34),  Expect = 8.7, Method: Compositional matrix adjust.
+ Identities = 6/8 (75%), Positives = 7/8 (88%), Gaps = 0/8 (0%)
+
+Query  8   RQIDWHAK  15
+           R+I WHAK
+Sbjct  8   RKIPWHAK  15
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.131    0.422    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16749902
+
+
+Query= Latrodectushesperus_0_75_111_ORF12
+
+Length=9
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.285   0.0966    0.232    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5798043
+
+
+Query= Latrodectushesperus_0_75_113_ORF2
+
+Length=44
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A06392| unnamed protein product                                    20.0    5.0  
+
+
+>L12A06392| unnamed protein product
+Length=87
+
+ Score = 20.0 bits (40),  Expect = 5.0, Method: Compositional matrix adjust.
+ Identities = 8/30 (27%), Positives = 15/30 (50%), Gaps = 0/30 (0%)
+
+Query  12  VPRKTRRRKNKTIISTFHYINLNFELIILC  41
+           +P++T+R  +  I     Y   NF+  + C
+Sbjct  56  IPKRTKRDSHFPICIFCCYCCGNFKCGVCC  85
+
+
+
+Lambda      K        H        a         alpha
+   0.330    0.137    0.421    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16702668
+
+
+Query= Latrodectushesperus_0_75_113_ORF3
+
+Length=63
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L13A19083| unnamed protein product                                    24.6    0.079
+L12A07013| unnamed protein product                                    25.0    0.091
+
+
+>L13A19083| unnamed protein product
+Length=28
+
+ Score = 24.6 bits (52),  Expect = 0.079, Method: Compositional matrix adjust.
+ Identities = 9/20 (45%), Positives = 12/20 (60%), Gaps = 0/20 (0%)
+
+Query  39  AFRANLKSVGPSTNSSSTKC  58
+           AFRAN  ++GP     S +C
+Sbjct  9   AFRANFANLGPGIRCKSARC  28
+
+
+>L12A07013| unnamed protein product
+Length=71
+
+ Score = 25.0 bits (53),  Expect = 0.091, Method: Compositional matrix adjust.
+ Identities = 9/21 (43%), Positives = 12/21 (57%), Gaps = 0/21 (0%)
+
+Query  38  NAFRANLKSVGPSTNSSSTKC  58
+            AFRAN  ++GP     S +C
+Sbjct  51  TAFRANFANLGPGIRCKSARC  71
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.128    0.361    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16109485
+
+
+Query= Latrodectushesperus_0_75_113_ORF4
+
+Length=34
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L13A19083| unnamed protein product                                    24.6    0.025
+L12A07013| unnamed protein product                                    24.6    0.041
+
+
+>L13A19083| unnamed protein product
+Length=28
+
+ Score = 24.6 bits (52),  Expect = 0.025, Method: Compositional matrix adjust.
+ Identities = 9/20 (45%), Positives = 12/20 (60%), Gaps = 0/20 (0%)
+
+Query  10  AFRANLKSVGPSTNSSSTKC  29
+           AFRAN  ++GP     S +C
+Sbjct  9   AFRANFANLGPGIRCKSARC  28
+
+
+>L12A07013| unnamed protein product
+Length=71
+
+ Score = 24.6 bits (52),  Expect = 0.041, Method: Compositional matrix adjust.
+ Identities = 9/21 (43%), Positives = 12/21 (57%), Gaps = 0/21 (0%)
+
+Query  9   NAFRANLKSVGPSTNSSSTKC  29
+            AFRAN  ++GP     S +C
+Sbjct  51  TAFRANFANLGPGIRCKSARC  71
+
+
+
+Lambda      K        H        a         alpha
+   0.305    0.115    0.310    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16622850
+
+
+Query= Latrodectushesperus_0_75_113_ORF6
+
+Length=21
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L05ADEF280|Defensin-like protein 5                                    19.2    3.2  
+L12A06063| unnamed protein product                                    18.5    5.5  
+L02A001315|hBD-28 unnamed protein product                             17.7    6.7  
+L06AT00035|Defensin-like protein 5                                    17.7    8.0  
+
+
+>L05ADEF280|Defensin-like protein 5
+Length=76
+
+ Score = 19.2 bits (38),  Expect = 3.2, Method: Composition-based stats.
+ Identities = 7/12 (58%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+
+Query  5   RGYRRRRTEKRP  16
+           RG+RRR    RP
+Sbjct  64  RGFRRRCLCTRP  75
+
+
+>L12A06063| unnamed protein product
+Length=88
+
+ Score = 18.5 bits (36),  Expect = 5.5, Method: Composition-based stats.
+ Identities = 6/16 (38%), Positives = 11/16 (69%), Gaps = 0/16 (0%)
+
+Query  6   GYRRRRTEKRPKYELG  21
+           GY R++ +   +YE+G
+Sbjct  25  GYCRKKCKVGERYEIG  40
+
+
+>L02A001315|hBD-28 unnamed protein product
+Length=37
+
+ Score = 17.7 bits (34),  Expect = 6.7, Method: Compositional matrix adjust.
+ Identities = 6/16 (38%), Positives = 11/16 (69%), Gaps = 0/16 (0%)
+
+Query  6   GYRRRRTEKRPKYELG  21
+           GY R++ +   +YE+G
+Sbjct  12  GYCRKKCKVGERYEIG  27
+
+
+>L06AT00035|Defensin-like protein 5
+Length=47
+
+ Score = 17.7 bits (34),  Expect = 8.0, Method: Compositional matrix adjust.
+ Identities = 7/12 (58%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+
+Query  5   RGYRRRRTEKRP  16
+           RG+RRR    RP
+Sbjct  35  RGFRRRCLCTRP  46
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.137    0.396    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 13528767
+
+
+Query= Latrodectushesperus_0_75_113_ORF7
+
+Length=20
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L05ADEF280|Defensin-like protein 5                                    19.2    3.0  
+L12A06063| unnamed protein product                                    18.1    6.2  
+L02A001315|hBD-28 unnamed protein product                             17.7    6.8  
+L06AT00035|Defensin-like protein 5                                    17.7    7.7  
+
+
+>L05ADEF280|Defensin-like protein 5
+Length=76
+
+ Score = 19.2 bits (38),  Expect = 3.0, Method: Composition-based stats.
+ Identities = 7/12 (58%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+
+Query  4   RGYRRRRTEKRP  15
+           RG+RRR    RP
+Sbjct  64  RGFRRRCLCTRP  75
+
+
+>L12A06063| unnamed protein product
+Length=88
+
+ Score = 18.1 bits (35),  Expect = 6.2, Method: Composition-based stats.
+ Identities = 6/16 (38%), Positives = 11/16 (69%), Gaps = 0/16 (0%)
+
+Query  5   GYRRRRTEKRPKYELG  20
+           GY R++ +   +YE+G
+Sbjct  25  GYCRKKCKVGERYEIG  40
+
+
+>L02A001315|hBD-28 unnamed protein product
+Length=37
+
+ Score = 17.7 bits (34),  Expect = 6.8, Method: Compositional matrix adjust.
+ Identities = 6/16 (38%), Positives = 11/16 (69%), Gaps = 0/16 (0%)
+
+Query  5   GYRRRRTEKRPKYELG  20
+           GY R++ +   +YE+G
+Sbjct  12  GYCRKKCKVGERYEIG  27
+
+
+>L06AT00035|Defensin-like protein 5
+Length=47
+
+ Score = 17.7 bits (34),  Expect = 7.7, Method: Compositional matrix adjust.
+ Identities = 7/12 (58%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+
+Query  4   RGYRRRRTEKRP  15
+           RG+RRR    RP
+Sbjct  35  RGFRRRCLCTRP  46
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.137    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12884540
+
+
+Query= Latrodectushesperus_0_75_113_ORF8
+
+Length=19
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A09838| unnamed protein product                                    18.1    6.9  
+L11A012193| unnamed protein product                                   17.3    8.6  
+
+
+>L12A09838| unnamed protein product
+Length=73
+
+ Score = 18.1 bits (35),  Expect = 6.9, Method: Compositional matrix adjust.
+ Identities = 8/9 (89%), Positives = 8/9 (89%), Gaps = 0/9 (0%)
+
+Query  10  PSVKNTISG  18
+           PSVKNT SG
+Sbjct  48  PSVKNTPSG  56
+
+
+>L11A012193| unnamed protein product
+Length=35
+
+ Score = 17.3 bits (33),  Expect = 8.6, Method: Compositional matrix adjust.
+ Identities = 4/15 (27%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+
+Query  3   STKLPCRPSVKNTIS  17
+           + ++P  P+V N+++
+Sbjct  9   AVRIPGGPAVANSVA  23
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.126    0.365    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12240313
+
+
+Query= Latrodectushesperus_0_75_115_ORF1
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.325    0.138    0.435    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7730724
+
+
+Query= Latrodectushesperus_0_75_128_ORF2
+
+Length=25
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L13A24197| unnamed protein product                                    19.2    2.2  
+L12A07315| unnamed protein product                                    19.2    2.8  
+L01A003280|Dermaseptin-H5 unnamed protein product                     18.9    3.0  
+L13A24422| unnamed protein product                                    18.9    3.1  
+L12A07213| unnamed protein product                                    19.2    3.3  
+L12A05358| unnamed protein product                                    19.2    3.4  
+L12A07312| unnamed protein product                                    19.2    3.4  
+L12A06918| unnamed protein product                                    19.2    3.5  
+L02A001352|Dermaseptin H5                                             18.5    3.9  
+L12A07349| unnamed protein product                                    18.9    4.3  
+L03A000234| unnamed protein product                                   18.9    4.4  
+L01A000433|Brevinin-2Tc unnamed protein product                       18.5    4.6  
+L02A001917|Palustrin-2CE (frog, amphibians, animal                    18.5    4.7  
+L01A000434|Brevinin-2Td unnamed protein product                       18.5    4.8  
+L01A003075|Non-specific lipid-transfer protein                        18.5    6.4  
+L13A18473| unnamed protein product                                    18.1    6.9  
+L01A000101|Brevinin-2GHc unnamed protein product                      18.1    7.1  
+L12A07275| unnamed protein product                                    18.1    8.6  
+L12A11159| unnamed protein product                                    17.7    9.0  
+L06AT00111|Protein RSI-1                                              18.1    9.9  
+
+
+>L13A24197| unnamed protein product
+Length=31
+
+ Score = 19.2 bits (38),  Expect = 2.2, Method: Compositional matrix adjust.
+ Identities = 7/14 (50%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+
+Query  8   IWKSIQNDGKHQSL  21
+           +W+SI+N GK  +L
+Sbjct  2   LWESIKNLGKKFAL  15
+
+
+>L12A07315| unnamed protein product
+Length=68
+
+ Score = 19.2 bits (38),  Expect = 2.8, Method: Compositional matrix adjust.
+ Identities = 7/14 (50%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+
+Query  8   IWKSIQNDGKHQSL  21
+           +W+SI+N GK  +L
+Sbjct  39  LWESIKNFGKKFAL  52
+
+
+>L01A003280|Dermaseptin-H5 unnamed protein product
+Length=25
+
+ Score = 18.9 bits (37),  Expect = 3.0, Method: Compositional matrix adjust.
+ Identities = 5/15 (33%), Positives = 10/15 (67%), Gaps = 0/15 (0%)
+
+Query  8   IWKSIQNDGKHQSLP  22
+           +W +I+N GK  ++ 
+Sbjct  2   LWSTIKNVGKEAAIA  16
+
+
+>L13A24422| unnamed protein product
+Length=24
+
+ Score = 18.9 bits (37),  Expect = 3.1, Method: Compositional matrix adjust.
+ Identities = 5/15 (33%), Positives = 10/15 (67%), Gaps = 0/15 (0%)
+
+Query  8   IWKSIQNDGKHQSLP  22
+           +W +I+N GK  ++ 
+Sbjct  2   LWSTIKNVGKEAAIA  16
+
+
+>L12A07213| unnamed protein product
+Length=70
+
+ Score = 19.2 bits (38),  Expect = 3.3, Method: Compositional matrix adjust.
+ Identities = 7/14 (50%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+
+Query  8   IWKSIQNDGKHQSL  21
+           +W+SI+N GK  +L
+Sbjct  41  LWESIKNFGKKFAL  54
+
+
+>L12A05358| unnamed protein product
+Length=68
+
+ Score = 19.2 bits (38),  Expect = 3.4, Method: Compositional matrix adjust.
+ Identities = 5/15 (33%), Positives = 10/15 (67%), Gaps = 0/15 (0%)
+
+Query  8   IWKSIQNDGKHQSLP  22
+           +W +I+N GK  ++ 
+Sbjct  42  LWSTIKNVGKEAAIA  56
+
+
+>L12A07312| unnamed protein product
+Length=70
+
+ Score = 19.2 bits (38),  Expect = 3.4, Method: Compositional matrix adjust.
+ Identities = 7/14 (50%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+
+Query  8   IWKSIQNDGKHQSL  21
+           +W+SI+N GK  +L
+Sbjct  41  LWESIKNFGKKFAL  54
+
+
+>L12A06918| unnamed protein product
+Length=70
+
+ Score = 19.2 bits (38),  Expect = 3.5, Method: Compositional matrix adjust.
+ Identities = 7/14 (50%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+
+Query  8   IWKSIQNDGKHQSL  21
+           +W+SI+N GK  +L
+Sbjct  41  LWESIKNLGKKFAL  54
+
+
+>L02A001352|Dermaseptin H5 
+Length=28
+
+ Score = 18.5 bits (36),  Expect = 3.9, Method: Compositional matrix adjust.
+ Identities = 5/15 (33%), Positives = 10/15 (67%), Gaps = 0/15 (0%)
+
+Query  8   IWKSIQNDGKHQSLP  22
+           +W +I+N GK  ++ 
+Sbjct  2   LWSTIKNVGKEAAIA  16
+
+
+>L12A07349| unnamed protein product
+Length=70
+
+ Score = 18.9 bits (37),  Expect = 4.3, Method: Compositional matrix adjust.
+ Identities = 7/14 (50%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+
+Query  8   IWKSIQNDGKHQSL  21
+           +W SI+N GK  +L
+Sbjct  41  LWDSIKNFGKTIAL  54
+
+
+>L03A000234| unnamed protein product
+Length=73
+
+ Score = 18.9 bits (37),  Expect = 4.4, Method: Compositional matrix adjust.
+ Identities = 6/16 (38%), Positives = 11/16 (69%), Gaps = 0/16 (0%)
+
+Query  8   IWKSIQNDGKHQSLPR  23
+           + + + ND + QS+PR
+Sbjct  18  MAQEVHNDVEEQSVPR  33
+
+
+>L01A000433|Brevinin-2Tc unnamed protein product
+Length=29
+
+ Score = 18.5 bits (36),  Expect = 4.6, Method: Compositional matrix adjust.
+ Identities = 6/14 (43%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+
+Query  8   IWKSIQNDGKHQSL  21
+           +W++I+N GK  +L
+Sbjct  2   LWETIKNFGKKFTL  15
+
+
+>L02A001917|Palustrin-2CE (frog, amphibians, animal
+Length=31
+
+ Score = 18.5 bits (36),  Expect = 4.7, Method: Compositional matrix adjust.
+ Identities = 7/14 (50%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+
+Query  8   IWKSIQNDGKHQSL  21
+           +W SI+N GK  +L
+Sbjct  2   LWDSIKNFGKTIAL  15
+
+
+>L01A000434|Brevinin-2Td unnamed protein product
+Length=29
+
+ Score = 18.5 bits (36),  Expect = 4.8, Method: Compositional matrix adjust.
+ Identities = 6/14 (43%), Positives = 11/14 (79%), Gaps = 0/14 (0%)
+
+Query  8   IWKSIQNDGKHQSL  21
+           +W++I+N GK  +L
+Sbjct  2   LWETIKNFGKKFTL  15
+
+
+>L01A003075|Non-specific lipid-transfer protein
+Length=91
+
+ Score = 18.5 bits (36),  Expect = 6.4, Method: Composition-based stats.
+ Identities = 8/12 (67%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+
+Query  14  NDGKHQSLPRCC  25
+           N GK  SLPR C
+Sbjct  62  NYGKAASLPRQC  73
+
+
+>L13A18473| unnamed protein product
+Length=30
+
+ Score = 18.1 bits (35),  Expect = 6.9, Method: Compositional matrix adjust.
+ Identities = 6/10 (60%), Positives = 8/10 (80%), Gaps = 0/10 (0%)
+
+Query  8   IWKSIQNDGK  17
+           IW+ I+N GK
+Sbjct  1   IWEGIKNAGK  10
+
+
+>L01A000101|Brevinin-2GHc unnamed protein product
+Length=31
+
+ Score = 18.1 bits (35),  Expect = 7.1, Method: Compositional matrix adjust.
+ Identities = 6/10 (60%), Positives = 8/10 (80%), Gaps = 0/10 (0%)
+
+Query  8   IWKSIQNDGK  17
+           IW+ I+N GK
+Sbjct  2   IWEGIKNAGK  11
+
+
+>L12A07275| unnamed protein product
+Length=72
+
+ Score = 18.1 bits (35),  Expect = 8.6, Method: Compositional matrix adjust.
+ Identities = 6/10 (60%), Positives = 8/10 (80%), Gaps = 0/10 (0%)
+
+Query  8   IWKSIQNDGK  17
+           IW+ I+N GK
+Sbjct  43  IWEGIKNAGK  52
+
+
+>L12A11159| unnamed protein product
+Length=31
+
+ Score = 17.7 bits (34),  Expect = 9.0, Method: Compositional matrix adjust.
+ Identities = 6/14 (43%), Positives = 10/14 (71%), Gaps = 0/14 (0%)
+
+Query  8   IWKSIQNDGKHQSL  21
+           +W++I+N GK   L
+Sbjct  2   LWETIKNAGKGFIL  15
+
+
+>L06AT00111|Protein RSI-1
+Length=91
+
+ Score = 18.1 bits (35),  Expect = 9.9, Method: Compositional matrix adjust.
+ Identities = 8/12 (67%), Positives = 8/12 (67%), Gaps = 0/12 (0%)
+
+Query  14  NDGKHQSLPRCC  25
+           N GK  SLPR C
+Sbjct  62  NYGKAASLPRQC  73
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.130    0.463    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16105675
+
+
+Query= Latrodectushesperus_0_75_128_ORF4
+
+Length=65
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L05ADEF374| unnamed protein product                                   21.2    3.6  
+L11A001574| unnamed protein product                                   19.6    4.9  
+L13A12596| unnamed protein product                                    20.0    5.5  
+L12A07147| unnamed protein product                                    20.4    6.9  
+L12A10335| unnamed protein product                                    18.9    9.8  
+
+
+>L05ADEF374| unnamed protein product
+Length=96
+
+ Score = 21.2 bits (43),  Expect = 3.6, Method: Compositional matrix adjust.
+ Identities = 8/32 (25%), Positives = 17/32 (53%), Gaps = 0/32 (0%)
+
+Query  20  PKPAEENKRQFTEEQLRASEGIINLQYGTNKG  51
+           P+ +   +    +EQL   +  I++ +G +KG
+Sbjct  22  PQGSRSTEEALDQEQLVMEDQDISISFGGDKG  53
+
+
+>L11A001574| unnamed protein product
+Length=14
+
+ Score = 19.6 bits (39),  Expect = 4.9, Method: Compositional matrix adjust.
+ Identities = 7/10 (70%), Positives = 7/10 (70%), Gaps = 0/10 (0%)
+
+Query  10  HLEYNGPCLG  19
+            L YN PCLG
+Sbjct  3   RLTYNKPCLG  12
+
+
+>L13A12596| unnamed protein product
+Length=33
+
+ Score = 20.0 bits (40),  Expect = 5.5, Method: Compositional matrix adjust.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+
+Query  43  NLQYGTNKGANQS  55
+           NL  GT KGA QS
+Sbjct  8   NLLIGTGKGAAQS  20
+
+
+>L12A07147| unnamed protein product
+Length=75
+
+ Score = 20.4 bits (41),  Expect = 6.9, Method: Compositional matrix adjust.
+ Identities = 9/13 (69%), Positives = 9/13 (69%), Gaps = 0/13 (0%)
+
+Query  43  NLQYGTNKGANQS  55
+           NL  GT KGA QS
+Sbjct  50  NLLIGTGKGAAQS  62
+
+
+>L12A10335| unnamed protein product
+Length=21
+
+ Score = 18.9 bits (37),  Expect = 9.8, Method: Composition-based stats.
+ Identities = 7/17 (41%), Positives = 9/17 (53%), Gaps = 0/17 (0%)
+
+Query  5   RACYTHLEYNGPCLGPK  21
+           R C+T      PCLG +
+Sbjct  5   RGCWTKSYSPKPCLGKR  21
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.132    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16767015
+
+
+Query= Latrodectushesperus_0_75_128_ORF8
+
+Length=7
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.122    0.286    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4509589
+
+
+Query= Latrodectushesperus_0_75_128_ORF10
+
+Length=20
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.292    0.105    0.275    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12884540
+
+
+Query= Latrodectushesperus_0_75_128_ORF11
+
+Length=57
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.389    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16822395
+
+
+Query= Latrodectushesperus_0_75_128_ORF12
+
+Length=25
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L13A10175| unnamed protein product                                    17.7    7.0  
+
+
+>L13A10175| unnamed protein product
+Length=23
+
+ Score = 17.7 bits (34),  Expect = 7.0, Method: Compositional matrix adjust.
+ Identities = 6/18 (33%), Positives = 10/18 (56%), Gaps = 0/18 (0%)
+
+Query  5   KELTKVDRTSVIRDICER  22
+           KE+ K D  S+++ I   
+Sbjct  3   KEVLKADLGSLVKGIAAH  20
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.131    0.357    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16105675
+
+
+Query= Latrodectushesperus_0_75_128_ORF13
+
+Length=27
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.338    0.144    0.448    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16164044
+
+
+Query= Latrodectushesperus_0_75_128_ORF14
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.131    0.335    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= Latrodectushesperus_0_75_175_ORF1
+
+Length=51
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A10121| unnamed protein product                                    20.0    3.5  
+L11A010862| unnamed protein product                                   18.9    8.8  
+L12A11758| unnamed protein product                                    19.2    9.3  
+L12A11759| unnamed protein product                                    19.2    9.5  
+L11A010863| unnamed protein product                                   18.9    9.9  
+
+
+>L12A10121| unnamed protein product
+Length=42
+
+ Score = 20.0 bits (40),  Expect = 3.5, Method: Compositional matrix adjust.
+ Identities = 9/20 (45%), Positives = 10/20 (50%), Gaps = 0/20 (0%)
+
+Query  10  PHLLCCLRQTRLGKTPTTYG  29
+           P+ LCC R    G TP   G
+Sbjct  13  PNCLCCGRYGFCGSTPDYCG  32
+
+
+>L11A010862| unnamed protein product
+Length=39
+
+ Score = 18.9 bits (37),  Expect = 8.8, Method: Compositional matrix adjust.
+ Identities = 5/13 (38%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+
+Query  18  QTRLGKTPTTYGT  30
+           + R+G++P TY +
+Sbjct  23  EYRIGRSPNTYAS  35
+
+
+>L12A11758| unnamed protein product
+Length=52
+
+ Score = 19.2 bits (38),  Expect = 9.3, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 10/15 (67%), Gaps = 1/15 (7%)
+
+Query  15  CLRQT-RLGKTPTTY  28
+           C RQ  R+GK P TY
+Sbjct  22  CKRQEFRVGKCPNTY  36
+
+
+>L12A11759| unnamed protein product
+Length=52
+
+ Score = 19.2 bits (38),  Expect = 9.5, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 10/15 (67%), Gaps = 1/15 (7%)
+
+Query  15  CLRQT-RLGKTPTTY  28
+           C RQ  R+GK P TY
+Sbjct  22  CKRQELRVGKCPNTY  36
+
+
+>L11A010863| unnamed protein product
+Length=37
+
+ Score = 18.9 bits (37),  Expect = 9.9, Method: Compositional matrix adjust.
+ Identities = 5/13 (38%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+
+Query  18  QTRLGKTPTTYGT  30
+           + R+G++P TY +
+Sbjct  21  EYRIGRSPNTYAS  33
+
+
+
+Lambda      K        H        a         alpha
+   0.326    0.135    0.425    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15854560
+
+
+Query= Latrodectushesperus_0_75_175_ORF2
+
+Length=45
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A10121| unnamed protein product                                    20.4    2.0  
+L12A11758| unnamed protein product                                    19.6    5.6  
+L12A11759| unnamed protein product                                    19.6    5.9  
+L11A007579| unnamed protein product                                   18.9    6.2  
+L02A001587|Fa-AMP1 unnamed protein product                            18.9    7.3  
+L02A001588|Fa-AMP2 unnamed protein product                            18.9    7.9  
+L12A01116| unnamed protein product                                    19.2    8.1  
+L06AT00230|Protein RSI-1                                              18.9    8.7  
+L11A010862| unnamed protein product                                   18.9    8.9  
+L11A010863| unnamed protein product                                   18.5    9.9  
+
+
+>L12A10121| unnamed protein product
+Length=42
+
+ Score = 20.4 bits (41),  Expect = 2.0, Method: Compositional matrix adjust.
+ Identities = 9/21 (43%), Positives = 10/21 (48%), Gaps = 0/21 (0%)
+
+Query  3   MPHLLCCLRQTRLGKTPTTYG  23
+            P+ LCC R    G TP   G
+Sbjct  12  CPNCLCCGRYGFCGSTPDYCG  32
+
+
+>L12A11758| unnamed protein product
+Length=52
+
+ Score = 19.6 bits (39),  Expect = 5.6, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 10/15 (67%), Gaps = 1/15 (7%)
+
+Query  9   CLRQT-RLGKTPTTY  22
+           C RQ  R+GK P TY
+Sbjct  22  CKRQEFRVGKCPNTY  36
+
+
+>L12A11759| unnamed protein product
+Length=52
+
+ Score = 19.6 bits (39),  Expect = 5.9, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 10/15 (67%), Gaps = 1/15 (7%)
+
+Query  9   CLRQT-RLGKTPTTY  22
+           C RQ  R+GK P TY
+Sbjct  22  CKRQELRVGKCPNTY  36
+
+
+>L11A007579| unnamed protein product
+Length=20
+
+ Score = 18.9 bits (37),  Expect = 6.2, Method: Compositional matrix adjust.
+ Identities = 6/14 (43%), Positives = 9/14 (64%), Gaps = 0/14 (0%)
+
+Query  12  QTRLGKTPTTYGTL  25
+           + R+G+ P TY  L
+Sbjct  5   EYRIGRCPNTYACL  18
+
+
+>L02A001587|Fa-AMP1 unnamed protein product
+Length=40
+
+ Score = 18.9 bits (37),  Expect = 7.3, Method: Compositional matrix adjust.
+ Identities = 7/19 (37%), Positives = 9/19 (47%), Gaps = 0/19 (0%)
+
+Query  1   MSMPHLLCCLRQTRLGKTP  19
+            + P  LCC +    G TP
+Sbjct  10  ATCPGGLCCSQWGWCGSTP  28
+
+
+>L02A001588|Fa-AMP2 unnamed protein product
+Length=40
+
+ Score = 18.9 bits (37),  Expect = 7.9, Method: Compositional matrix adjust.
+ Identities = 7/19 (37%), Positives = 9/19 (47%), Gaps = 0/19 (0%)
+
+Query  1   MSMPHLLCCLRQTRLGKTP  19
+            + P  LCC +    G TP
+Sbjct  10  ATCPGGLCCSQWGWCGSTP  28
+
+
+>L12A01116| unnamed protein product
+Length=88
+
+ Score = 19.2 bits (38),  Expect = 8.1, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 10/15 (67%), Gaps = 1/15 (7%)
+
+Query  9   CLRQT-RLGKTPTTY  22
+           C RQ  R+GK P TY
+Sbjct  19  CKRQEFRVGKCPNTY  33
+
+
+>L06AT00230|Protein RSI-1
+Length=40
+
+ Score = 18.9 bits (37),  Expect = 8.7, Method: Compositional matrix adjust.
+ Identities = 7/19 (37%), Positives = 9/19 (47%), Gaps = 0/19 (0%)
+
+Query  1   MSMPHLLCCLRQTRLGKTP  19
+            + P  LCC +    G TP
+Sbjct  10  QTCPGGLCCSQWGWCGSTP  28
+
+
+>L11A010862| unnamed protein product
+Length=39
+
+ Score = 18.9 bits (37),  Expect = 8.9, Method: Compositional matrix adjust.
+ Identities = 5/13 (38%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+
+Query  12  QTRLGKTPTTYGT  24
+           + R+G++P TY +
+Sbjct  23  EYRIGRSPNTYAS  35
+
+
+>L11A010863| unnamed protein product
+Length=37
+
+ Score = 18.5 bits (36),  Expect = 9.9, Method: Compositional matrix adjust.
+ Identities = 5/13 (38%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+
+Query  12  QTRLGKTPTTYGT  24
+           + R+G++P TY +
+Sbjct  21  EYRIGRSPNTYAS  33
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.403    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15891480
+
+
+Query= Latrodectushesperus_0_75_175_ORF3
+
+Length=43
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A10121| unnamed protein product                                    20.4    2.0  
+L12A11758| unnamed protein product                                    19.2    6.0  
+L12A11759| unnamed protein product                                    19.2    6.3  
+L11A007579| unnamed protein product                                   18.9    6.5  
+L02A001587|Fa-AMP1 unnamed protein product                            18.9    7.7  
+L11A010862| unnamed protein product                                   18.9    8.5  
+L12A01116| unnamed protein product                                    19.2    8.6  
+L02A001588|Fa-AMP2 unnamed protein product                            18.9    8.8  
+L11A010863| unnamed protein product                                   18.5    9.3  
+L06AT00230|Protein RSI-1                                              18.5    10.0 
+
+
+>L12A10121| unnamed protein product
+Length=42
+
+ Score = 20.4 bits (41),  Expect = 2.0, Method: Compositional matrix adjust.
+ Identities = 9/21 (43%), Positives = 10/21 (48%), Gaps = 0/21 (0%)
+
+Query  1   MPHLLCCLRQTRLGKTPTTYG  21
+            P+ LCC R    G TP   G
+Sbjct  12  CPNCLCCGRYGFCGSTPDYCG  32
+
+
+>L12A11758| unnamed protein product
+Length=52
+
+ Score = 19.2 bits (38),  Expect = 6.0, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 10/15 (67%), Gaps = 1/15 (7%)
+
+Query  7   CLRQT-RLGKTPTTY  20
+           C RQ  R+GK P TY
+Sbjct  22  CKRQEFRVGKCPNTY  36
+
+
+>L12A11759| unnamed protein product
+Length=52
+
+ Score = 19.2 bits (38),  Expect = 6.3, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 10/15 (67%), Gaps = 1/15 (7%)
+
+Query  7   CLRQT-RLGKTPTTY  20
+           C RQ  R+GK P TY
+Sbjct  22  CKRQELRVGKCPNTY  36
+
+
+>L11A007579| unnamed protein product
+Length=20
+
+ Score = 18.9 bits (37),  Expect = 6.5, Method: Compositional matrix adjust.
+ Identities = 6/14 (43%), Positives = 9/14 (64%), Gaps = 0/14 (0%)
+
+Query  10  QTRLGKTPTTYGTL  23
+           + R+G+ P TY  L
+Sbjct  5   EYRIGRCPNTYACL  18
+
+
+>L02A001587|Fa-AMP1 unnamed protein product
+Length=40
+
+ Score = 18.9 bits (37),  Expect = 7.7, Method: Compositional matrix adjust.
+ Identities = 7/17 (41%), Positives = 8/17 (47%), Gaps = 0/17 (0%)
+
+Query  1   MPHLLCCLRQTRLGKTP  17
+            P  LCC +    G TP
+Sbjct  12  CPGGLCCSQWGWCGSTP  28
+
+
+>L11A010862| unnamed protein product
+Length=39
+
+ Score = 18.9 bits (37),  Expect = 8.5, Method: Compositional matrix adjust.
+ Identities = 5/13 (38%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+
+Query  10  QTRLGKTPTTYGT  22
+           + R+G++P TY +
+Sbjct  23  EYRIGRSPNTYAS  35
+
+
+>L12A01116| unnamed protein product
+Length=88
+
+ Score = 19.2 bits (38),  Expect = 8.6, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 10/15 (67%), Gaps = 1/15 (7%)
+
+Query  7   CLRQT-RLGKTPTTY  20
+           C RQ  R+GK P TY
+Sbjct  19  CKRQEFRVGKCPNTY  33
+
+
+>L02A001588|Fa-AMP2 unnamed protein product
+Length=40
+
+ Score = 18.9 bits (37),  Expect = 8.8, Method: Compositional matrix adjust.
+ Identities = 7/17 (41%), Positives = 8/17 (47%), Gaps = 0/17 (0%)
+
+Query  1   MPHLLCCLRQTRLGKTP  17
+            P  LCC +    G TP
+Sbjct  12  CPGGLCCSQWGWCGSTP  28
+
+
+>L11A010863| unnamed protein product
+Length=37
+
+ Score = 18.5 bits (36),  Expect = 9.3, Method: Compositional matrix adjust.
+ Identities = 5/13 (38%), Positives = 10/13 (77%), Gaps = 0/13 (0%)
+
+Query  10  QTRLGKTPTTYGT  22
+           + R+G++P TY +
+Sbjct  21  EYRIGRSPNTYAS  33
+
+
+>L06AT00230|Protein RSI-1
+Length=40
+
+ Score = 18.5 bits (36),  Expect = 10.0, Method: Compositional matrix adjust.
+ Identities = 7/17 (41%), Positives = 8/17 (47%), Gaps = 0/17 (0%)
+
+Query  1   MPHLLCCLRQTRLGKTP  17
+            P  LCC +    G TP
+Sbjct  12  CPGGLCCSQWGWCGSTP  28
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.136    0.413    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16238705
+
+
+Query= Latrodectushesperus_0_75_175_ORF4
+
+Length=9
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.136    0.420    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5798043
+
+
+Query= Latrodectushesperus_0_75_175_ORF5
+
+Length=36
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.131    0.369    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16478422
+
+
+  Database: lamp
+    Posted date:  Dec 10, 2020  2:44 PM
+  Number of letters in database: 644,227
+  Number of sequences in database:  22,533
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
