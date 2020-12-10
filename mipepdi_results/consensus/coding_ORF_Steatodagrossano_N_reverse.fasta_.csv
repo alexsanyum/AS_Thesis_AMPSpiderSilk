@@ -1,0 +1,5 @@
+sORF_ID,sORF_seq,transcript_DNA_sequence_ID,start_at,end_at,classification,probability
+Steatodagrossa_0_75_7_ORF1,ATGTTTCAATGA,Steatodagrossa_0_75_7,70,81,coding,0.9771777847499334
+Steatodagrossa_0_75_7_ORF2,ATGAAAAGGAAGTCCTTTTCTGTTTTTTTTGGGTGTTTTTCTCGCACCAGATCCATGTGGTTGGATTGA,Steatodagrossa_0_75_7,121,189,coding,0.9115546092280931
+Steatodagrossa_0_75_7_ORF3,ATGTGGTTGGATTGA,Steatodagrossa_0_75_7,175,189,coding,0.9591073546670593
+Steatodagrossa_0_75_7_ORF4,ATGATATAA,Steatodagrossa_0_75_7,78,86,coding,0.9999587806324642
