@@ -1,0 +1,115 @@
+BLASTP 2.11.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: lamp
+           22,533 sequences; 644,227 total letters
+
+
+
+Query= Leucaugevenusta_0_75_5_ORF1
+
+Length=20
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A07204| unnamed protein product                                    20.8    0.76 
+L12A07241| unnamed protein product                                    20.8    0.78 
+
+
+>L12A07204| unnamed protein product
+Length=75
+
+ Score = 20.8 bits (42),  Expect = 0.76, Method: Composition-based stats.
+ Identities = 8/17 (47%), Positives = 10/17 (59%), Gaps = 0/17 (0%)
+
+Query  3   FFFFLSILGASYKREER  19
+           F FFL  +  S+  EER
+Sbjct  10  FLFFLGTISLSFCEEER  26
+
+
+>L12A07241| unnamed protein product
+Length=75
+
+ Score = 20.8 bits (42),  Expect = 0.78, Method: Compositional matrix adjust.
+ Identities = 8/17 (47%), Positives = 11/17 (65%), Gaps = 0/17 (0%)
+
+Query  3   FFFFLSILGASYKREER  19
+           F FFL  +  S++ EER
+Sbjct  10  FLFFLGTISLSFREEER  26
+
+
+
+Lambda      K        H        a         alpha
+   0.342    0.150    0.456    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12884540
+
+
+Query= Leucaugevenusta_0_75_7_ORF2
+
+Length=21
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.327    0.131    0.433    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 13528767
+
+
+Query= Leucaugevenusta_0_75_7_ORF4
+
+Length=10
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.341    0.144    0.538    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6442270
+
+
+  Database: lamp
+    Posted date:  Dec 10, 2020  2:44 PM
+  Number of letters in database: 644,227
+  Number of sequences in database:  22,533
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

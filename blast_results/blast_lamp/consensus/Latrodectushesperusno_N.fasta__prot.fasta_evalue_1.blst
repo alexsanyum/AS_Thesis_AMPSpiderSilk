@@ -1,0 +1,664 @@
+BLASTP 2.11.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: lamp
+           22,533 sequences; 644,227 total letters
+
+
+
+Query= Latrodectushesperus_0_75_103_ORF3
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.309    0.127    0.327    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7730724
+
+
+Query= Latrodectushesperus_0_75_103_ORF8
+
+Length=7
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.144    0.400    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4509589
+
+
+Query= Latrodectushesperus_0_75_103_ORF9
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.347    0.144    0.448    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= Latrodectushesperus_0_75_110_ORF1
+
+Length=15
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.329    0.138    0.422    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 9663405
+
+
+Query= Latrodectushesperus_0_75_111_ORF1
+
+Length=20
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.128    0.360    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12884540
+
+
+Query= Latrodectushesperus_0_75_111_ORF5
+
+Length=59
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.308    0.122    0.351    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16159708
+
+
+Query= Latrodectushesperus_0_75_111_ORF6
+
+Length=51
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.310    0.121    0.345    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15854560
+
+
+Query= Latrodectushesperus_0_75_111_ORF7
+
+Length=22
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.128    0.422    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 14172994
+
+
+Query= Latrodectushesperus_0_75_111_ORF11
+
+Length=26
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L13A26919| unnamed protein product                                    20.0    0.87 
+
+
+>L13A26919| unnamed protein product
+Length=18
+
+ Score = 20.0 bits (40),  Expect = 0.87, Method: Compositional matrix adjust.
+ Identities = 8/14 (57%), Positives = 8/14 (57%), Gaps = 0/14 (0%)
+
+Query  8   RQIDWHAKCERLRD  21
+           R IDW   CE L D
+Sbjct  3   RLIDWDWICEVLSD  16
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.131    0.422    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16749902
+
+
+Query= Latrodectushesperus_0_75_111_ORF12
+
+Length=9
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.285   0.0966    0.232    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5798043
+
+
+Query= Latrodectushesperus_0_75_113_ORF2
+
+Length=44
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.330    0.137    0.421    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16702668
+
+
+Query= Latrodectushesperus_0_75_113_ORF3
+
+Length=63
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L13A19083| unnamed protein product                                    24.6    0.079
+L12A07013| unnamed protein product                                    25.0    0.091
+
+
+>L13A19083| unnamed protein product
+Length=28
+
+ Score = 24.6 bits (52),  Expect = 0.079, Method: Compositional matrix adjust.
+ Identities = 9/20 (45%), Positives = 12/20 (60%), Gaps = 0/20 (0%)
+
+Query  39  AFRANLKSVGPSTNSSSTKC  58
+           AFRAN  ++GP     S +C
+Sbjct  9   AFRANFANLGPGIRCKSARC  28
+
+
+>L12A07013| unnamed protein product
+Length=71
+
+ Score = 25.0 bits (53),  Expect = 0.091, Method: Compositional matrix adjust.
+ Identities = 9/21 (43%), Positives = 12/21 (57%), Gaps = 0/21 (0%)
+
+Query  38  NAFRANLKSVGPSTNSSSTKC  58
+            AFRAN  ++GP     S +C
+Sbjct  51  TAFRANFANLGPGIRCKSARC  71
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.128    0.361    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16109485
+
+
+Query= Latrodectushesperus_0_75_113_ORF4
+
+Length=34
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L13A19083| unnamed protein product                                    24.6    0.025
+L12A07013| unnamed protein product                                    24.6    0.041
+
+
+>L13A19083| unnamed protein product
+Length=28
+
+ Score = 24.6 bits (52),  Expect = 0.025, Method: Compositional matrix adjust.
+ Identities = 9/20 (45%), Positives = 12/20 (60%), Gaps = 0/20 (0%)
+
+Query  10  AFRANLKSVGPSTNSSSTKC  29
+           AFRAN  ++GP     S +C
+Sbjct  9   AFRANFANLGPGIRCKSARC  28
+
+
+>L12A07013| unnamed protein product
+Length=71
+
+ Score = 24.6 bits (52),  Expect = 0.041, Method: Compositional matrix adjust.
+ Identities = 9/21 (43%), Positives = 12/21 (57%), Gaps = 0/21 (0%)
+
+Query  9   NAFRANLKSVGPSTNSSSTKC  29
+            AFRAN  ++GP     S +C
+Sbjct  51  TAFRANFANLGPGIRCKSARC  71
+
+
+
+Lambda      K        H        a         alpha
+   0.305    0.115    0.310    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16622850
+
+
+Query= Latrodectushesperus_0_75_113_ORF6
+
+Length=21
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.137    0.396    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 13528767
+
+
+Query= Latrodectushesperus_0_75_113_ORF7
+
+Length=20
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.137    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12884540
+
+
+Query= Latrodectushesperus_0_75_113_ORF8
+
+Length=19
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.126    0.365    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12240313
+
+
+Query= Latrodectushesperus_0_75_115_ORF1
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.325    0.138    0.435    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7730724
+
+
+Query= Latrodectushesperus_0_75_128_ORF2
+
+Length=25
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.130    0.463    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16105675
+
+
+Query= Latrodectushesperus_0_75_128_ORF4
+
+Length=65
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.132    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16767015
+
+
+Query= Latrodectushesperus_0_75_128_ORF8
+
+Length=7
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.122    0.286    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4509589
+
+
+Query= Latrodectushesperus_0_75_128_ORF10
+
+Length=20
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.292    0.105    0.275    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12884540
+
+
+Query= Latrodectushesperus_0_75_128_ORF11
+
+Length=57
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.389    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16822395
+
+
+Query= Latrodectushesperus_0_75_128_ORF12
+
+Length=25
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.131    0.357    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16105675
+
+
+Query= Latrodectushesperus_0_75_128_ORF13
+
+Length=27
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.338    0.144    0.448    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16164044
+
+
+Query= Latrodectushesperus_0_75_128_ORF14
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.131    0.335    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= Latrodectushesperus_0_75_175_ORF1
+
+Length=51
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.326    0.135    0.425    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15854560
+
+
+Query= Latrodectushesperus_0_75_175_ORF2
+
+Length=45
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.134    0.403    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15891480
+
+
+Query= Latrodectushesperus_0_75_175_ORF3
+
+Length=43
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.136    0.413    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16238705
+
+
+Query= Latrodectushesperus_0_75_175_ORF4
+
+Length=9
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.136    0.420    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5798043
+
+
+Query= Latrodectushesperus_0_75_175_ORF5
+
+Length=36
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.131    0.369    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16478422
+
+
+  Database: lamp
+    Posted date:  Dec 10, 2020  2:44 PM
+  Number of letters in database: 644,227
+  Number of sequences in database:  22,533
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40

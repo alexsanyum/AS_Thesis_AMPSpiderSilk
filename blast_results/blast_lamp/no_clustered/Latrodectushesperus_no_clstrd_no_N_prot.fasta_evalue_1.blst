@@ -1,0 +1,3470 @@
+BLASTP 2.11.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: lamp
+           22,533 sequences; 644,227 total letters
+
+
+
+Query= et|JZ531033.1_Lnc11_M13F_CH-168_G03_019_ORF3
+
+Length=45
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.122    0.321    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15891480
+
+
+Query= et|JZ531033.1_Lnc11_M13F_CH-168_G03_019_ORF4
+
+Length=21
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.326    0.146    0.495    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 13528767
+
+
+Query= et|GW787485.1_Lnc305_t3_ORF8
+
+Length=14
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.133    0.339    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 9019178
+
+
+Query= et|JZ531198.1_Lnc98_M13R_CH-169_C03_027_ORF2
+
+Length=8
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.355    0.152    0.699    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5153816
+
+
+Query= et|JZ531198.1_Lnc98_M13R_CH-169_C03_027_ORF3
+
+Length=87
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L01A001073|Sequence 1 from patent US 6884776                          87.8    3e-26
+L01A001987|Sequence 1595 from patent US 6573361                       63.2    2e-16
+L01A001988|Sequence 1597 from patent US 6573361                       59.7    5e-15
+L01A001072|Sequence 2 from patent US 6884776                          37.4    1e-06
+L01A001066|Sequence 8 from patent US 6884776                          34.3    2e-05
+L01A001071|Sequence 3 from patent US 6884776                          28.1    0.006
+L13A17496| unnamed protein product                                    25.0    0.10 
+
+
+>L01A001073|Sequence 1 from patent US 6884776
+Length=59
+
+ Score = 87.8 bits (216),  Expect = 3e-26, Method: Compositional matrix adjust.
+ Identities = 52/59 (88%), Positives = 57/59 (97%), Gaps = 0/59 (0%)
+
+Query  29  KVHGSLARAGKVKGQTPKVEKQEKKKRKTGRAKRRMQFNRRFVNVVVTFGRKKGPNSNS  87
+           KVHGSLARAGKV+GQTPKV KQEKKK+KTGRAKRRMQ+NRRFVNVV TFG+KKGPN+NS
+Sbjct  1   KVHGSLARAGKVRGQTPKVAKQEKKKKKTGRAKRRMQYNRRFVNVVPTFGKKKGPNANS  59
+
+
+>L01A001987|Sequence 1595 from patent US 6573361
+Length=60
+
+ Score = 63.2 bits (152),  Expect = 2e-16, Method: Compositional matrix adjust.
+ Identities = 39/58 (67%), Positives = 48/58 (83%), Gaps = 0/58 (0%)
+
+Query  29  KVHGSLARAGKVKGQTPKVEKQEKKKRKTGRAKRRMQFNRRFVNVVVTFGRKKGPNSN  86
+           KVHGSLARAGKV+G+  KV KQ+KKK+  GRA +R+Q NRRFV  VV FG+K+GPNS+
+Sbjct  1   KVHGSLARAGKVRGRHQKVAKQDKKKKPRGRAHKRLQHNRRFVTAVVGFGKKRGPNSS  58
+
+
+>L01A001988|Sequence 1597 from patent US 6573361
+Length=62
+
+ Score = 59.7 bits (143),  Expect = 5e-15, Method: Compositional matrix adjust.
+ Identities = 34/54 (63%), Positives = 42/54 (78%), Gaps = 0/54 (0%)
+
+Query  28  GKVHGSLARAGKVKGQTPKVEKQEKKKRKTGRAKRRMQFNRRFVNVVVTFGRKK  81
+            KVHGSLARAGKVK QTPKVEK EK K+  GRA +R+ + RRFVNV +  G+++
+Sbjct  1   AKVHGSLARAGKVKSQTPKVEKTEKPKKPKGRAYKRLLYTRRFVNVTLVNGKRR  54
+
+
+>L01A001072|Sequence 2 from patent US 6884776
+Length=18
+
+ Score = 37.4 bits (85),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 17/18 (94%), Positives = 18/18 (100%), Gaps = 0/18 (0%)
+
+Query  29  KVHGSLARAGKVKGQTPK  46
+           KVHGSLARAGKV+GQTPK
+Sbjct  1   KVHGSLARAGKVRGQTPK  18
+
+
+>L01A001066|Sequence 8 from patent US 6884776
+Length=18
+
+ Score = 34.3 bits (77),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 15/18 (83%), Positives = 17/18 (94%), Gaps = 0/18 (0%)
+
+Query  70  FVNVVVTFGRKKGPNSNS  87
+           FVNVV TFG+KKGPN+NS
+Sbjct  1   FVNVVPTFGKKKGPNANS  18
+
+
+>L01A001071|Sequence 3 from patent US 6884776
+Length=13
+
+ Score = 28.1 bits (61),  Expect = 0.006, Method: Compositional matrix adjust.
+ Identities = 12/13 (92%), Positives = 13/13 (100%), Gaps = 0/13 (0%)
+
+Query  57  TGRAKRRMQFNRR  69
+           TGRAKRRMQ+NRR
+Sbjct  1   TGRAKRRMQYNRR  13
+
+
+>L13A17496| unnamed protein product
+Length=11
+
+ Score = 25.0 bits (53),  Expect = 0.10, Method: Compositional matrix adjust.
+ Identities = 11/11 (100%), Positives = 11/11 (100%), Gaps = 0/11 (0%)
+
+Query  29  KVHGSLARAGK  39
+           KVHGSLARAGK
+Sbjct  1   KVHGSLARAGK  11
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.130    0.360    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16465677
+
+
+Query= et|JZ531198.1_Lnc98_M13R_CH-169_C03_027_ORF4
+
+Length=24
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L01A001073|Sequence 1 from patent US 6884776                          45.4    2e-10
+L01A001987|Sequence 1595 from patent US 6573361                       36.6    5e-07
+L01A001066|Sequence 8 from patent US 6884776                          33.5    5e-06
+
+
+>L01A001073|Sequence 1 from patent US 6884776
+Length=59
+
+ Score = 45.4 bits (106),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 20/24 (83%), Positives = 23/24 (96%), Gaps = 0/24 (0%)
+
+Query  1   MQFNRRFVNVVVTFGRKKGPNSNS  24
+           MQ+NRRFVNVV TFG+KKGPN+NS
+Sbjct  36  MQYNRRFVNVVPTFGKKKGPNANS  59
+
+
+>L01A001987|Sequence 1595 from patent US 6573361
+Length=60
+
+ Score = 36.6 bits (83),  Expect = 5e-07, Method: Compositional matrix adjust.
+ Identities = 15/24 (63%), Positives = 19/24 (79%), Gaps = 0/24 (0%)
+
+Query  1   MQFNRRFVNVVVTFGRKKGPNSNS  24
+           +Q NRRFV  VV FG+K+GPNS+ 
+Sbjct  36  LQHNRRFVTAVVGFGKKRGPNSSE  59
+
+
+>L01A001066|Sequence 8 from patent US 6884776
+Length=18
+
+ Score = 33.5 bits (75),  Expect = 5e-06, Method: Compositional matrix adjust.
+ Identities = 15/18 (83%), Positives = 17/18 (94%), Gaps = 0/18 (0%)
+
+Query  7   FVNVVVTFGRKKGPNSNS  24
+           FVNVV TFG+KKGPN+NS
+Sbjct  1   FVNVVPTFGKKKGPNANS  18
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.135    0.394    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15461448
+
+
+Query= et|JZ531198.1_Lnc98_M13R_CH-169_C03_027_ORF9
+
+Length=8
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.330    0.138    0.367    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5153816
+
+
+Query= et|JZ531198.1_Lnc98_M13R_CH-169_C03_027_ORF11
+
+Length=9
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.329    0.135    0.458    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5798043
+
+
+Query= et|JZ531198.1_Lnc98_M13R_CH-169_C03_027_ORF12
+
+Length=21
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.327    0.140    0.398    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 13528767
+
+
+Query= et|GW787482.1_Lnc301_t3_ORF8
+
+Length=15
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.132    0.368    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 9663405
+
+
+Query= et|GW820091.1_Lnc250_t3_ORF6
+
+Length=23
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.333    0.141    0.497    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 14817221
+
+
+Query= et|GW820091.1_Lnc250_t3_ORF7
+
+Length=18
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.332    0.137    0.459    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 11596086
+
+
+Query= et|GW820091.1_Lnc250_t3_ORF13
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.326    0.134    0.441    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= et|GW820091.1_Lnc250_t3_ORF16
+
+Length=9
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.361    0.166    0.556    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5798043
+
+
+Query= et|JZ531175.1_Lnc66_M13R_CH-170_C05_043_ORF2
+
+Length=17
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.355    0.163    0.513    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 10951859
+
+
+Query= et|JZ531175.1_Lnc66_M13R_CH-170_C05_043_ORF4
+
+Length=7
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.344    0.136    0.662    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4509589
+
+
+Query= et|JZ531175.1_Lnc66_M13R_CH-170_C05_043_ORF5
+
+Length=7
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.338    0.131    0.351    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4509589
+
+
+Query= et|JZ531175.1_Lnc66_M13R_CH-170_C05_043_ORF8
+
+Length=8
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.358    0.162    0.465    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5153816
+
+
+Query= et|GW787480.1_Lnc_ORF2
+
+Length=16
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.358    0.154    0.440    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 10307632
+
+
+Query= et|GW787480.1_Lnc_ORF3
+
+Length=13
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.365    0.167    0.487    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 8374951
+
+
+Query= et|GW787480.1_Lnc_ORF4
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.363    0.169    0.498    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7730724
+
+
+Query= et|GW787480.1_Lnc_ORF5
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.342    0.132    0.708    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= et|GW787480.1_Lnc_ORF6
+
+Length=14
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.324    0.139    0.388    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 9019178
+
+
+Query= et|GW787480.1_Lnc_ORF8
+
+Length=10
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.306    0.125    0.272    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6442270
+
+
+Query= et|GW787480.1_Lnc_ORF9
+
+Length=8
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.292    0.119    0.255    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5153816
+
+
+Query= et|GW787480.1_Lnc_ORF13
+
+Length=13
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.331    0.144    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 8374951
+
+
+Query= et|GW787480.1_Lnc_ORF14
+
+Length=20
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.337    0.144    0.673    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12884540
+
+
+Query= et|GW787480.1_Lnc_ORF15
+
+Length=7
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.336    0.135    0.612    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4509589
+
+
+Query= et|JZ531057.1_Lnc145_M13R_CH-170_G01_003_ORF2
+
+Length=8
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.129    0.370    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5153816
+
+
+Query= et|JZ531057.1_Lnc145_M13R_CH-170_G01_003_ORF3
+
+Length=54
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.329    0.134    0.367    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 17043652
+
+
+Query= et|JZ531057.1_Lnc145_M13R_CH-170_G01_003_ORF12
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.334    0.133    0.368    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= et|JZ531057.1_Lnc145_M13R_CH-170_G01_003_ORF13
+
+Length=99
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.325    0.137    0.411    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 17288000
+
+
+Query= et|JZ531177.1_Lnc70_M13R_CH-170_C07_059_ORF1
+
+Length=90
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.135    0.387    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 17181576
+
+
+Query= et|JZ531177.1_Lnc70_M13R_CH-170_C07_059_ORF2
+
+Length=20
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.132    0.400    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12884540
+
+
+Query= et|JZ531177.1_Lnc70_M13R_CH-170_C07_059_ORF3
+
+Length=16
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.133    0.373    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 10307632
+
+
+Query= et|JZ531177.1_Lnc70_M13R_CH-170_C07_059_ORF4
+
+Length=10
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.133    0.379    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6442270
+
+
+Query= et|JZ531177.1_Lnc70_M13R_CH-170_C07_059_ORF7
+
+Length=11
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.332    0.137    0.339    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7086497
+
+
+Query= et|JZ531177.1_Lnc70_M13R_CH-170_C07_059_ORF8
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.354    0.151    0.411    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= et|JZ531177.1_Lnc70_M13R_CH-170_C07_059_ORF9
+
+Length=22
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A08378| unnamed protein product                                    22.3    0.21 
+
+
+>L12A08378| unnamed protein product
+Length=94
+
+ Score = 22.3 bits (46),  Expect = 0.21, Method: Composition-based stats.
+ Identities = 10/18 (56%), Positives = 13/18 (72%), Gaps = 0/18 (0%)
+
+Query  5   YPQSNNCIGSEQLGFSCK  22
+           Y +S  CIGSE+L  +CK
+Sbjct  66  YCRSGYCIGSERLSGNCK  83
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.131    0.407    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 14172994
+
+
+Query= et|JZ531166.1_Lnc49_M13R_CH-170_B08_062_ORF1
+
+Length=47
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L11A005011| unnamed protein product                                   25.0    0.031
+L13A14833| unnamed protein product                                    23.9    0.093
+L13A14622| unnamed protein product                                    23.9    0.093
+L11A005007| unnamed protein product                                   22.3    0.34 
+L01A003240|Cathelicidin antimicrobial peptide                         22.3    0.34 
+L01A003954|Cathelicidin antimicrobial peptide                         22.3    0.36 
+L11A007840| unnamed protein product                                   22.3    0.40 
+L01A000216|Cathelicidin antimicrobial peptide                         22.3    0.41 
+L02A000624|ALL-38 unnamed protein product                             22.3    0.42 
+L07APD0026|Cathelicidin antimicrobial peptide                         22.3    0.44 
+L11A000765| unnamed protein product                                   22.3    0.44 
+L13A26790| unnamed protein product                                    21.9    0.50 
+L11A011405| unnamed protein product                                   21.9    0.50 
+L11A011557| unnamed protein product                                   22.3    0.50 
+L11A011556| unnamed protein product                                   22.3    0.51 
+L11A007841| unnamed protein product                                   21.9    0.52 
+L11A011406| unnamed protein product                                   21.9    0.54 
+L13A26613| unnamed protein product                                    21.9    0.56 
+L12A11486| unnamed protein product                                    21.9    0.65 
+L02A000629|human LL-29                                                21.6    0.68 
+
+
+>L11A005011| unnamed protein product
+Length=39
+
+ Score = 25.0 bits (53),  Expect = 0.031, Method: Compositional matrix adjust.
+ Identities = 10/31 (32%), Positives = 16/31 (52%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L   F K +E + +E  ++ QR+    RKL 
+Sbjct  4   LGDFFRKSKEKIGKEFKRIVQRIKDFFRKLV  34
+
+
+>L13A14833| unnamed protein product
+Length=37
+
+ Score = 23.9 bits (50),  Expect = 0.093, Method: Compositional matrix adjust.
+ Identities = 9/31 (29%), Positives = 16/31 (52%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L  +F K +E + +E  ++ QR+    R L 
+Sbjct  2   LGDEFRKSKEKIGKEFKRIVQRIKDFLRNLV  32
+
+
+>L13A14622| unnamed protein product
+Length=37
+
+ Score = 23.9 bits (50),  Expect = 0.093, Method: Compositional matrix adjust.
+ Identities = 9/31 (29%), Positives = 16/31 (52%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L  +F K +E + +E  ++ QR+    R L 
+Sbjct  2   LGDEFRKSKEKIGKEFKRIVQRIKDFLRNLV  32
+
+
+>L11A005007| unnamed protein product
+Length=39
+
+ Score = 22.3 bits (46),  Expect = 0.34, Method: Compositional matrix adjust.
+ Identities = 9/31 (29%), Positives = 15/31 (48%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L   F K +E + +E  ++ QR+    R L 
+Sbjct  4   LGDFFRKSKEKIGKEFKRIVQRIKDFFRNLV  34
+
+
+>L01A003240|Cathelicidin antimicrobial peptide
+Length=37
+
+ Score = 22.3 bits (46),  Expect = 0.34, Method: Compositional matrix adjust.
+ Identities = 9/31 (29%), Positives = 15/31 (48%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L   F K +E + +E  ++ QR+    R L 
+Sbjct  2   LGDFFRKAREKIGEEFKRIVQRIKDFLRNLV  32
+
+
+>L01A003954|Cathelicidin antimicrobial peptide
+Length=39
+
+ Score = 22.3 bits (46),  Expect = 0.36, Method: Compositional matrix adjust.
+ Identities = 9/31 (29%), Positives = 15/31 (48%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L   F K +E + +E  ++ QR+    R L 
+Sbjct  4   LGDFFRKSKEKIGKEFKRIVQRIKDFLRNLV  34
+
+
+>L11A007840| unnamed protein product
+Length=37
+
+ Score = 22.3 bits (46),  Expect = 0.40, Method: Compositional matrix adjust.
+ Identities = 9/31 (29%), Positives = 15/31 (48%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L   F K +E + +E  ++ QR+    R L 
+Sbjct  2   LGDFFRKAKEKIGKEFKRIVQRIKDFLRNLV  32
+
+
+>L01A000216|Cathelicidin antimicrobial peptide
+Length=37
+
+ Score = 22.3 bits (46),  Expect = 0.41, Method: Compositional matrix adjust.
+ Identities = 9/31 (29%), Positives = 15/31 (48%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L   F K +E + +E  ++ QR+    R L 
+Sbjct  2   LGDFFRKSKEKIGKEFKRIVQRIKDFLRNLV  32
+
+
+>L02A000624|ALL-38 unnamed protein product
+Length=38
+
+ Score = 22.3 bits (46),  Expect = 0.42, Method: Compositional matrix adjust.
+ Identities = 9/31 (29%), Positives = 15/31 (48%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L   F K +E + +E  ++ QR+    R L 
+Sbjct  3   LGDFFRKSKEKIGKEFKRIVQRIKDFLRNLV  33
+
+
+>L07APD0026|Cathelicidin antimicrobial peptide
+Length=39
+
+ Score = 22.3 bits (46),  Expect = 0.44, Method: Compositional matrix adjust.
+ Identities = 10/33 (30%), Positives = 16/33 (48%), Gaps = 0/33 (0%)
+
+Query  6   SDLSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           S L   F K +E + +E  ++ QR+    R L 
+Sbjct  2   SLLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLV  34
+
+
+>L11A000765| unnamed protein product
+Length=35
+
+ Score = 22.3 bits (46),  Expect = 0.44, Method: Compositional matrix adjust.
+ Identities = 8/27 (30%), Positives = 14/27 (52%), Gaps = 0/27 (0%)
+
+Query  12  FNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           F K +E + +E  ++ QR+    R L 
+Sbjct  4   FRKSKEKIGKEFKRIVQRIKDFLRNLV  30
+
+
+>L13A26790| unnamed protein product
+Length=27
+
+ Score = 21.9 bits (45),  Expect = 0.50, Method: Compositional matrix adjust.
+ Identities = 8/27 (30%), Positives = 14/27 (52%), Gaps = 0/27 (0%)
+
+Query  12  FNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           F K +E + +E  ++ QR+    R L 
+Sbjct  1   FRKSKEKIGKEFKRIVQRIKDFLRNLV  27
+
+
+>L11A011405| unnamed protein product
+Length=42
+
+ Score = 21.9 bits (45),  Expect = 0.50, Method: Compositional matrix adjust.
+ Identities = 10/39 (26%), Positives = 18/39 (46%), Gaps = 0/39 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLTRPCFPFCR  46
+           L   F K +E + +E  ++ QR+    R L +    + R
+Sbjct  1   LGDFFRKSKEKIGKEFKRIVQRIKDFLRNLAKRHHGYKR  39
+
+
+>L11A011557| unnamed protein product
+Length=54
+
+ Score = 22.3 bits (46),  Expect = 0.50, Method: Compositional matrix adjust.
+ Identities = 9/31 (29%), Positives = 15/31 (48%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L   F K +E + +E  ++ QR+    R L 
+Sbjct  2   LGDFFRKSKEKIGKEFKRIVQRIKDFLRNLV  32
+
+
+>L11A011556| unnamed protein product
+Length=52
+
+ Score = 22.3 bits (46),  Expect = 0.51, Method: Compositional matrix adjust.
+ Identities = 9/31 (29%), Positives = 15/31 (48%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L   F K +E + +E  ++ QR+    R L 
+Sbjct  2   LGDFFRKSKEKIGKEFKRIVQRIKDFLRNLV  32
+
+
+>L11A007841| unnamed protein product
+Length=37
+
+ Score = 21.9 bits (45),  Expect = 0.52, Method: Compositional matrix adjust.
+ Identities = 9/31 (29%), Positives = 15/31 (48%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L   F K +E + +E  ++ QR+    R L 
+Sbjct  2   LGDFFRKVKEKIGKEFKRIVQRIKDFLRNLV  32
+
+
+>L11A011406| unnamed protein product
+Length=46
+
+ Score = 21.9 bits (45),  Expect = 0.54, Method: Compositional matrix adjust.
+ Identities = 10/39 (26%), Positives = 18/39 (46%), Gaps = 0/39 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLTRPCFPFCR  46
+           L   F K +E + +E  ++ QR+    R L +    + R
+Sbjct  2   LGDFFRKSKEKIGKEFKRIVQRIKDFLRNLAKRHHGYKR  40
+
+
+>L13A26613| unnamed protein product
+Length=31
+
+ Score = 21.9 bits (45),  Expect = 0.56, Method: Compositional matrix adjust.
+ Identities = 9/30 (30%), Positives = 15/30 (50%), Gaps = 0/30 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKL  37
+           L   F K +E + +E  ++ QR+    R L
+Sbjct  2   LGDFFRKSKEKIGKEFKRIVQRIKDFLRNL  31
+
+
+>L12A11486| unnamed protein product
+Length=58
+
+ Score = 21.9 bits (45),  Expect = 0.65, Method: Compositional matrix adjust.
+ Identities = 9/31 (29%), Positives = 15/31 (48%), Gaps = 0/31 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTRKLT  38
+           L   F K +E + +E  ++ QR+    R L 
+Sbjct  23  LGDFFRKSKEKIGKEFKRIVQRIKDFLRNLV  53
+
+
+>L02A000629|human LL-29 
+Length=29
+
+ Score = 21.6 bits (44),  Expect = 0.68, Method: Compositional matrix adjust.
+ Identities = 8/28 (29%), Positives = 14/28 (50%), Gaps = 0/28 (0%)
+
+Query  8   LSAQFNKQQEHLNQEMSKLNQRLNSMTR  35
+           L   F K +E + +E  ++ QR+    R
+Sbjct  2   LGDFFRKSKEKIGKEFKRIVQRIKDFLR  29
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.129    0.379    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16774340
+
+
+Query= et|JZ531166.1_Lnc49_M13R_CH-170_B08_062_ORF3
+
+Length=15
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.342    0.150    0.580    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 9663405
+
+
+Query= et|JZ531166.1_Lnc49_M13R_CH-170_B08_062_ORF6
+
+Length=23
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L06AT00129|Non-specific lipid-transfer protein D                      21.6    0.43 
+L06AT00128|Non-specific lipid-transfer protein C                      21.6    0.43 
+
+
+>L06AT00129|Non-specific lipid-transfer protein D, 
+Length=92
+
+ Score = 21.6 bits (44),  Expect = 0.43, Method: Composition-based stats.
+ Identities = 8/12 (67%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+
+Query  10  QYLSQIPAMVNI  21
+           Q+LS+IPA  NI
+Sbjct  65  QFLSKIPAACNI  76
+
+
+>L06AT00128|Non-specific lipid-transfer protein C, 
+Length=92
+
+ Score = 21.6 bits (44),  Expect = 0.43, Method: Composition-based stats.
+ Identities = 8/12 (67%), Positives = 10/12 (83%), Gaps = 0/12 (0%)
+
+Query  10  QYLSQIPAMVNI  21
+           Q+LS+IPA  NI
+Sbjct  65  QFLSKIPAACNI  76
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.123    0.315    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 14817221
+
+
+Query= et|JZ531166.1_Lnc49_M13R_CH-170_B08_062_ORF7
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.332    0.135    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= et|JZ531166.1_Lnc49_M13R_CH-170_B08_062_ORF8
+
+Length=27
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.329    0.137    0.429    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16164044
+
+
+Query= et|JZ531166.1_Lnc49_M13R_CH-170_B08_062_ORF9
+
+Length=19
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.333    0.139    0.448    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12240313
+
+
+Query= et|JZ531166.1_Lnc49_M13R_CH-170_B08_062_ORF10
+
+Length=41
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.330    0.139    0.422    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16540864
+
+
+Query= et|JZ531166.1_Lnc49_M13R_CH-170_B08_062_ORF11
+
+Length=23
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.333    0.137    0.423    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 14817221
+
+
+Query= et|JZ531166.1_Lnc49_M13R_CH-170_B08_062_ORF14
+
+Length=9
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.354    0.152    0.411    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5798043
+
+
+Query= et|GW820100.1_Lnc249_t3_ORF1
+
+Length=22
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.337    0.148    0.646    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 14172994
+
+
+Query= et|GW820100.1_Lnc249_t3_ORF2
+
+Length=17
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.136    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 10951859
+
+
+Query= et|GW820100.1_Lnc249_t3_ORF5
+
+Length=8
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.351    0.161    0.378    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5153816
+
+
+Query= et|GW820100.1_Lnc249_t3_ORF6
+
+Length=38
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.331    0.142    0.420    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16288928
+
+
+Query= et|GW820100.1_Lnc249_t3_ORF7
+
+Length=28
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L11A011340| unnamed protein product                                   20.8    0.95 
+
+
+>L11A011340| unnamed protein product
+Length=80
+
+ Score = 20.8 bits (42),  Expect = 0.95, Method: Compositional matrix adjust.
+ Identities = 9/18 (50%), Positives = 10/18 (56%), Gaps = 0/18 (0%)
+
+Query  3   SFTKKDKLFLTMGNAPQE  20
+            F KKD+L      APQE
+Sbjct  33  GFVKKDQLGKNEEGAPQE  50
+
+
+
+Lambda      K        H        a         alpha
+   0.334    0.144    0.428    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16785738
+
+
+Query= et|GW820100.1_Lnc249_t3_ORF8
+
+Length=15
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.332    0.145    0.451    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 9663405
+
+
+Query= et|GW820100.1_Lnc249_t3_ORF9
+
+Length=7
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.127    0.287    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4509589
+
+
+Query= et|GW787489.1_Lnc255_t3_ORF3
+
+Length=57
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.332    0.142    0.472    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16822395
+
+
+Query= et|GW787489.1_Lnc255_t3_ORF6
+
+Length=35
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.327    0.140    0.437    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15946860
+
+
+Query= et|GW787489.1_Lnc255_t3_ORF7
+
+Length=11
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.327    0.142    0.384    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7086497
+
+
+Query= et|GW787489.1_Lnc255_t3_ORF8
+
+Length=31
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.337    0.153    0.484    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16145584
+
+
+Query= et|GW787514.1_Lnc261_t3_ORF2
+
+Length=77
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L13A19019| unnamed protein product                                    22.3    0.85 
+
+
+>L13A19019| unnamed protein product
+Length=28
+
+ Score = 22.3 bits (46),  Expect = 0.85, Method: Compositional matrix adjust.
+ Identities = 9/17 (53%), Positives = 13/17 (76%), Gaps = 0/17 (0%)
+
+Query  3   AALELEKTVNQSLLDLH  19
+           AA E+ K +N+SL+DL 
+Sbjct  1   AACEVAKNLNESLIDLQ  17
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.130    0.354    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 17305639
+
+
+Query= et|GW787514.1_Lnc261_t3_ORF3
+
+Length=48
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.136    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15918086
+
+
+Query= et|GW787514.1_Lnc261_t3_ORF4
+
+Length=11
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.134    0.380    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7086497
+
+
+Query= et|GW787514.1_Lnc261_t3_ORF6
+
+Length=8
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.336    0.129    0.417    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5153816
+
+
+Query= et|GW787514.1_Lnc261_t3_ORF8
+
+Length=26
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.120    0.310    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16749902
+
+
+Query= et|GW787514.1_Lnc261_t3_ORF14
+
+Length=39
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.125    0.369    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16797957
+
+
+Query= et|GW787514.1_Lnc261_t3_ORF15
+
+Length=17
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.120    0.327    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 10951859
+
+
+Query= et|GW820092.1_Lnc273_t3_ORF4
+
+Length=13
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.140    0.403    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 8374951
+
+
+Query= et|GW820092.1_Lnc273_t3_ORF5
+
+Length=40
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.312    0.131    0.333    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16054368
+
+
+Query= et|GW820092.1_Lnc273_t3_ORF6
+
+Length=18
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.311    0.126    0.334    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 11596086
+
+
+Query= et|GW820092.1_Lnc273_t3_ORF7
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.359    0.165    0.563    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= et|GW820092.1_Lnc273_t3_ORF9
+
+Length=45
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.129    0.409    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15891480
+
+
+Query= et|GW820092.1_Lnc273_t3_ORF11
+
+Length=24
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.124    0.350    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15461448
+
+
+Query= et|GW820092.1_Lnc273_t3_ORF12
+
+Length=14
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.334    0.135    0.350    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 9019178
+
+
+Query= et|JZ531021.1_Lnc105_M13R_CH-169_B04_030_ORF1
+
+Length=74
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L13A17781| unnamed protein product                                    24.6    0.086
+L12A07229| unnamed protein product                                    24.6    0.17 
+
+
+>L13A17781| unnamed protein product
+Length=24
+
+ Score = 24.6 bits (52),  Expect = 0.086, Method: Compositional matrix adjust.
+ Identities = 9/18 (50%), Positives = 13/18 (72%), Gaps = 0/18 (0%)
+
+Query  17  VVEMAISTLPNVLCSGFE  34
+           V++MA S LP  +C GF+
+Sbjct  5   VLKMATSILPTAICKGFK  22
+
+
+>L12A07229| unnamed protein product
+Length=70
+
+ Score = 24.6 bits (52),  Expect = 0.17, Method: Compositional matrix adjust.
+ Identities = 9/18 (50%), Positives = 13/18 (72%), Gaps = 0/18 (0%)
+
+Query  17  VVEMAISTLPNVLCSGFE  34
+           V++MA S LP  +C GF+
+Sbjct  51  VLKMATSILPTAICKGFK  68
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.132    0.392    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16454542
+
+
+Query= et|JZ531021.1_Lnc105_M13R_CH-169_B04_030_ORF2
+
+Length=55
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L13A17781| unnamed protein product                                    21.9    0.50 
+L12A07229| unnamed protein product                                    21.9    0.98 
+
+
+>L13A17781| unnamed protein product
+Length=24
+
+ Score = 21.9 bits (45),  Expect = 0.50, Method: Compositional matrix adjust.
+ Identities = 8/15 (53%), Positives = 10/15 (67%), Gaps = 0/15 (0%)
+
+Query  1   MAISTLPNVLCSGFE  15
+           MA S LP  +C GF+
+Sbjct  8   MATSILPTAICKGFK  22
+
+
+>L12A07229| unnamed protein product
+Length=70
+
+ Score = 21.9 bits (45),  Expect = 0.98, Method: Compositional matrix adjust.
+ Identities = 8/15 (53%), Positives = 10/15 (67%), Gaps = 0/15 (0%)
+
+Query  1   MAISTLPNVLCSGFE  15
+           MA S LP  +C GF+
+Sbjct  54  MATSILPTAICKGFK  68
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.132    0.395    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16074733
+
+
+Query= et|JZ531021.1_Lnc105_M13R_CH-169_B04_030_ORF3
+
+Length=8
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.335    0.146    0.395    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5153816
+
+
+Query= et|JZ531021.1_Lnc105_M13R_CH-169_B04_030_ORF5
+
+Length=64
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.130    0.429    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16438250
+
+
+Query= et|JZ531021.1_Lnc105_M13R_CH-169_B04_030_ORF6
+
+Length=26
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L13A14628| unnamed protein product                                    20.0    0.91 
+
+
+>L13A14628| unnamed protein product
+Length=26
+
+ Score = 20.0 bits (40),  Expect = 0.91, Method: Compositional matrix adjust.
+ Identities = 6/14 (43%), Positives = 12/14 (86%), Gaps = 0/14 (0%)
+
+Query  4   WSKIQKKWARKSVA  17
+           + K+QKK+ RK+++
+Sbjct  3   FGKLQKKFGRKAIS  16
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.123    0.381    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16749902
+
+
+Query= et|JZ531021.1_Lnc105_M13R_CH-169_B04_030_ORF9
+
+Length=19
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.134    0.517    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12240313
+
+
+Query= et|JZ531160.1_Lnc29_M13R_CH-170_B04_030_ORF1
+
+Length=30
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.339    0.141    0.440    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16776508
+
+
+Query= et|JZ531160.1_Lnc29_M13R_CH-170_B04_030_ORF2
+
+Length=16
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.343    0.139    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 10307632
+
+
+Query= et|JZ531160.1_Lnc29_M13R_CH-170_B04_030_ORF3
+
+Length=11
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.330    0.120    0.394    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7086497
+
+
+Query= et|JZ531160.1_Lnc29_M13R_CH-170_B04_030_ORF7
+
+Length=96
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.319    0.133    0.391    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16639700
+
+
+Query= et|JZ531160.1_Lnc29_M13R_CH-170_B04_030_ORF8
+
+Length=31
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.128    0.376    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16145584
+
+
+Query= et|JZ531160.1_Lnc29_M13R_CH-170_B04_030_ORF9
+
+Length=7
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.307    0.119    0.322    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4509589
+
+
+Query= et|JZ531096.1_Lnc181_M13R_CH-171_F02_006_ORF1
+
+Length=69
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A08154| unnamed protein product                                    23.9    0.41 
+L04ABAC117| unnamed protein product                                   23.5    0.42 
+
+
+>L12A08154| unnamed protein product
+Length=75
+
+ Score = 23.9 bits (50),  Expect = 0.41, Method: Compositional matrix adjust.
+ Identities = 9/16 (56%), Positives = 11/16 (69%), Gaps = 0/16 (0%)
+
+Query  45  PLGNSLCRPGCGAVEA  60
+            LGN++C P CG V A
+Sbjct  38  ALGNAVCGPACGFVGA  53
+
+
+>L04ABAC117| unnamed protein product
+Length=57
+
+ Score = 23.5 bits (49),  Expect = 0.42, Method: Compositional matrix adjust.
+ Identities = 9/16 (56%), Positives = 11/16 (69%), Gaps = 0/16 (0%)
+
+Query  45  PLGNSLCRPGCGAVEA  60
+            LGN++C P CG V A
+Sbjct  20  ALGNAVCGPACGFVGA  35
+
+
+
+Lambda      K        H        a         alpha
+   0.312    0.126    0.396    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16536528
+
+
+Query= et|JZ531096.1_Lnc181_M13R_CH-171_F02_006_ORF2
+
+Length=28
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L04ABAC117| unnamed protein product                                   21.9    0.31 
+L12A08154| unnamed protein product                                    22.3    0.32 
+L12A09339| unnamed protein product                                    20.8    0.89 
+
+
+>L04ABAC117| unnamed protein product
+Length=57
+
+ Score = 21.9 bits (45),  Expect = 0.31, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+
+Query  5   LGNSLCRPGCGAVEA  19
+           LGN++C P CG V A
+Sbjct  21  LGNAVCGPACGFVGA  35
+
+
+>L12A08154| unnamed protein product
+Length=75
+
+ Score = 22.3 bits (46),  Expect = 0.32, Method: Compositional matrix adjust.
+ Identities = 9/15 (60%), Positives = 11/15 (73%), Gaps = 0/15 (0%)
+
+Query  5   LGNSLCRPGCGAVEA  19
+           LGN++C P CG V A
+Sbjct  39  LGNAVCGPACGFVGA  53
+
+
+>L12A09339| unnamed protein product
+Length=56
+
+ Score = 20.8 bits (42),  Expect = 0.89, Method: Compositional matrix adjust.
+ Identities = 9/17 (53%), Positives = 11/17 (65%), Gaps = 2/17 (12%)
+
+Query  6   GNSLCRPGC--GAVEAC  20
+             SLC PGC  GA++ C
+Sbjct  27  SESLCTPGCVTGALQTC  43
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.135    0.442    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16785738
+
+
+Query= et|JZ531096.1_Lnc181_M13R_CH-171_F02_006_ORF3
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.327    0.133    0.364    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= et|JZ531096.1_Lnc181_M13R_CH-171_F02_006_ORF4
+
+Length=39
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.123    0.373    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16797957
+
+
+Query= et|JZ531096.1_Lnc181_M13R_CH-171_F02_006_ORF5
+
+Length=23
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.125    0.399    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 14817221
+
+
+Query= et|JZ531096.1_Lnc181_M13R_CH-171_F02_006_ORF6
+
+Length=9
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.131    0.517    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5798043
+
+
+Query= et|JZ531096.1_Lnc181_M13R_CH-171_F02_006_ORF7
+
+Length=8
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.133    0.533    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5153816
+
+
+Query= et|JZ531103.1_Lnc188_M13R_CH-171_C03_027_ORF1
+
+Length=34
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.308    0.118    0.357    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16622850
+
+
+Query= et|JZ531103.1_Lnc188_M13R_CH-171_C03_027_ORF2
+
+Length=20
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.115    0.366    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12884540
+
+
+Query= et|JZ531103.1_Lnc188_M13R_CH-171_C03_027_ORF3
+
+Length=8
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.299   0.0999    0.240    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5153816
+
+
+Query= et|JZ531103.1_Lnc188_M13R_CH-171_C03_027_ORF6
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.303    0.108    0.281    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7730724
+
+
+Query= et|JZ531103.1_Lnc188_M13R_CH-171_C03_027_ORF9
+
+Length=30
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.315    0.120    0.429    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16776508
+
+
+Query= et|JZ531103.1_Lnc188_M13R_CH-171_C03_027_ORF10
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.280   0.0940    0.211    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= et|JZ531029.1_Lnc115_M13R_CH-169_A05_047_ORF1
+
+Length=80
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.132    0.424    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16453458
+
+
+Query= et|JZ531029.1_Lnc115_M13R_CH-169_A05_047_ORF2
+
+Length=21
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.336    0.153    0.533    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 13528767
+
+
+Query= et|JZ531029.1_Lnc115_M13R_CH-169_A05_047_ORF3
+
+Length=56
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.132    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16448564
+
+
+Query= et|JZ531029.1_Lnc115_M13R_CH-169_A05_047_ORF4
+
+Length=53
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.132    0.406    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16647288
+
+
+Query= et|JZ531029.1_Lnc115_M13R_CH-169_A05_047_ORF5
+
+Length=46
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.130    0.405    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16332910
+
+
+Query= et|JZ531029.1_Lnc115_M13R_CH-169_A05_047_ORF6
+
+Length=44
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.317    0.131    0.412    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16702668
+
+
+Query= et|JZ531029.1_Lnc115_M13R_CH-169_A05_047_ORF7
+
+Length=34
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.314    0.125    0.397    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16622850
+
+
+Query= et|JZ531029.1_Lnc115_M13R_CH-169_A05_047_ORF8
+
+Length=14
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.305    0.111    0.283    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 9019178
+
+
+Query= et|JZ531029.1_Lnc115_M13R_CH-169_A05_047_ORF11
+
+Length=31
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.320    0.131    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16145584
+
+
+Query= et|GW787493.1_Lnc260_t3_ORF5
+
+Length=26
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.339    0.147    0.458    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16749902
+
+
+Query= et|GW787493.1_Lnc260_t3_ORF6
+
+Length=25
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.337    0.148    0.462    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16105675
+
+
+Query= et|GW787493.1_Lnc260_t3_ORF12
+
+Length=17
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.328    0.147    0.453    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 10951859
+
+
+Query= et|GW787493.1_Lnc260_t3_ORF13
+
+Length=32
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.327    0.137    0.437    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16722212
+
+
+Query= et|GW787493.1_Lnc260_t3_ORF14
+
+Length=25
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.134    0.435    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16105675
+
+
+Query= et|GW787493.1_Lnc260_t3_ORF15
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.337    0.157    0.422    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7730724
+
+
+Query= et|GW787493.1_Lnc260_t3_ORF20
+
+Length=9
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.302   0.0968    0.289    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5798043
+
+
+Query= et|GW787493.1_Lnc260_t3_ORF21
+
+Length=11
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.334    0.144    0.772    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7086497
+
+
+Query= et|GW787477.1_Lnc_ORF1
+
+Length=20
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.330    0.139    0.414    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12884540
+
+
+Query= et|GW787477.1_Lnc_ORF4
+
+Length=11
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.331    0.130    0.576    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7086497
+
+
+Query= et|GW787477.1_Lnc_ORF6
+
+Length=10
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.301    0.110    0.258    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6442270
+
+
+Query= et|GW787477.1_Lnc_ORF7
+
+Length=14
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.125    0.324    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 9019178
+
+
+Query= et|GW787477.1_Lnc_ORF8
+
+Length=58
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A06691| unnamed protein product                                    22.3    0.61 
+
+
+>L12A06691| unnamed protein product
+Length=52
+
+ Score = 22.3 bits (46),  Expect = 0.61, Method: Compositional matrix adjust.
+ Identities = 12/34 (35%), Positives = 19/34 (56%), Gaps = 0/34 (0%)
+
+Query  24  MTAVRKELKLVILDLYHAPKRYLVVGKEPKISEK  57
+           M AV+++ +L  LD+    K     G EP+I+ K
+Sbjct  1   MEAVKEKNELFDLDVKVNAKESNDSGAEPRIASK  34
+
+
+
+Lambda      K        H        a         alpha
+   0.326    0.140    0.457    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15808410
+
+
+Query= et|GW787477.1_Lnc_ORF9
+
+Length=35
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A06691| unnamed protein product                                    22.7    0.24 
+L12A06690| unnamed protein product                                    22.3    0.28 
+
+
+>L12A06691| unnamed protein product
+Length=52
+
+ Score = 22.7 bits (47),  Expect = 0.24, Method: Compositional matrix adjust.
+ Identities = 12/35 (34%), Positives = 19/35 (54%), Gaps = 0/35 (0%)
+
+Query  1   MTAVRKELKLVILDLYHAPKRYLVVGKEPKISEKI  35
+           M AV+++ +L  LD+    K     G EP+I+ K 
+Sbjct  1   MEAVKEKNELFDLDVKVNAKESNDSGAEPRIASKF  35
+
+
+>L12A06690| unnamed protein product
+Length=52
+
+ Score = 22.3 bits (46),  Expect = 0.28, Method: Compositional matrix adjust.
+ Identities = 12/35 (34%), Positives = 18/35 (51%), Gaps = 0/35 (0%)
+
+Query  1   MTAVRKELKLVILDLYHAPKRYLVVGKEPKISEKI  35
+           M AV+++  L  LD+    K     G EP+I+ K 
+Sbjct  1   MEAVKEKNDLFNLDVKVNAKESNDSGAEPRIASKF  35
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.140    0.379    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15946860
+
+
+Query= et|GW787477.1_Lnc_ORF12
+
+Length=16
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.347    0.160    0.404    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 10307632
+
+
+Query= et|JZ531037.1_Lnc123_M13R_CH-170_D04_026_ORF1
+
+Length=23
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.330    0.136    0.343    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 14817221
+
+
+Query= et|JZ531037.1_Lnc123_M13R_CH-170_D04_026_ORF2
+
+Length=10
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.336    0.147    0.355    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6442270
+
+
+Query= et|JZ531037.1_Lnc123_M13R_CH-170_D04_026_ORF3
+
+Length=32
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.338    0.145    0.480    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16722212
+
+
+Query= et|JZ531037.1_Lnc123_M13R_CH-170_D04_026_ORF7
+
+Length=74
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.313    0.124    0.364    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16454542
+
+
+Query= et|JZ531197.1_Lnc96_M13R_CH-169_B03_029_ORF3
+
+Length=16
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.321    0.132    0.428    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 10307632
+
+
+Query= et|JZ531197.1_Lnc96_M13R_CH-169_B03_029_ORF4
+
+Length=10
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.129    0.455    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 6442270
+
+
+Query= et|JZ531197.1_Lnc96_M13R_CH-169_B03_029_ORF5
+
+Length=78
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A09147| unnamed protein product                                    23.9    0.38 
+
+
+>L12A09147| unnamed protein product
+Length=71
+
+ Score = 23.9 bits (50),  Expect = 0.38, Method: Compositional matrix adjust.
+ Identities = 10/19 (53%), Positives = 12/19 (63%), Gaps = 0/19 (0%)
+
+Query  48  PTSPSVTGTVTSSLSNANE  66
+           P SPSVTG  +  L N N+
+Sbjct  36  PFSPSVTGCSSCHLINFND  54
+
+
+
+Lambda      K        H        a         alpha
+   0.305    0.115    0.300    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 15931126
+
+
+Query= et|JZ531197.1_Lnc96_M13R_CH-169_B03_029_ORF6
+
+Length=39
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A09147| unnamed protein product                                    23.5    0.17 
+
+
+>L12A09147| unnamed protein product
+Length=71
+
+ Score = 23.5 bits (49),  Expect = 0.17, Method: Compositional matrix adjust.
+ Identities = 10/19 (53%), Positives = 12/19 (63%), Gaps = 0/19 (0%)
+
+Query  9   PTSPSVTGTVTSSLSNANE  27
+           P SPSVTG  +  L N N+
+Sbjct  36  PFSPSVTGCSSCHLINFND  54
+
+
+
+Lambda      K        H        a         alpha
+   0.305    0.115    0.287    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16797957
+
+
+Query= et|JZ531197.1_Lnc96_M13R_CH-169_B03_029_ORF7
+
+Length=38
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A09147| unnamed protein product                                    23.5    0.16 
+
+
+>L12A09147| unnamed protein product
+Length=71
+
+ Score = 23.5 bits (49),  Expect = 0.16, Method: Compositional matrix adjust.
+ Identities = 10/19 (53%), Positives = 12/19 (63%), Gaps = 0/19 (0%)
+
+Query  8   PTSPSVTGTVTSSLSNANE  26
+           P SPSVTG  +  L N N+
+Sbjct  36  PFSPSVTGCSSCHLINFND  54
+
+
+
+Lambda      K        H        a         alpha
+   0.303    0.115    0.286    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16288928
+
+
+Query= et|JZ531197.1_Lnc96_M13R_CH-169_B03_029_ORF8
+
+Length=32
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+L12A09147| unnamed protein product                                    23.1    0.15 
+
+
+>L12A09147| unnamed protein product
+Length=71
+
+ Score = 23.1 bits (48),  Expect = 0.15, Method: Compositional matrix adjust.
+ Identities = 10/19 (53%), Positives = 12/19 (63%), Gaps = 0/19 (0%)
+
+Query  2   PTSPSVTGTVTSSLSNANE  20
+           P SPSVTG  +  L N N+
+Sbjct  36  PFSPSVTGCSSCHLINFND  54
+
+
+
+Lambda      K        H        a         alpha
+   0.299    0.111    0.280    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16722212
+
+
+Query= et|JZ531197.1_Lnc96_M13R_CH-169_B03_029_ORF9
+
+Length=12
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.123    0.309    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7730724
+
+
+Query= et|JZ531164.1_Lnc41_M13R_CH-170_B06_046_ORF1
+
+Length=15
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.349    0.147    0.439    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 9663405
+
+
+Query= et|JZ531164.1_Lnc41_M13R_CH-170_B06_046_ORF2
+
+Length=8
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.346    0.135    0.419    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5153816
+
+
+Query= et|JZ531164.1_Lnc41_M13R_CH-170_B06_046_ORF3
+
+Length=6
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.376    0.150    0.660    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 3865362
+
+
+Query= et|JZ531164.1_Lnc41_M13R_CH-170_B06_046_ORF5
+
+Length=19
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.336    0.147    0.534    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12240313
+
+
+Query= et|JZ531164.1_Lnc41_M13R_CH-170_B06_046_ORF6
+
+Length=30
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.329    0.143    0.426    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16776508
+
+
+Query= et|GW787472.1_Lnc_ORF4
+
+Length=7
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.332    0.137    0.364    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4509589
+
+
+Query= et|GW787472.1_Lnc_ORF7
+
+Length=53
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.132    0.372    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16647288
+
+
+Query= et|GW787472.1_Lnc_ORF8
+
+Length=34
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.305    0.121    0.302    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16622850
+
+
+Query= et|GW787472.1_Lnc_ORF10
+
+Length=33
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.323    0.138    0.400    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16068755
+
+
+Query= et|GW787472.1_Lnc_ORF12
+
+Length=11
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.308    0.127    0.321    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 7086497
+
+
+Query= et|GW787472.1_Lnc_ORF13
+
+Length=9
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.322    0.137    0.374    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 5798043
+
+
+Query= et|GW787472.1_Lnc_ORF16
+
+Length=38
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.330    0.144    0.465    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16288928
+
+
+Query= et|GW787472.1_Lnc_ORF17
+
+Length=19
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.138    0.380    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 12240313
+
+
+Query= et|GW787472.1_Lnc_ORF19
+
+Length=23
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.339    0.158    0.428    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 14817221
+
+
+Query= et|GW787472.1_Lnc_ORF20
+
+Length=32
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.130    0.318    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 16722212
+
+
+  Database: lamp
+    Posted date:  Dec 10, 2020  2:44 PM
+  Number of letters in database: 644,227
+  Number of sequences in database:  22,533
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
