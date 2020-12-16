@@ -1,0 +1,3 @@
+sORF_ID,sORF_seq,transcript_DNA_sequence_ID,start_at,end_at,classification,probability
+Leucaugevenusta_2_0_75_18_frag_0_ORF2,ATGCTACCTTAG,Leucaugevenusta_2_0_75_18_frag_0,463,474,coding,0.9227248724466577
+Leucaugevenusta_2_0_75_18_frag_0_ORF4,ATGTAA,Leucaugevenusta_2_0_75_18_frag_0,99,104,coding,0.9999999989598995
