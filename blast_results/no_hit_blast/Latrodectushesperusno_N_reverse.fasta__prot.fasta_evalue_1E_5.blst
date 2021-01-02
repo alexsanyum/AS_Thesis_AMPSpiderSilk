@@ -1,0 +1,1125 @@
+Query= Latrodectushesperus_0_75_103_ORF1
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.140    0.503    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_110_ORF1
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.140    0.503    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_110_ORF3
+Length=80
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.140    0.450    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16453458
+Query= Latrodectushesperus_0_75_111_ORF1
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.140    0.430    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= Latrodectushesperus_0_75_111_ORF2
+Length=48
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.128    0.393    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15918086
+Query= Latrodectushesperus_0_75_111_ORF3
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.140    0.503    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_111_ORF6
+Length=80
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.140    0.450    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16453458
+Query= Latrodectushesperus_0_75_112_ORF3
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.140    0.430    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= Latrodectushesperus_0_75_112_ORF4
+Length=48
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.128    0.393    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15918086
+Query= Latrodectushesperus_0_75_112_ORF5
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.140    0.503    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_112_ORF8
+Length=80
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.140    0.450    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16453458
+Query= Latrodectushesperus_0_75_113_ORF2
+Length=39
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.146    0.453    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16797957
+Query= Latrodectushesperus_0_75_113_ORF3
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.147    0.455    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= Latrodectushesperus_0_75_113_ORF4
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.128    0.317    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= Latrodectushesperus_0_75_113_ORF6
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.140    0.430    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= Latrodectushesperus_0_75_113_ORF7
+Length=48
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.128    0.393    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15918086
+Query= Latrodectushesperus_0_75_113_ORF8
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.140    0.503    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_113_ORF10
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.134    0.549    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= Latrodectushesperus_0_75_113_ORF11
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.149    0.434    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= Latrodectushesperus_0_75_113_ORF14
+Length=80
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.140    0.450    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16453458
+Query= Latrodectushesperus_0_75_113_ORF15
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.129    0.384    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= Latrodectushesperus_0_75_113_ORF16
+Length=28
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.127    0.356    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16785738
+Query= Latrodectushesperus_0_75_113_ORF17
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.121    0.292    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= Latrodectushesperus_0_75_113_ORF18
+Length=67
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.142    0.444    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15924064
+Query= Latrodectushesperus_0_75_113_ORF19
+Length=46
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.340    0.146    0.456    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16332910
+Query= Latrodectushesperus_0_75_113_ORF20
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.156    0.557    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= Latrodectushesperus_0_75_113_ORF23
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.143    0.448    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_115_ORF1
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.129    0.384    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= Latrodectushesperus_0_75_115_ORF2
+Length=28
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.127    0.356    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16785738
+Query= Latrodectushesperus_0_75_115_ORF3
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.121    0.292    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= Latrodectushesperus_0_75_115_ORF4
+Length=67
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.142    0.444    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15924064
+Query= Latrodectushesperus_0_75_115_ORF5
+Length=46
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.340    0.146    0.456    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16332910
+Query= Latrodectushesperus_0_75_115_ORF6
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.156    0.557    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= Latrodectushesperus_0_75_115_ORF9
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.143    0.448    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_115_ORF13
+Length=39
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.146    0.453    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16797957
+Query= Latrodectushesperus_0_75_115_ORF14
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.147    0.455    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= Latrodectushesperus_0_75_115_ORF15
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.128    0.317    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= Latrodectushesperus_0_75_115_ORF17
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.140    0.430    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= Latrodectushesperus_0_75_115_ORF18
+Length=48
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.128    0.393    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15918086
+Query= Latrodectushesperus_0_75_115_ORF19
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.140    0.503    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_115_ORF21
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.134    0.549    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= Latrodectushesperus_0_75_115_ORF22
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.149    0.434    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= Latrodectushesperus_0_75_115_ORF25
+Length=80
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.140    0.450    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16453458
+Query= Latrodectushesperus_0_75_128_ORF1
+Length=68
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.144    0.497    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16230296
+Query= Latrodectushesperus_0_75_128_ORF2
+Length=67
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.144    0.499    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15924064
+Query= Latrodectushesperus_0_75_128_ORF3
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.143    0.493    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= Latrodectushesperus_0_75_128_ORF7
+Length=39
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.146    0.453    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16797957
+Query= Latrodectushesperus_0_75_128_ORF8
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.147    0.455    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= Latrodectushesperus_0_75_128_ORF9
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.128    0.317    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= Latrodectushesperus_0_75_128_ORF11
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.140    0.430    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= Latrodectushesperus_0_75_128_ORF12
+Length=48
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.128    0.393    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15918086
+Query= Latrodectushesperus_0_75_128_ORF13
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.140    0.503    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_128_ORF14
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.140    0.324    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= Latrodectushesperus_0_75_128_ORF16
+Length=29
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.131    0.333    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16177347
+Query= Latrodectushesperus_0_75_128_ORF18
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.134    0.549    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= Latrodectushesperus_0_75_128_ORF19
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.149    0.434    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= Latrodectushesperus_0_75_128_ORF22
+Length=80
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.140    0.450    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16453458
+Query= Latrodectushesperus_0_75_128_ORF24
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.120    0.417    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= Latrodectushesperus_0_75_128_ORF26
+Length=36
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.131    0.429    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16478422
+Query= Latrodectushesperus_0_75_128_ORF28
+Length=29
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.135    0.410    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16177347
+Query= Latrodectushesperus_0_75_128_ORF29
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.305    0.124    0.371    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= Latrodectushesperus_0_75_128_ORF31
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.129    0.384    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= Latrodectushesperus_0_75_128_ORF32
+Length=28
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.127    0.356    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16785738
+Query= Latrodectushesperus_0_75_128_ORF33
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.121    0.292    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= Latrodectushesperus_0_75_128_ORF34
+Length=67
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.142    0.444    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15924064
+Query= Latrodectushesperus_0_75_128_ORF35
+Length=46
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.340    0.146    0.456    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16332910
+Query= Latrodectushesperus_0_75_128_ORF36
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.156    0.557    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= Latrodectushesperus_0_75_128_ORF39
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.143    0.448    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_154_ORF3
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.120    0.417    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= Latrodectushesperus_0_75_154_ORF5
+Length=36
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.131    0.429    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16478422
+Query= Latrodectushesperus_0_75_154_ORF7
+Length=29
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.135    0.410    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16177347
+Query= Latrodectushesperus_0_75_154_ORF8
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.305    0.124    0.371    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= Latrodectushesperus_0_75_154_ORF10
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.129    0.384    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= Latrodectushesperus_0_75_154_ORF11
+Length=28
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.127    0.356    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16785738
+Query= Latrodectushesperus_0_75_154_ORF12
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.121    0.292    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= Latrodectushesperus_0_75_154_ORF13
+Length=67
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.142    0.444    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15924064
+Query= Latrodectushesperus_0_75_154_ORF14
+Length=46
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.340    0.146    0.456    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16332910
+Query= Latrodectushesperus_0_75_154_ORF15
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.156    0.557    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= Latrodectushesperus_0_75_154_ORF18
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.143    0.448    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_154_ORF21
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.312    0.134    0.419    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= Latrodectushesperus_0_75_154_ORF22
+Length=68
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.144    0.497    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16230296
+Query= Latrodectushesperus_0_75_154_ORF23
+Length=67
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.144    0.499    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15924064
+Query= Latrodectushesperus_0_75_154_ORF24
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.143    0.493    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= Latrodectushesperus_0_75_154_ORF28
+Length=39
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.146    0.453    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16797957
+Query= Latrodectushesperus_0_75_154_ORF29
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.147    0.455    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= Latrodectushesperus_0_75_154_ORF30
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.128    0.317    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= Latrodectushesperus_0_75_154_ORF32
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.140    0.430    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= Latrodectushesperus_0_75_154_ORF33
+Length=48
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.128    0.393    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15918086
+Query= Latrodectushesperus_0_75_154_ORF34
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.140    0.503    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_154_ORF35
+Length=75
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.142    0.433    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16738241
+Query= Latrodectushesperus_0_75_154_ORF36
+Length=40
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.313    0.128    0.371    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16054368
+Query= Latrodectushesperus_0_75_154_ORF37
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.140    0.324    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= Latrodectushesperus_0_75_154_ORF39
+Length=29
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.131    0.333    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16177347
+Query= Latrodectushesperus_0_75_154_ORF41
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.134    0.549    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= Latrodectushesperus_0_75_154_ORF42
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.149    0.434    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= Latrodectushesperus_0_75_154_ORF45
+Length=80
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.140    0.450    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16453458
+Query= Latrodectushesperus_0_75_175_ORF3
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.312    0.134    0.419    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= Latrodectushesperus_0_75_175_ORF4
+Length=68
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.144    0.497    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16230296
+Query= Latrodectushesperus_0_75_175_ORF5
+Length=67
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.144    0.499    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15924064
+Query= Latrodectushesperus_0_75_175_ORF6
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.143    0.493    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= Latrodectushesperus_0_75_175_ORF10
+Length=39
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.146    0.453    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16797957
+Query= Latrodectushesperus_0_75_175_ORF11
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.147    0.455    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= Latrodectushesperus_0_75_175_ORF12
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.128    0.317    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= Latrodectushesperus_0_75_175_ORF14
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.140    0.430    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= Latrodectushesperus_0_75_175_ORF15
+Length=48
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.128    0.393    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15918086
+Query= Latrodectushesperus_0_75_175_ORF16
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.140    0.503    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Latrodectushesperus_0_75_175_ORF17
+Length=18
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.138    0.358    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 11596086
+Query= Latrodectushesperus_0_75_175_ORF19
+Length=75
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.142    0.433    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16738241
+Query= Latrodectushesperus_0_75_175_ORF20
+Length=40
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.313    0.128    0.371    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16054368
+Query= Latrodectushesperus_0_75_175_ORF21
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.140    0.324    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= Latrodectushesperus_0_75_175_ORF23
+Length=29
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.131    0.333    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16177347
+Query= Latrodectushesperus_0_75_175_ORF25
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.134    0.549    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= Latrodectushesperus_0_75_175_ORF26
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.149    0.434    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= Latrodectushesperus_0_75_175_ORF29
+Length=80
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.140    0.450    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16453458
+Query= Latrodectushesperus_0_75_175_ORF30
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.346    0.134    0.436    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= Latrodectushesperus_0_75_175_ORF33
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.120    0.417    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= Latrodectushesperus_0_75_175_ORF35
+Length=36
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.131    0.429    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16478422
+Query= Latrodectushesperus_0_75_175_ORF37
+Length=29
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.135    0.410    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16177347
+Query= Latrodectushesperus_0_75_175_ORF38
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.305    0.124    0.371    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= Latrodectushesperus_0_75_175_ORF40
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.129    0.384    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= Latrodectushesperus_0_75_175_ORF41
+Length=28
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.127    0.356    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16785738
+Query= Latrodectushesperus_0_75_175_ORF42
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.121    0.292    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= Latrodectushesperus_0_75_175_ORF43
+Length=67
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.142    0.444    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15924064
+Query= Latrodectushesperus_0_75_175_ORF44
+Length=46
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.340    0.146    0.456    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16332910
+Query= Latrodectushesperus_0_75_175_ORF45
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.156    0.557    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497

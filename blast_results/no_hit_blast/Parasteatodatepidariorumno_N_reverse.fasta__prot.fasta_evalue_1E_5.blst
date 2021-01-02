@@ -1,0 +1,54 @@
+Query= Parasteatodatepidariorum_0_75_17_ORF1
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.145    0.408    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= Parasteatodatepidariorum_0_75_32_ORF7
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.336    0.154    0.397    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= Parasteatodatepidariorum_0_75_32_ORF14
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.313    0.120    0.323    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= Parasteatodatepidariorum_0_75_32_ORF15
+Length=24
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.312    0.121    0.335    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15461448
+Query= Parasteatodatepidariorum_0_75_32_ORF16
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.291    0.106    0.240    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= Parasteatodatepidariorum_0_75_32_ORF21
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.357    0.165    0.600    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313

@@ -1,0 +1,29 @@
+Query= et|GT029726.1_BN120__ORF14
+Length=77
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+L02A001575|TCP unnamed protein product                                45.1    4e-09
+L12A09738| unnamed protein product                                    39.3    5e-07
+>L02A001575|TCP unnamed protein product
+Length=96
+ Score = 45.1 bits (105),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 29/76 (38%), Positives = 40/76 (53%), Gaps = 9/76 (12%)
+Query  1   MCAGGKAGQ----DACKGDGGGPLVCFRS-DNSYTVAGLVSWGIDCGQEGIPGVYVNVKK  55
+            CAG K  +    DAC+GD GGP V     +N +   G+VSWG  C ++G  G Y +V +
+Sbjct  23  FCAGYKPDEGKRGDACEGDSGGPFVMKSPFNNRWYQMGIVSWGEGCDRDGKYGFYTHVFR  82
+Query  56  YNDWIVSKTQKPIENY  71
+              WI    QK I+ +
+Sbjct  83  LKKWI----QKVIDQF  94
+>L12A09738| unnamed protein product
+Length=80
+ Score = 39.3 bits (90),  Expect = 5e-07, Method: Compositional matrix adjust.
+ Identities = 24/58 (41%), Positives = 32/58 (55%), Gaps = 5/58 (9%)
+Query  1   MCAGGKAGQ----DACKGDGGGPLVCFRS-DNSYTVAGLVSWGIDCGQEGIPGVYVNV  53
+            CAG K  +    DAC+GD GGP V     +N +   G+VSWG  C ++G  G Y +V
+Sbjct  23  FCAGYKPDEGKRGDACEGDSGGPFVMKSPFNNRWYQMGIVSWGEGCDRDGKYGFYTHV  80
+Lambda      K        H        a         alpha
+   0.316    0.136    0.454    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 17305639

@@ -1,0 +1,84 @@
+Query= et|JZ531198.1_Lnc98_M13R_CH-169_C03_027_ORF3
+Length=87
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+L01A001073|Sequence 1 from patent US 6884776                          87.8    3e-26
+L01A001987|Sequence 1595 from patent US 6573361                       63.2    2e-16
+L01A001988|Sequence 1597 from patent US 6573361                       59.7    5e-15
+L01A001072|Sequence 2 from patent US 6884776                          37.4    1e-06
+L01A001066|Sequence 8 from patent US 6884776                          34.3    2e-05
+>L01A001073|Sequence 1 from patent US 6884776
+Length=59
+ Score = 87.8 bits (216),  Expect = 3e-26, Method: Compositional matrix adjust.
+ Identities = 52/59 (88%), Positives = 57/59 (97%), Gaps = 0/59 (0%)
+Query  29  KVHGSLARAGKVKGQTPKVEKQEKKKRKTGRAKRRMQFNRRFVNVVVTFGRKKGPNSNS  87
+           KVHGSLARAGKV+GQTPKV KQEKKK+KTGRAKRRMQ+NRRFVNVV TFG+KKGPN+NS
+Sbjct  1   KVHGSLARAGKVRGQTPKVAKQEKKKKKTGRAKRRMQYNRRFVNVVPTFGKKKGPNANS  59
+>L01A001987|Sequence 1595 from patent US 6573361
+Length=60
+ Score = 63.2 bits (152),  Expect = 2e-16, Method: Compositional matrix adjust.
+ Identities = 39/58 (67%), Positives = 48/58 (83%), Gaps = 0/58 (0%)
+Query  29  KVHGSLARAGKVKGQTPKVEKQEKKKRKTGRAKRRMQFNRRFVNVVVTFGRKKGPNSN  86
+           KVHGSLARAGKV+G+  KV KQ+KKK+  GRA +R+Q NRRFV  VV FG+K+GPNS+
+Sbjct  1   KVHGSLARAGKVRGRHQKVAKQDKKKKPRGRAHKRLQHNRRFVTAVVGFGKKRGPNSS  58
+>L01A001988|Sequence 1597 from patent US 6573361
+Length=62
+ Score = 59.7 bits (143),  Expect = 5e-15, Method: Compositional matrix adjust.
+ Identities = 34/54 (63%), Positives = 42/54 (78%), Gaps = 0/54 (0%)
+Query  28  GKVHGSLARAGKVKGQTPKVEKQEKKKRKTGRAKRRMQFNRRFVNVVVTFGRKK  81
+            KVHGSLARAGKVK QTPKVEK EK K+  GRA +R+ + RRFVNV +  G+++
+Sbjct  1   AKVHGSLARAGKVKSQTPKVEKTEKPKKPKGRAYKRLLYTRRFVNVTLVNGKRR  54
+>L01A001072|Sequence 2 from patent US 6884776
+Length=18
+ Score = 37.4 bits (85),  Expect = 1e-06, Method: Compositional matrix adjust.
+ Identities = 17/18 (94%), Positives = 18/18 (100%), Gaps = 0/18 (0%)
+Query  29  KVHGSLARAGKVKGQTPK  46
+           KVHGSLARAGKV+GQTPK
+Sbjct  1   KVHGSLARAGKVRGQTPK  18
+>L01A001066|Sequence 8 from patent US 6884776
+Length=18
+ Score = 34.3 bits (77),  Expect = 2e-05, Method: Compositional matrix adjust.
+ Identities = 15/18 (83%), Positives = 17/18 (94%), Gaps = 0/18 (0%)
+Query  70  FVNVVVTFGRKKGPNSNS  87
+           FVNVV TFG+KKGPN+NS
+Sbjct  1   FVNVVPTFGKKKGPNANS  18
+Lambda      K        H        a         alpha
+   0.313    0.130    0.360    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16465677
+Query= et|JZ531198.1_Lnc98_M13R_CH-169_C03_027_ORF4
+Length=24
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+L01A001073|Sequence 1 from patent US 6884776                          45.4    2e-10
+L01A001987|Sequence 1595 from patent US 6573361                       36.6    5e-07
+L01A001066|Sequence 8 from patent US 6884776                          33.5    5e-06
+>L01A001073|Sequence 1 from patent US 6884776
+Length=59
+ Score = 45.4 bits (106),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 20/24 (83%), Positives = 23/24 (96%), Gaps = 0/24 (0%)
+Query  1   MQFNRRFVNVVVTFGRKKGPNSNS  24
+           MQ+NRRFVNVV TFG+KKGPN+NS
+Sbjct  36  MQYNRRFVNVVPTFGKKKGPNANS  59
+>L01A001987|Sequence 1595 from patent US 6573361
+Length=60
+ Score = 36.6 bits (83),  Expect = 5e-07, Method: Compositional matrix adjust.
+ Identities = 15/24 (63%), Positives = 19/24 (79%), Gaps = 0/24 (0%)
+Query  1   MQFNRRFVNVVVTFGRKKGPNSNS  24
+           +Q NRRFV  VV FG+K+GPNS+ 
+Sbjct  36  LQHNRRFVTAVVGFGKKRGPNSSE  59
+>L01A001066|Sequence 8 from patent US 6884776
+Length=18
+ Score = 33.5 bits (75),  Expect = 5e-06, Method: Compositional matrix adjust.
+ Identities = 15/18 (83%), Positives = 17/18 (94%), Gaps = 0/18 (0%)
+Query  7   FVNVVVTFGRKKGPNSNS  24
+           FVNVV TFG+KKGPN+NS
+Sbjct  1   FVNVVPTFGKKKGPNANS  18
+Lambda      K        H        a         alpha
+   0.323    0.135    0.394    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15461448

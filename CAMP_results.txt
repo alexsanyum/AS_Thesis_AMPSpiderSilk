@@ -1,0 +1,287 @@
+et|GT029908.1_CN575_ORF9	Bacteriocin	-	1
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (19 residues)
+Target model(s):                          88  (3042 nodes)
+Passed MSV filter:                         0  (0); expected 1.8 (0.02)
+Passed bias filter:                        0  (0); expected 1.8 (0.02)
+Passed Vit filter:                         0  (0); expected 0.1 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                 88  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: inf
+//
+
+Query:       et|GT029908.1_CN575_ORF9  [L=18]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------          -----------
+    0.00077   12.7   0.3    0.00077   12.7   0.2    1.1  1  Bacteriocin_22-11 
+
+
+Domain annotation for each model (and alignments):
+>> Bacteriocin_22-11  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   12.7   0.2   8.7e-06   0.00077       5      20 ..       2      17 ..       1      18 [] 0.92
+
+  Alignments for each domain:
+  == domain 1    score: 12.7 bits;  conditional E-value: 8.7e-06
+         Bacteriocin_22-11  5 tvctaglvitgsfnsg 20
+                              +vcta+l++t ++n++
+  et|GT029908.1_CN575_ORF9  2 MVCTAILKRTCVNNFF 17
+                              9************996 PP
+
+
+et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF548	Temporin	-	1
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (13 residues)
+Target model(s):                          88  (3042 nodes)
+Passed MSV filter:                         2  (0.0227273); expected 1.8 (0.02)
+Passed bias filter:                        2  (0.0227273); expected 1.8 (0.02)
+Passed Vit filter:                         0  (0); expected 0.1 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                 88  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: inf
+//
+
+Query:       et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF548  [L=37]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model         Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------      -----------
+     0.0019   11.5   2.7       0.02    8.4   0.2    2.5  2  Temporin_17-9 
+
+
+Domain annotation for each model (and alignments):
+>> Temporin_17-9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.7   0.1     0.016       1.4       5      11 ..       6      12 ..       4      17 .. 0.73
+   2 !    8.4   0.2   0.00022      0.02       1      14 [.      22      35 ..      22      36 .. 0.70
+
+  Alignments for each domain:
+  == domain 1    score: 2.7 bits;  conditional E-value: 0.016
+                                           Temporin_17-9  5 iLgALgi 11
+                                                             +++L++
+  et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF548  6 MFPFLIS 12
+                                                            5777776 PP
+
+  == domain 2    score: 8.4 bits;  conditional E-value: 0.00022
+                                           Temporin_17-9  1 FLpliLgALgiilP 14
+                                                            F+++i++  ++i++
+  et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF548 22 FVDRIKIIFSKIFI 35
+                                                            77777777777765 PP
+
+
+
+et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF549	Temporin	-	1
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (37 residues)
+Target model(s):                          88  (3042 nodes)
+Passed MSV filter:                         7  (0.0795455); expected 1.8 (0.02)
+Passed bias filter:                        7  (0.0795455); expected 1.8 (0.02)
+Passed Vit filter:                         1  (0.0113636); expected 0.1 (0.001)
+Passed Fwd filter:                         1  (0.0113636); expected 0.0 (1e-05)
+Initial search space (Z):                 88  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 7.03
+//
+
+Query:       et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF549  [L=32]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model         Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------      -----------
+     0.0031   10.8   2.4      0.014    8.8   0.2    2.4  2  Temporin_17-9 
+
+
+Domain annotation for each model (and alignments):
+>> Temporin_17-9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.1   0.1     0.024       2.1       6      11 ..       2       7 ..       1      15 [. 0.79
+   2 !    8.8   0.2   0.00016     0.014       1      14 [.      17      30 ..      17      31 .. 0.71
+
+  Alignments for each domain:
+  == domain 1    score: 2.1 bits;  conditional E-value: 0.024
+                                           Temporin_17-9  6 LgALgi 11
+                                                            +++L++
+  et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF549  2 FPFLIS 7 
+                                                            788887 PP
+
+  == domain 2    score: 8.8 bits;  conditional E-value: 0.00016
+                                           Temporin_17-9  1 FLpliLgALgiilP 14
+                                                            F+++i++  ++i++
+  et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF549 17 FVDRIKIIFSKIFI 30
+                                                            77777777777765 PP
+
+
+
+et|JZ531069.1_Lnc156_M13R_CH-170_G11_083_frag_0_ORF2	Cathelicidin	-	1
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (28 residues)
+Target model(s):                          88  (3042 nodes)
+Passed MSV filter:                        11  (0.125); expected 1.8 (0.02)
+Passed bias filter:                        9  (0.102273); expected 1.8 (0.02)
+Passed Vit filter:                         1  (0.0113636); expected 0.1 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                 88  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.18
+# Mc/sec: 0.46
+//
+
+Query:       et|JZ531069.1_Lnc156_M13R_CH-170_G11_083_frag_0_ORF2  [L=19]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------          -----------
+    0.00056   13.1   0.2     0.0006   13.0   0.2    1.1  1  Cathelicidin_18-5 
+
+
+Domain annotation for each model (and alignments):
+>> Cathelicidin_18-5  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   13.0   0.2   6.8e-06    0.0006       1      15 [.       5      19 .]       5      19 .] 0.94
+
+  Alignments for each domain:
+  == domain 1    score: 13.0 bits;  conditional E-value: 6.8e-06
+                                     Cathelicidin_18-5  1 gglrrlyrKirklvK 15
+                                                          ++ + + +Ki+++vK
+  et|JZ531069.1_Lnc156_M13R_CH-170_G11_083_frag_0_ORF2  5 RNVKNFLKKIIFAVK 19
+                                                          79999*********9 PP
+
+
+
+et|JZ531069.1_Lnc156_M13R_CH-170_G11_083_frag_0_ORF3	Cathelicidin	-	1
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (19 residues)
+Target model(s):                          88  (3042 nodes)
+Passed MSV filter:                        12  (0.136364); expected 1.8 (0.02)
+Passed bias filter:                       11  (0.125); expected 1.8 (0.02)
+Passed Vit filter:                         1  (0.0113636); expected 0.1 (0.001)
+Passed Fwd filter:                         1  (0.0113636); expected 0.0 (1e-05)
+Initial search space (Z):                 88  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.11
+# Mc/sec: 0.53
+//
+
+Query:       et|JZ531069.1_Lnc156_M13R_CH-170_G11_083_frag_0_ORF3  [L=16]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------          -----------
+    0.00033   13.8   0.2    0.00033   13.8   0.2    1.0  1  Cathelicidin_18-5 
+
+
+Domain annotation for each model (and alignments):
+>> Cathelicidin_18-5  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   13.8   0.2   3.8e-06   0.00033       1      15 [.       2      16 .]       2      16 .] 0.95
+
+  Alignments for each domain:
+  == domain 1    score: 13.8 bits;  conditional E-value: 3.8e-06
+                                     Cathelicidin_18-5  1 gglrrlyrKirklvK 15
+                                                          ++ + + +Ki+++vK
+  et|JZ531069.1_Lnc156_M13R_CH-170_G11_083_frag_0_ORF3  2 RNVKNFLKKIIFAVK 16
+                                                          7999**********9 PP
+
+
+
+et|GW787487.1_Lnc307_t3_frag_0_ORF560	Bacteriocin	-	1
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (26 residues)
+Target model(s):                          88  (3042 nodes)
+Passed MSV filter:                         3  (0.0340909); expected 1.8 (0.02)
+Passed bias filter:                        3  (0.0340909); expected 1.8 (0.02)
+Passed Vit filter:                         0  (0); expected 0.1 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                 88  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.02u 0.02s 00:00:00.03 Elapsed: 00:00:00.03
+# Mc/sec: 2.55
+//
+
+Query:       et|GW787487.1_Lnc307_t3_frag_0_ORF560  [L=49]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model            Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------         -----------
+     0.0012   11.3   1.0     0.0049    9.3   0.3    1.9  2  Bacteriocin_32-6 
+
+
+Domain annotation for each model (and alignments):
+>> Bacteriocin_32-6  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.2   0.0     0.041       3.6      17      26 ..       4      13 ..       2      14 .. 0.80
+   2 !    9.3   0.3   5.6e-05    0.0049      11      23 ..      25      37 ..      22      38 .. 0.86
+
+  Alignments for each domain:
+  == domain 1    score: 0.2 bits;  conditional E-value: 0.041
+                       Bacteriocin_32-6 17 qtylltvite 26
+                                           qt++  vi +
+  et|GW787487.1_Lnc307_t3_frag_0_ORF560  4 QTSFVDVIPC 13
+                                           9999999877 PP
+
+  == domain 2    score: 9.3 bits;  conditional E-value: 5.6e-05
+                       Bacteriocin_32-6 11 CvTgglqtylltv 23
+                                           + Tg++++y++++
+  et|GW787487.1_Lnc307_t3_frag_0_ORF560 25 SPTGLNTVYASLT 37
+                                           569********98 PP
+
+
+
+et|HS977055.1_Stg95_T7_frag_0_ORF5	Dermaseptin	-	1
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (55 residues)
+Target model(s):                          88  (3042 nodes)
+Passed MSV filter:                         4  (0.0454545); expected 1.8 (0.02)
+Passed bias filter:                        4  (0.0454545); expected 1.8 (0.02)
+Passed Vit filter:                         0  (0); expected 0.1 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                 88  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.00u 0.01s 00:00:00.01 Elapsed: 00:00:00.03
+# Mc/sec: 5.40
+//
+
+Query:       et|HS977055.1_Stg95_T7_frag_0_ORF5  [L=24]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------    -----------
+    0.00086   12.2   0.8    0.00089   12.1   0.5    1.1  1  Dermaseptin 
+
+
+Domain annotation for each model (and alignments):
+>> Dermaseptin  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   12.1   0.5     1e-05   0.00089      20      32 ..       8      20 ..       3      22 .. 0.88
+
+  Alignments for each domain:
+  == domain 1    score: 12.1 bits;  conditional E-value: 1e-05
+                         Dermaseptin 20 aAGkaAlgavadm 32
+                                        aAG+aA+g+ +d+
+  et|HS977055.1_Stg95_T7_frag_0_ORF5  8 AAGNAAKGVASDA 20
+                                        7*********985 PP
+
+
+
+
