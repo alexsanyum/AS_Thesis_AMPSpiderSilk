@@ -6,13 +6,25 @@ Next grahp describes the desing and used pipeline
 ![](/pipeline.png)
 
 ## 1. Expressed Sequence Tag (EST) data
-ESt data used in this thesis were collect from NCBI database. We focus on nucleotic sequences of spiders species that were obtained from at least one spider silk gland. We use next key words: spider, silk gland, mRNA, cDNA in EST-NCBI database. We found entries for next species:
+EST data used in this thesis were collect from NCBI database. We focus on nucleotic sequences of spiders species that were obtained from at least one spider silk gland. We use next key words: spider, silk gland, mRNA, cDNA in EST-NCBI database. We found entries for next species:
 * *Latrodectus hesperus*
 * *Leucauge venusta*
 * *Nephila antipodiana*
 * *Parasteatoda tepidariorum*
 * *Steatoga grossa*
-Reads qere download in fasta sequences and are aviable in [EST-data](/EST_data) directory. There is also a [feature file](/EST_data/feature_info) that contains biosample ID, vectors used and tissues for each data set. 
+Reads were download in fasta format. All sequences are avialable in [EST_data](/EST_data) directory. There is also a [feature file](/EST_data/feature_info) that contains biosample ID, vectors used and tissues for each data set. 
+## 2. Vector clipping 
+In order to avoid to cluster non related or paralogous sequences we check out if reads have clonation vectors residues on. For this we use [Figaro](http://amos.sourceforge.net/wiki/index.php?title=Figaro) and [cross_match](http://www.phrap.org/phredphrapconsed.html) programs. Figaro use a statistical model and return a file with 5' trim point and cross_match compare reads with the vector and replace vector residue by X in the sequences. 
+Figaro were used with next command line:
+~~~
+figaro -F EST_data.fasta -P trim_points_EST 
+~~~ 
+cross_match were use with next line:
+~~~
+./cross_match EST_data.fasta vector.fasta
+~~~
+No vector residues were found in each data set
+
 ## EST Data
 To slect data, we focus on samples than contain at least one silk gland in tissue sample. All EST data are in EST-data directory. Five spider species data were collected from NCBI-EST database in FASTA format. feature_info file contain information about biosample id, spider species, used vector, insertion region, primers and tissue type. 
 ## EST Data pre-traetment
