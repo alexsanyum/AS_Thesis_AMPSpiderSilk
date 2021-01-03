@@ -37,3 +37,17 @@ Step 7 use a program that do not support sequences with 'N' in reads. For that, 
 We determinate 'N' porcentage for each reads. Sequences with a N% greater than were remove.
 ## 6. 'N' treatment - trim sequences
 Sequences with N% less tahn 10% were analyze to determinate optimal treatmnet. For that we calculate number and frequency of N in each position for each data set. Next plots are a example of those results: [N_count](/no_clstrd_seqs/with_N_seqs/Leucauge_venusta_Ncount.pdf), [N_frequency](/no_clstrd_seqs/with_N_seqs/Leucauge_venusta_Nfreq.pdf). Based on that analysis of reach data set, we decide to trim sequencs in N sites and keep reads with more than 100 bp. 
+
+## 7. Open Reading Frame (ORF) determination.
+In order to avoid to analyze all possible ORFs, we determiante the chance of ORFs to be coding using [MiPepid](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3033-9) program. MiPepid use machine learning to determinate if smalls ORF of a fasta file are coding or ont and the chance of that. MiPepid does not support N-char. This program returns a CSV table with each ORF, coding information and chance. 
+Next example command line were use with both no N and N-treated sequences:
+~~~
+python3 ./src/mipepid.py SEQUENCES.fasta ORF_SEQUENCES.csv
+~~~
+All csv files are avialable [here](/mipepdi_results). 
+## 8 and 9. Translate
+We translate ORF that were coding and has a chance greater than 0.90. ORF were translted to aminoacid sequences using SeqIO module of biopython using standard genetic code table. 
+## 10. Remove duplicated sequences
+We use next [jypiter-notebook](/translated_seqs/merge_prot_sequences.ipynb) to remove duplicated aminoacids sequences.
+## 11
+
