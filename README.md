@@ -1,4 +1,11 @@
-# AS_Thesis_AMPSpiderSilk
+# Discovery of antimicrobial peptides of spider silk glands using Expressed Sequence Tags data
+This repository contains all data, methods and scripts used for the thesis Discovery of antimicrobial peptides of spider silk glands using Expressed Sequence Tags data
+
+## Pipeline 
+Next grahp describes the desing and used pipeline
+![](/pipeline.png)
+
+
 ## EST Data
 To slect data, we focus on samples than contain at least one silk gland in tissue sample. All EST data are in EST-data directory. Five spider species data were collected from NCBI-EST database in FASTA format. feature_info file contain information about biosample id, spider species, used vector, insertion region, primers and tissue type. 
 ## EST Data pre-traetment
