@@ -5,7 +5,13 @@ This repository contains all data, methods and scripts used for the thesis Disco
 Next grahp describes the desing and used pipeline
 ![](/pipeline.png)
 
-
+## 1. Expressed Sequence Tag (EST) data
+ESt data used in this thesis were collect from NCBI database. We focus on nucleotic sequences of spiders species that were obtained from at least one spider silk gland. We use next key words: spider, silk gland, mRNA, cDNA in EST-NCBI database. We found entries for next species:
+* *Latrodectus hesperus*
+* *Leucauge venusta*
+* *Nephila antipodiana*
+* *Parasteatoda tepidariorum*
+* *Steatoga grossa*
 ## EST Data
 To slect data, we focus on samples than contain at least one silk gland in tissue sample. All EST data are in EST-data directory. Five spider species data were collected from NCBI-EST database in FASTA format. feature_info file contain information about biosample id, spider species, used vector, insertion region, primers and tissue type. 
 ## EST Data pre-traetment
