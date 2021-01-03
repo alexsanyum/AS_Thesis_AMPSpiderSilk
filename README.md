@@ -36,5 +36,4 @@ Step 7 use a program that do not support sequences with 'N' in reads. For that, 
 ## 5. 'N' treatment - sequences with N
 We determinate 'N' porcentage for each reads. Sequences with a N% greater than were remove.
 ## 6. 'N' treatment - trim sequences
-Sequences with N% less tahn 10% were analyze to determinate optimal treatmnet. For that we calculate number and frequency of N in each position for each data set. Next plot is a example of those results:
-![](/no_clstrd_seqs/with_N_seqs/Leucauge_venusta_Ncount.pdf)
+Sequences with N% less tahn 10% were analyze to determinate optimal treatmnet. For that we calculate number and frequency of N in each position for each data set. Next plots are a example of those results: [N_count](/no_clstrd_seqs/with_N_seqs/Leucauge_venusta_Ncount.pdf), [N_frequency](/no_clstrd_seqs/with_N_seqs/Leucauge_venusta_Nfreq.pdf). Based on that analysis of reach data set, we decide to trim sequencs in N sites and keep reads with more than 100 bp. 
