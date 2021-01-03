@@ -48,6 +48,17 @@ All csv files are avialable [here](/mipepdi_results).
 ## 8 and 9. Translate
 We translate ORF that were coding and has a chance greater than 0.90. ORF were translted to aminoacid sequences using SeqIO module of biopython using standard genetic code table. 
 ## 10. Remove duplicated sequences
-We use next [jypiter-notebook](/translated_seqs/merge_prot_sequences.ipynb) to remove duplicated aminoacids sequences.
-## 11
-
+We use next [jupyter-notebook](/translated_seqs/merge_prot_sequences.ipynb) to remove duplicated aminoacids sequences.
+## 11. LAMP database
+In order to compare translated sequences with a antimicrobial database, we download LAMP2 database. [LAMP](http://biotechlab.fudan.edu.cn/database/lamp/browse.php) is a database of antimicrobial peptides with 23253 AMP sequences. LAMP data base were download in fasta format and a blast database were created with next command line:
+~~~
+./makeblastdb -in LAMP2.FASTA -parse_seqids -blastdb_version 5 -title "LAMP" -dbtype prot
+~~~
+## 12. Blast
+We use blastp to compare translated sequences against LAMP database. In order to determinate adecuate e-values parameter, we permutate this value from 1E-1 to 1E-4 and analiyze number of hit and no hit sequences foe each one. We choose e-value 1E-4. Next example command line were use:
+~~~
+blastp -db LAMP2.FASTA -query TRANSLATED_SEQUENCES.fasta -evalue 0.0001 -out TRANSLATED_SEQUENCES.blst
+~~~
+All blast are available in [blast_results](/blast_results) directory
+## 13. HMM
+No hit sequences were analyze with HMM of AMPs. [CAMPSign](http://www.campsign.bicnirrh.res.in/) is an online tool that allow to compare amino acids sequences against 45 HMM profiles of AMP families that are in [CAMPR3](http://www.camp.bicnirrh.res.in/) database.
