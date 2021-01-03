@@ -12,6 +12,7 @@ ESt data used in this thesis were collect from NCBI database. We focus on nucleo
 * *Nephila antipodiana*
 * *Parasteatoda tepidariorum*
 * *Steatoga grossa*
+Reads qere download in fasta sequences and are aviable in [EST-data](/EST_data) directory. There is also a [feature file](/EST_data/feature_info) that contains biosample ID, vectors used and tissues for each data set. 
 ## EST Data
 To slect data, we focus on samples than contain at least one silk gland in tissue sample. All EST data are in EST-data directory. Five spider species data were collected from NCBI-EST database in FASTA format. feature_info file contain information about biosample id, spider species, used vector, insertion region, primers and tissue type. 
 ## EST Data pre-traetment
