@@ -1,0 +1,5094 @@
+Query= et|GW787522.1_Lnc251_pTV_frag_0_ORF1
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.312    0.117    0.376    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531068.1_Lnc155_M13R_CH-170_G10_068_frag_0_ORF2
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.331    0.144    0.414    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|JZ531068.1_Lnc155_M13R_CH-170_G10_068_frag_0_ORF3
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.358    0.154    0.440    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531068.1_Lnc155_M13R_CH-170_G10_068_frag_0_ORF4
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.365    0.167    0.487    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|JZ531068.1_Lnc155_M13R_CH-170_G10_068_frag_0_ORF5
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.363    0.169    0.498    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|GW787523.1_Lnc252_pTV_frag_0_ORF2
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.150    0.370    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW787523.1_Lnc252_pTV_frag_0_ORF3
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.304    0.114    0.287    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|JZ531053.1_Lnc141_M13R_CH-170_F10_070_frag_0_ORF2
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.307    0.101    0.218    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531053.1_Lnc141_M13R_CH-170_F10_070_frag_0_ORF3
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.293   0.0946    0.199    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531053.1_Lnc141_M13R_CH-170_F10_070_frag_0_ORF4
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.137    0.514    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= et|JZ531024.1_Lnc108_M13R_CH-169_E04_024_frag_0_ORF1
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.131    0.409    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|JZ531024.1_Lnc108_M13R_CH-169_E04_024_frag_0_ORF2
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.348    0.130    0.321    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|GW787515.1_Lnc262_t3_frag_0_ORF2
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.315    0.127    0.354    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531167.1_Lnc55_M13R_CH-170_B09_077_frag_0_ORF3
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.365    0.148    0.500    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531167.1_Lnc55_M13R_CH-170_B09_077_frag_0_ORF7
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.348    0.148    0.456    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531091.1_Lnc177_M13R_CH-171_D02_010_frag_0_ORF5
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.137    0.510    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531091.1_Lnc177_M13R_CH-171_D02_010_frag_0_ORF15
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.352    0.163    0.506    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531080.1_Lnc168_M13R_CH-170_E02_008_frag_0_ORF1
+Length=43
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.331    0.135    0.377    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16238705
+Query= et|JZ531080.1_Lnc168_M13R_CH-170_E02_008_frag_0_ORF9
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.343    0.159    0.473    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531022.1_Lnc106_M13R_CH-169_C04_028_frag_0_ORF6
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.343    0.159    0.473    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531026.1_Lnc111_M13R_CH-169_G04_020_frag_0_ORF2
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.130    0.518    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531026.1_Lnc111_M13R_CH-169_G04_020_frag_0_ORF3
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.307    0.102    0.310    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531026.1_Lnc111_M13R_CH-169_G04_020_frag_0_ORF5
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.137    0.431    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|JZ531026.1_Lnc111_M13R_CH-169_G04_020_frag_0_ORF6
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.137    0.451    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531026.1_Lnc111_M13R_CH-169_G04_020_frag_0_ORF10
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.128    0.275    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531093.1_Lnc178_M13R_CH-170_E05_039_frag_0_ORF2
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.331    0.136    0.385    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531146.1_Lnc222_M13R_CH-173_G09_067_frag_0_ORF1
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.353    0.157    0.604    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|JZ531146.1_Lnc222_M13R_CH-173_G09_067_frag_0_ORF4
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.360    0.140    0.507    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531146.1_Lnc222_M13R_CH-173_G09_067_frag_0_ORF5
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.356    0.143    0.529    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531146.1_Lnc222_M13R_CH-173_G09_067_frag_0_ORF7
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.345    0.155    0.498    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531181.1_Lnc76_M13R_CH-169_A01_015_frag_0_ORF2
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.138    0.379    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|JZ531181.1_Lnc76_M13R_CH-169_A01_015_frag_0_ORF4
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.353    0.156    0.522    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531181.1_Lnc76_M13R_CH-169_A01_015_frag_0_ORF5
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.142    0.407    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531181.1_Lnc76_M13R_CH-169_A01_015_frag_0_ORF11
+Length=25
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.122    0.318    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16105675
+Query= et|JZ531181.1_Lnc76_M13R_CH-169_A01_015_frag_0_ORF12
+Length=22
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.119    0.316    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14172994
+Query= et|JZ531181.1_Lnc76_M13R_CH-169_A01_015_frag_0_ORF13
+Length=20
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.120    0.320    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12884540
+Query= et|JZ531181.1_Lnc76_M13R_CH-169_A01_015_frag_0_ORF14
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.306    0.108    0.248    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|GW787506.1_Lnc272_t3_frag_0_ORF7
+Length=18
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.129    0.372    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 11596086
+Query= et|GW787506.1_Lnc272_t3_frag_0_ORF11
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.140    0.378    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|GW787506.1_Lnc272_t3_frag_0_ORF16
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.367    0.166    0.476    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|GW787481.1_Lnc_frag_0_ORF15
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.315    0.137    0.397    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|GW787483.1_Lnc303_t3_frag_0_ORF11
+Length=25
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.139    0.397    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16105675
+Query= et|GW787491.1_Lnc302_t3_frag_0_ORF1
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.365    0.172    0.526    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|GW787491.1_Lnc302_t3_frag_0_ORF2
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.339    0.136    0.440    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW787484.1_Lnc304_t3_frag_0_ORF2
+Length=44
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.130    0.347    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16702668
+Query= et|GW787484.1_Lnc304_t3_frag_0_ORF3
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.122    0.336    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|GW787500.1_Lnc299_frag_0_ORF2
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.299    0.121    0.329    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|GW787500.1_Lnc299_frag_0_ORF4
+Length=30
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.339    0.142    0.512    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16776508
+Query= et|GW787500.1_Lnc299_frag_0_ORF5
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.343    0.146    0.608    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531178.1_Lnc71_M13R_CH-170_C08_060_frag_0_ORF1
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.282    0.106    0.253    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531178.1_Lnc71_M13R_CH-170_C08_060_frag_0_ORF2
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.131    0.430    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= et|JZ531178.1_Lnc71_M13R_CH-170_C08_060_frag_0_ORF5
+Length=68
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.140    0.434    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16230296
+Query= et|JZ531178.1_Lnc71_M13R_CH-170_C08_060_frag_0_ORF7
+Length=94
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.133    0.370    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16207500
+Query= et|JZ531178.1_Lnc71_M13R_CH-170_C08_060_frag_0_ORF8
+Length=50
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.137    0.398    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16755880
+Query= et|JZ531178.1_Lnc71_M13R_CH-170_C08_060_frag_0_ORF9
+Length=47
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.134    0.388    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16774340
+Query= et|JZ531178.1_Lnc71_M13R_CH-170_C08_060_frag_0_ORF11
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.351    0.165    0.433    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531178.1_Lnc71_M13R_CH-170_C08_060_frag_0_ORF15
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.139    0.391    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|JZ531032.1_Lnc119_M13R_CH-170_D02_010_frag_0_ORF7
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.120    0.367    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|JZ531032.1_Lnc119_M13R_CH-170_D02_010_frag_0_ORF8
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.313    0.118    0.340    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531032.1_Lnc119_M13R_CH-170_D02_010_frag_0_ORF9
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.306    0.109    0.268    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531032.1_Lnc119_M13R_CH-170_D02_010_frag_0_ORF12
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.123    0.432    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531032.1_Lnc119_M13R_CH-170_D02_010_frag_0_ORF13
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.121    0.329    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|GW787486.1_Lnc306_t3_frag_0_ORF1
+Length=20
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.129    0.391    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12884540
+Query= et|GW787486.1_Lnc306_t3_frag_0_ORF2
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.311    0.126    0.377    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= et|GW787486.1_Lnc306_t3_frag_0_ORF3
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.142    0.402    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|GW787486.1_Lnc306_t3_frag_0_ORF7
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.337    0.141    0.379    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW787486.1_Lnc306_t3_frag_0_ORF10
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.139    0.377    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= et|GW787486.1_Lnc306_t3_frag_0_ORF11
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.142    0.393    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|GW787486.1_Lnc306_t3_frag_0_ORF12
+Length=26
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.142    0.395    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16749902
+Query= et|GW787486.1_Lnc306_t3_frag_0_ORF13
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.140    0.395    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|GW787486.1_Lnc306_t3_frag_0_ORF14
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.124    0.431    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|GW787512.1_Lnc251_t3_frag_0_ORF1
+Length=29
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.336    0.143    0.481    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16177347
+Query= et|GW787512.1_Lnc251_t3_frag_0_ORF2
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.142    0.484    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|GW787512.1_Lnc251_t3_frag_0_ORF3
+Length=25
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.145    0.503    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16105675
+Query= et|GW787512.1_Lnc251_t3_frag_0_ORF6
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.339    0.142    0.396    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|GW787512.1_Lnc251_t3_frag_0_ORF7
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.343    0.145    0.561    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|GW787512.1_Lnc251_t3_frag_0_ORF13
+Length=30
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.143    0.455    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16776508
+Query= et|GW787512.1_Lnc251_t3_frag_0_ORF14
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.142    0.415    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531056.1_Lnc144_M13R_CH-170_F12_086_frag_0_ORF2
+Length=53
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.331    0.139    0.364    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16647288
+Query= et|JZ531056.1_Lnc144_M13R_CH-170_F12_086_frag_0_ORF3
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.136    0.386    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= et|JZ531056.1_Lnc144_M13R_CH-170_F12_086_frag_0_ORF4
+Length=28
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.135    0.377    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16785738
+Query= et|JZ531056.1_Lnc144_M13R_CH-170_F12_086_frag_0_ORF5
+Length=25
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.132    0.363    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16105675
+Query= et|JZ531056.1_Lnc144_M13R_CH-170_F12_086_frag_0_ORF6
+Length=22
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.129    0.353    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14172994
+Query= et|JZ531056.1_Lnc144_M13R_CH-170_F12_086_frag_0_ORF7
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.336    0.132    0.325    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531056.1_Lnc144_M13R_CH-170_F12_086_frag_0_ORF23
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.346    0.162    0.695    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531194.1_Lnc92_M13R_CH-170_C12_092_frag_0_ORF3
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.337    0.130    0.503    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|GW787495.1_Lnc294_t3_frag_0_ORF1
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.145    0.372    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|JZ531055.1_Lnc143_M13R_CH-170_D09_073_frag_0_ORF7
+Length=53
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.307    0.129    0.363    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16647288
+Query= et|JZ531055.1_Lnc143_M13R_CH-170_D09_073_frag_0_ORF8
+Length=33
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.311    0.135    0.390    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16068755
+Query= et|JZ531055.1_Lnc143_M13R_CH-170_D09_073_frag_0_ORF14
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.345    0.152    0.501    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531055.1_Lnc143_M13R_CH-170_D09_073_frag_0_ORF18
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.309    0.110    0.325    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531153.1_Lnc22_M13R_CH-170_B02_014_frag_0_ORF4
+Length=74
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.144    0.420    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16454542
+Query= et|JZ531144.1_Lnc220_M13R_CH-173_G07_051_frag_0_ORF1
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.345    0.149    0.417    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531144.1_Lnc220_M13R_CH-173_G07_051_frag_0_ORF6
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.347    0.152    0.485    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531144.1_Lnc220_M13R_CH-173_G07_051_frag_0_ORF9
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.130    0.380    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531190.1_Lnc86_M13R_CH-169_B02_014_frag_0_ORF1
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.119    0.392    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531190.1_Lnc86_M13R_CH-169_B02_014_frag_0_ORF2
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.134    0.517    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531190.1_Lnc86_M13R_CH-169_B02_014_frag_0_ORF3
+Length=20
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.142    0.382    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12884540
+Query= et|JZ531190.1_Lnc86_M13R_CH-169_B02_014_frag_0_ORF7
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.361    0.157    0.513    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|JZ531190.1_Lnc86_M13R_CH-169_B02_014_frag_0_ORF12
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.140    0.439    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531190.1_Lnc86_M13R_CH-169_B02_014_frag_0_ORF13
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.146    0.472    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531190.1_Lnc86_M13R_CH-169_B02_014_frag_0_ORF14
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.357    0.152    0.574    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531190.1_Lnc86_M13R_CH-169_B02_014_frag_0_ORF15
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.356    0.153    0.639    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531190.1_Lnc86_M13R_CH-169_B02_014_frag_0_ORF17
+Length=35
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.140    0.485    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15946860
+Query= et|GW787479.1_Lnc_frag_0_ORF1
+Length=25
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.132    0.431    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16105675
+Query= et|GW787479.1_Lnc_frag_0_ORF2
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.136    0.328    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|GW787479.1_Lnc_frag_0_ORF3
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.148    0.396    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|GW787479.1_Lnc_frag_0_ORF5
+Length=93
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.147    0.464    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15991400
+Query= et|GW787479.1_Lnc_frag_0_ORF6
+Length=39
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.337    0.150    0.450    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16797957
+Query= et|GW787479.1_Lnc_frag_0_ORF8
+Length=23
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.340    0.145    0.444    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14817221
+Query= et|GW787479.1_Lnc_frag_0_ORF9
+Length=18
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.142    0.424    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 11596086
+Query= et|GW787479.1_Lnc_frag_0_ORF10
+Length=48
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.337    0.149    0.447    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15918086
+Query= et|GW787502.1_Lnc253_t3_frag_0_ORF1
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.134    0.411    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= et|GW787476.1_Lnc_frag_0_ORF4
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.358    0.165    0.699    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531044.1_Lnc131_M13R_CH-170_D07_057_frag_0_ORF1
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.148    0.391    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531044.1_Lnc131_M13R_CH-170_D07_057_frag_0_ORF2
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.139    0.493    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531044.1_Lnc131_M13R_CH-170_D07_057_frag_0_ORF4
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.345    0.156    0.439    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531044.1_Lnc131_M13R_CH-170_D07_057_frag_0_ORF9
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.149    0.540    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|GW787519.1_Lnc266_t3_frag_0_ORF1
+Length=22
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.134    0.426    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14172994
+Query= et|GW787519.1_Lnc266_t3_frag_0_ORF6
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.126    0.380    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|GW787519.1_Lnc266_t3_frag_0_ORF7
+Length=18
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.140    0.359    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 11596086
+Query= et|GW787519.1_Lnc266_t3_frag_0_ORF8
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.303    0.109    0.337    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|GW787519.1_Lnc266_t3_frag_0_ORF10
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.139    0.397    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|GW787519.1_Lnc266_t3_frag_0_ORF11
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.142    0.418    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531136.1_Lnc211_M13R_CH-173_F10_070_frag_0_ORF1
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.142    0.406    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531136.1_Lnc211_M13R_CH-173_F10_070_frag_0_ORF6
+Length=24
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.314    0.125    0.350    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15461448
+Query= et|JZ531136.1_Lnc211_M13R_CH-173_F10_070_frag_0_ORF8
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.331    0.114    0.269    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531136.1_Lnc211_M13R_CH-173_F10_070_frag_0_ORF11
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.133    0.300    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531136.1_Lnc211_M13R_CH-173_F10_070_frag_0_ORF13
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.139    0.365    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531136.1_Lnc211_M13R_CH-173_F10_070_frag_0_ORF17
+Length=22
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.152    0.537    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14172994
+Query= et|JZ531061.1_Lnc149_M13R_CH-170_G05_035_frag_0_ORF5
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.346    0.150    0.504    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|JZ531061.1_Lnc149_M13R_CH-170_G05_035_frag_0_ORF7
+Length=24
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.141    0.455    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15461448
+Query= et|JZ531061.1_Lnc149_M13R_CH-170_G05_035_frag_0_ORF13
+Length=42
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.130    0.435    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15774742
+Query= et|JZ531069.1_Lnc156_M13R_CH-170_G11_083_frag_0_ORF7
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.346    0.159    0.460    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531069.1_Lnc156_M13R_CH-170_G11_083_frag_0_ORF11
+Length=35
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.148    0.598    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15946860
+Query= et|GW787516.1_Lnc263_t3_frag_0_ORF2
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.134    0.470    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|GW787516.1_Lnc263_t3_frag_0_ORF7
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.127    0.546    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|GW787516.1_Lnc263_t3_frag_0_ORF8
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.138    0.425    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|GW787516.1_Lnc263_t3_frag_0_ORF9
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.140    0.399    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW787516.1_Lnc263_t3_frag_0_ORF11
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.336    0.138    0.512    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|GW787516.1_Lnc263_t3_frag_0_ORF12
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.309    0.132    0.361    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531141.1_Lnc217_M13R_CH-173_G04_020_frag_0_ORF3
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.345    0.157    0.575    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|JZ531141.1_Lnc217_M13R_CH-173_G04_020_frag_0_ORF9
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.347    0.170    0.532    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531141.1_Lnc217_M13R_CH-173_G04_020_frag_0_ORF11
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.131    0.376    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531141.1_Lnc217_M13R_CH-173_G04_020_frag_0_ORF16
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.133    0.421    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531097.1_Lnc182_M13R_CH-171_G02_004_frag_0_ORF1
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.132    0.390    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= et|JZ531097.1_Lnc182_M13R_CH-171_G02_004_frag_0_ORF2
+Length=23
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.132    0.505    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14817221
+Query= et|JZ531097.1_Lnc182_M13R_CH-171_G02_004_frag_0_ORF3
+Length=59
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.301    0.120    0.331    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16159708
+Query= et|JZ531097.1_Lnc182_M13R_CH-171_G02_004_frag_0_ORF4
+Length=57
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.300    0.120    0.333    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16822395
+Query= et|JZ531097.1_Lnc182_M13R_CH-171_G02_004_frag_0_ORF5
+Length=45
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.131    0.367    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15891480
+Query= et|JZ531097.1_Lnc182_M13R_CH-171_G02_004_frag_0_ORF6
+Length=44
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.131    0.367    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16702668
+Query= et|JZ531097.1_Lnc182_M13R_CH-171_G02_004_frag_0_ORF7
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.134    0.392    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= et|JZ531097.1_Lnc182_M13R_CH-171_G02_004_frag_0_ORF8
+Length=18
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.141    0.433    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 11596086
+Query= et|GW787503.1_Lnc254_t3_frag_0_ORF2
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.331    0.144    0.401    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= et|JZ531110.1_Lnc193_M13R_CH-171_G03_019_frag_0_ORF5
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.145    0.418    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF2
+Length=35
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.137    0.440    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15946860
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF3
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.137    0.456    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF4
+Length=26
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.128    0.395    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16749902
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF5
+Length=35
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.146    0.379    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15946860
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF6
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.151    0.380    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF7
+Length=26
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.339    0.151    0.381    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16749902
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF8
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.147    0.410    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF10
+Length=43
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.331    0.136    0.400    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16238705
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF11
+Length=41
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.135    0.400    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16540864
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF12
+Length=36
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.132    0.377    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16478422
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF13
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.124    0.366    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF14
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.314    0.121    0.372    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|JZ531115.1_Lnc197_M13R_CH-171_C04_028_frag_0_ORF15
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.345    0.145    0.782    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531158.1_Lnc234_M13R_CH-173_H09_065_frag_0_ORF1
+Length=22
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.309    0.115    0.369    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14172994
+Query= et|JZ531158.1_Lnc234_M13R_CH-173_H09_065_frag_0_ORF5
+Length=58
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.149    0.473    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15808410
+Query= et|JZ531158.1_Lnc234_M13R_CH-173_H09_065_frag_0_ORF6
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.128    0.339    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531158.1_Lnc234_M13R_CH-173_H09_065_frag_0_ORF11
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.314    0.122    0.358    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|JZ531158.1_Lnc234_M13R_CH-173_H09_065_frag_0_ORF12
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.315    0.123    0.377    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531119.1_Lnc19_M13R_CH-170_A12_096_frag_0_ORF3
+Length=36
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.146    0.537    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16478422
+Query= et|JZ531185.1_Lnc80_M13R_CH-170_C11_091_frag_0_ORF1
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.127    0.299    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|GW787510.1_Lnc284_t3_frag_0_ORF1
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.128    0.335    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531046.1_Lnc135_M13R_CH-170_F04_022_frag_0_ORF4
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.135    0.378    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531034.1_Lnc120_M13R_CH-169_C05_043_frag_0_ORF1
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.312    0.111    0.258    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531034.1_Lnc120_M13R_CH-169_C05_043_frag_0_ORF11
+Length=39
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.345    0.149    0.497    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16797957
+Query= et|JZ531034.1_Lnc120_M13R_CH-169_C05_043_frag_0_ORF12
+Length=28
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.347    0.155    0.523    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16785738
+Query= et|JZ531034.1_Lnc120_M13R_CH-169_C05_043_frag_0_ORF14
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.131    0.394    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531086.1_Lnc173_M13R_CH-170_H10_066_frag_0_ORF1
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.143    0.510    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|JZ531134.1_Lnc20_M13R_CH-170_B01_013_frag_0_ORF3
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.148    0.389    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531163.1_Lnc3_M13R_CH-170_A03_031_frag_0_ORF1
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.147    0.453    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= et|JZ531163.1_Lnc3_M13R_CH-170_A03_031_frag_0_ORF5
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.292    0.111    0.278    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531163.1_Lnc3_M13R_CH-170_A03_031_frag_0_ORF7
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.129    0.338    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531163.1_Lnc3_M13R_CH-170_A03_031_frag_0_ORF9
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.340    0.136    0.593    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531163.1_Lnc3_M13R_CH-170_A03_031_frag_0_ORF12
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.353    0.163    0.518    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531163.1_Lnc3_M13R_CH-170_A03_031_frag_0_ORF13
+Length=46
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.136    0.408    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16332910
+Query= et|JZ531163.1_Lnc3_M13R_CH-170_A03_031_frag_0_ORF14
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.141    0.389    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= et|JZ531163.1_Lnc3_M13R_CH-170_A03_031_frag_0_ORF15
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.143    0.393    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= et|JZ531173.1_Lnc64_M13R_CH-170_C03_027_frag_0_ORF1
+Length=60
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.134    0.407    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16511006
+Query= et|JZ531173.1_Lnc64_M13R_CH-170_C03_027_frag_0_ORF2
+Length=50
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.131    0.405    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16755880
+Query= et|JZ531173.1_Lnc64_M13R_CH-170_C03_027_frag_0_ORF3
+Length=40
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.133    0.375    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16054368
+Query= et|JZ531173.1_Lnc64_M13R_CH-170_C03_027_frag_0_ORF4
+Length=35
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.134    0.377    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15946860
+Query= et|JZ531173.1_Lnc64_M13R_CH-170_C03_027_frag_0_ORF7
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.140    0.424    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|JZ531173.1_Lnc64_M13R_CH-170_C03_027_frag_0_ORF8
+Length=22
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.143    0.435    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14172994
+Query= et|JZ531173.1_Lnc64_M13R_CH-170_C03_027_frag_0_ORF10
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.345    0.136    0.634    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531173.1_Lnc64_M13R_CH-170_C03_027_frag_0_ORF11
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.152    0.753    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= et|JZ531038.1_Lnc124_M13R_CH-170_E12_088_frag_0_ORF1
+Length=82
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.308    0.124    0.325    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16975790
+Query= et|JZ531038.1_Lnc124_M13R_CH-170_E12_088_frag_0_ORF2
+Length=43
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.308    0.124    0.330    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16238705
+Query= et|JZ531038.1_Lnc124_M13R_CH-170_E12_088_frag_0_ORF3
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.139    0.407    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531038.1_Lnc124_M13R_CH-170_E12_088_frag_0_ORF4
+Length=20
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.139    0.410    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12884540
+Query= et|JZ531038.1_Lnc124_M13R_CH-170_E12_088_frag_0_ORF6
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.311    0.126    0.365    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|GW787475.1_Lnc_frag_0_ORF1
+Length=51
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.136    0.456    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15854560
+Query= et|GW787475.1_Lnc_frag_0_ORF2
+Length=25
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.141    0.507    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16105675
+Query= et|GW787475.1_Lnc_frag_0_ORF4
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.132    0.405    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= et|GW787475.1_Lnc_frag_0_ORF6
+Length=39
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.139    0.404    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16797957
+Query= et|JZ531200.1_Lnc9_M13R_CH-170_A06_048_frag_0_ORF1
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.122    0.427    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531200.1_Lnc9_M13R_CH-170_A06_048_frag_0_ORF2
+Length=33
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.134    0.408    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16068755
+Query= et|JZ531200.1_Lnc9_M13R_CH-170_A06_048_frag_0_ORF4
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.128    0.324    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531200.1_Lnc9_M13R_CH-170_A06_048_frag_0_ORF5
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.128    0.321    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531200.1_Lnc9_M13R_CH-170_A06_048_frag_0_ORF6
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.349    0.141    0.503    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531200.1_Lnc9_M13R_CH-170_A06_048_frag_0_ORF8
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.126    0.366    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|JZ531200.1_Lnc9_M13R_CH-170_A06_048_frag_0_ORF9
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.126    0.314    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531094.1_Lnc179_M13R_CH-170_E06_040_frag_0_ORF3
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.353    0.159    0.472    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531094.1_Lnc179_M13R_CH-170_E06_040_frag_0_ORF5
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.145    0.553    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531120.1_Lnc1_M13R_CH-170_A01_015_frag_0_ORF5
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.336    0.143    0.444    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531120.1_Lnc1_M13R_CH-170_A01_015_frag_0_ORF6
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.132    0.463    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531120.1_Lnc1_M13R_CH-170_A01_015_frag_0_ORF7
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.312    0.120    0.280    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531120.1_Lnc1_M13R_CH-170_A01_015_frag_0_ORF14
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.139    0.368    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531120.1_Lnc1_M13R_CH-170_A01_015_frag_0_ORF15
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.343    0.144    0.375    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531120.1_Lnc1_M13R_CH-170_A01_015_frag_0_ORF16
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.147    0.384    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531188.1_Lnc84_M13R_CH-169_H01_001_frag_0_ORF4
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.154    0.416    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531188.1_Lnc84_M13R_CH-169_H01_001_frag_0_ORF5
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.339    0.137    0.383    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531188.1_Lnc84_M13R_CH-169_H01_001_frag_0_ORF6
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.314    0.117    0.309    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531188.1_Lnc84_M13R_CH-169_H01_001_frag_0_ORF7
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.304    0.116    0.302    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531188.1_Lnc84_M13R_CH-169_H01_001_frag_0_ORF11
+Length=25
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.138    0.445    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16105675
+Query= et|JZ531188.1_Lnc84_M13R_CH-169_H01_001_frag_0_ORF13
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.143    0.404    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF1
+Length=35
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.130    0.373    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15946860
+Query= et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF2
+Length=34
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.130    0.373    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16622850
+Query= et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF3
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.125    0.393    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF4
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.134    0.404    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF5
+Length=33
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.337    0.146    0.407    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16068755
+Query= et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF6
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.148    0.417    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF7
+Length=29
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.336    0.147    0.418    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16177347
+Query= et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF8
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.149    0.417    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF14
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.130    0.310    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|GW787487.1_Lnc307_t3_frag_0_ORF4
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.307    0.119    0.320    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= et|GW787487.1_Lnc307_t3_frag_0_ORF5
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.304    0.114    0.280    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|GW787487.1_Lnc307_t3_frag_0_ORF6
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.353    0.155    0.631    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|GW787487.1_Lnc307_t3_frag_0_ORF9
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.336    0.145    0.509    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= et|GW787487.1_Lnc307_t3_frag_0_ORF11
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.362    0.166    0.493    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|GW820099.1_Lnc280_t3_frag_0_ORF1
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.344    0.154    0.547    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|GW820099.1_Lnc280_t3_frag_0_ORF4
+Length=40
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.141    0.429    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16054368
+Query= et|GW820099.1_Lnc280_t3_frag_0_ORF8
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.345    0.144    0.480    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= et|GW820099.1_Lnc280_t3_frag_0_ORF9
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.138    0.433    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|GW820099.1_Lnc280_t3_frag_0_ORF11
+Length=20
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.312    0.132    0.399    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12884540
+Query= et|GW820099.1_Lnc280_t3_frag_0_ORF12
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.349    0.151    0.556    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|GW820099.1_Lnc280_t3_frag_0_ORF15
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.371    0.166    0.467    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW820099.1_Lnc280_t3_frag_0_ORF18
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.152    0.493    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|JZ531152.1_Lnc229_M13R_CH-173_H04_018_frag_0_ORF3
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.344    0.148    0.554    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= et|JZ531152.1_Lnc229_M13R_CH-173_H04_018_frag_0_ORF4
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.349    0.149    0.575    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531152.1_Lnc229_M13R_CH-173_H04_018_frag_0_ORF5
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.352    0.152    0.549    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531152.1_Lnc229_M13R_CH-173_H04_018_frag_0_ORF7
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.142    0.418    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531152.1_Lnc229_M13R_CH-173_H04_018_frag_0_ORF8
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.148    0.470    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531152.1_Lnc229_M13R_CH-173_H04_018_frag_0_ORF9
+Length=39
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.130    0.397    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16797957
+Query= et|JZ531152.1_Lnc229_M13R_CH-173_H04_018_frag_0_ORF10
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.137    0.463    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531152.1_Lnc229_M13R_CH-173_H04_018_frag_0_ORF14
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.126    0.329    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531152.1_Lnc229_M13R_CH-173_H04_018_frag_0_ORF17
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.331    0.132    0.437    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531152.1_Lnc229_M13R_CH-173_H04_018_frag_0_ORF20
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.340    0.137    0.445    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|GW787518.1_Lnc265_t3_frag_0_ORF2
+Length=50
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.142    0.440    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16755880
+Query= et|GW787518.1_Lnc265_t3_frag_0_ORF3
+Length=34
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.141    0.427    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16622850
+Query= et|GW787518.1_Lnc265_t3_frag_0_ORF5
+Length=25
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.161    0.469    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16105675
+Query= et|GW787496.1_Lnc295_t3_frag_0_ORF2
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.119    0.307    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|GW787496.1_Lnc295_t3_frag_0_ORF5
+Length=39
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.134    0.457    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16797957
+Query= et|GW787496.1_Lnc295_t3_frag_0_ORF6
+Length=24
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.134    0.475    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15461448
+Query= et|GW787496.1_Lnc295_t3_frag_0_ORF14
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.148    0.456    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531165.1_Lnc47_M13R_CH-170_B07_061_frag_0_ORF2
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.312    0.126    0.320    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531165.1_Lnc47_M13R_CH-170_B07_061_frag_0_ORF3
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.126    0.410    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|JZ531165.1_Lnc47_M13R_CH-170_B07_061_frag_0_ORF4
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.126    0.309    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531165.1_Lnc47_M13R_CH-170_B07_061_frag_0_ORF6
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.339    0.145    0.580    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531165.1_Lnc47_M13R_CH-170_B07_061_frag_0_ORF7
+Length=18
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.316    0.120    0.373    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 11596086
+Query= et|JZ531165.1_Lnc47_M13R_CH-170_B07_061_frag_0_ORF9
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.129    0.355    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= et|JZ531165.1_Lnc47_M13R_CH-170_B07_061_frag_0_ORF10
+Length=29
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.128    0.419    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16177347
+Query= et|JZ531165.1_Lnc47_M13R_CH-170_B07_061_frag_0_ORF11
+Length=93
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.140    0.404    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15991400
+Query= et|JZ531165.1_Lnc47_M13R_CH-170_B07_061_frag_0_ORF12
+Length=48
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.135    0.392    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15918086
+Query= et|JZ531165.1_Lnc47_M13R_CH-170_B07_061_frag_0_ORF13
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.151    0.358    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531106.1_Lnc190_M13R_CH-171_D03_025_frag_0_ORF1
+Length=22
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.124    0.362    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14172994
+Query= et|JZ531106.1_Lnc190_M13R_CH-171_D03_025_frag_0_ORF3
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.144    0.418    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531106.1_Lnc190_M13R_CH-171_D03_025_frag_0_ORF5
+Length=59
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.141    0.406    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16159708
+Query= et|JZ531106.1_Lnc190_M13R_CH-171_D03_025_frag_0_ORF6
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.137    0.375    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= et|JZ531106.1_Lnc190_M13R_CH-171_D03_025_frag_0_ORF7
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.136    0.377    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|JZ531106.1_Lnc190_M13R_CH-171_D03_025_frag_0_ORF8
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.134    0.383    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531106.1_Lnc190_M13R_CH-171_D03_025_frag_0_ORF9
+Length=37
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.137    0.466    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15779899
+Query= et|JZ531106.1_Lnc190_M13R_CH-171_D03_025_frag_0_ORF10
+Length=30
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.139    0.493    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16776508
+Query= et|JZ531106.1_Lnc190_M13R_CH-171_D03_025_frag_0_ORF11
+Length=20
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.142    0.436    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12884540
+Query= et|JZ531106.1_Lnc190_M13R_CH-171_D03_025_frag_0_ORF12
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.139    0.460    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531150.1_Lnc227_M13R_CH-173_H02_002_frag_0_ORF1
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.346    0.142    0.466    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531150.1_Lnc227_M13R_CH-173_H02_002_frag_0_ORF2
+Length=81
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.138    0.500    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16714624
+Query= et|JZ531150.1_Lnc227_M13R_CH-173_H02_002_frag_0_ORF3
+Length=20
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.136    0.513    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12884540
+Query= et|JZ531150.1_Lnc227_M13R_CH-173_H02_002_frag_0_ORF4
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.120    0.341    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531150.1_Lnc227_M13R_CH-173_H02_002_frag_0_ORF5
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.135    0.406    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|JZ531150.1_Lnc227_M13R_CH-173_H02_002_frag_0_ORF8
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.367    0.154    0.653    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531150.1_Lnc227_M13R_CH-173_H02_002_frag_0_ORF9
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.348    0.159    0.570    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|JZ531150.1_Lnc227_M13R_CH-173_H02_002_frag_0_ORF10
+Length=25
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.310    0.122    0.336    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16105675
+Query= et|GW787478.1_Lnc_frag_0_ORF1
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.133    0.301    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|GW787478.1_Lnc_frag_0_ORF4
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.299    0.116    0.274    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|GW787478.1_Lnc_frag_0_ORF5
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.340    0.149    0.448    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|GW787478.1_Lnc_frag_0_ORF6
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.144    0.455    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW787478.1_Lnc_frag_0_ORF10
+Length=22
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.134    0.409    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14172994
+Query= et|GW787478.1_Lnc_frag_0_ORF11
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.142    0.483    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|GW787478.1_Lnc_frag_0_ORF12
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.314    0.140    0.377    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|GW787478.1_Lnc_frag_0_ORF13
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.159    0.526    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|GW787509.1_Lnc283_t3_frag_0_ORF2
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.133    0.502    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW787509.1_Lnc283_t3_frag_0_ORF5
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.314    0.131    0.440    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|GW787509.1_Lnc283_t3_frag_0_ORF6
+Length=26
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.128    0.469    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16749902
+Query= et|GW787509.1_Lnc283_t3_frag_0_ORF9
+Length=28
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.138    0.417    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16785738
+Query= et|GW787509.1_Lnc283_t3_frag_0_ORF10
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.138    0.674    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531195.1_Lnc93_M13R_CH-169_H02_002_frag_0_ORF1
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.128    0.343    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531195.1_Lnc93_M13R_CH-169_H02_002_frag_0_ORF2
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.125    0.363    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531195.1_Lnc93_M13R_CH-169_H02_002_frag_0_ORF7
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.352    0.151    0.407    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531157.1_Lnc233_M13R_CH-173_H08_050_frag_0_ORF1
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.357    0.159    0.653    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531157.1_Lnc233_M13R_CH-173_H08_050_frag_0_ORF2
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.135    0.577    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531157.1_Lnc233_M13R_CH-173_H08_050_frag_0_ORF3
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.349    0.137    0.542    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531157.1_Lnc233_M13R_CH-173_H08_050_frag_0_ORF4
+Length=23
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.344    0.154    0.618    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14817221
+Query= et|JZ531157.1_Lnc233_M13R_CH-173_H08_050_frag_0_ORF6
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.353    0.150    0.465    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|GW820097.1_Lnc278_t3_frag_0_ORF3
+Length=18
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.339    0.155    0.486    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 11596086
+Query= et|GW820097.1_Lnc278_t3_frag_0_ORF6
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.349    0.153    0.703    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW820097.1_Lnc278_t3_frag_0_ORF7
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.146    0.362    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|GW820097.1_Lnc278_t3_frag_0_ORF11
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.351    0.156    0.473    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW820097.1_Lnc278_t3_frag_0_ORF12
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.343    0.144    0.492    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= et|GW820097.1_Lnc278_t3_frag_0_ORF13
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.340    0.131    0.547    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531065.1_Lnc152_M13R_CH-170_G07_051_frag_0_ORF1
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.134    0.352    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531065.1_Lnc152_M13R_CH-170_G07_051_frag_0_ORF2
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.135    0.342    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531065.1_Lnc152_M13R_CH-170_G07_051_frag_0_ORF5
+Length=39
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.141    0.411    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16797957
+Query= et|GW787507.1_Lnc281_t3_frag_0_ORF6
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.345    0.161    0.514    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|GW787507.1_Lnc281_t3_frag_0_ORF8
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.143    0.502    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW787507.1_Lnc281_t3_frag_0_ORF11
+Length=29
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.122    0.346    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16177347
+Query= et|GW787507.1_Lnc281_t3_frag_0_ORF12
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.293   0.0969    0.228    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|GW787507.1_Lnc281_t3_frag_0_ORF13
+Length=38
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.130    0.372    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16288928
+Query= et|GW787507.1_Lnc281_t3_frag_0_ORF14
+Length=37
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.130    0.373    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15779899
+Query= et|GW787507.1_Lnc281_t3_frag_0_ORF15
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.128    0.371    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= et|GW787507.1_Lnc281_t3_frag_0_ORF20
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.116    0.268    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531062.1_Lnc14_M13R_CH-170_A09_079_frag_0_ORF2
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.155    0.394    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531062.1_Lnc14_M13R_CH-170_A09_079_frag_0_ORF3
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.129    0.363    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531062.1_Lnc14_M13R_CH-170_A09_079_frag_0_ORF5
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.155    0.394    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531062.1_Lnc14_M13R_CH-170_A09_079_frag_0_ORF6
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.129    0.363    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531062.1_Lnc14_M13R_CH-170_A09_079_frag_0_ORF8
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.155    0.394    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531062.1_Lnc14_M13R_CH-170_A09_079_frag_0_ORF9
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.129    0.363    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531062.1_Lnc14_M13R_CH-170_A09_079_frag_0_ORF11
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.155    0.394    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531062.1_Lnc14_M13R_CH-170_A09_079_frag_0_ORF12
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.129    0.363    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531062.1_Lnc14_M13R_CH-170_A09_079_frag_0_ORF14
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.155    0.394    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531062.1_Lnc14_M13R_CH-170_A09_079_frag_0_ORF15
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.129    0.363    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531062.1_Lnc14_M13R_CH-170_A09_079_frag_0_ORF2
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.155    0.394    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|GW820093.1_Lnc274_t3_frag_0_ORF2
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.116    0.270    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|GW820093.1_Lnc274_t3_frag_0_ORF3
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.299    0.100    0.231    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|GW820093.1_Lnc274_t3_frag_0_ORF4
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.347    0.163    0.436    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW787520.1_Lnc267_t3_frag_0_ORF1
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.134    0.506    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|GW787520.1_Lnc267_t3_frag_0_ORF2
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.142    0.406    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|GW787520.1_Lnc267_t3_frag_0_ORF3
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.312    0.113    0.284    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|GW787520.1_Lnc267_t3_frag_0_ORF4
+Length=50
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.133    0.368    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16755880
+Query= et|GW787488.1_Lnc308_t3_frag_0_ORF1
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.143    0.465    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|GW787488.1_Lnc308_t3_frag_0_ORF3
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.121    0.511    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|GW787488.1_Lnc308_t3_frag_0_ORF4
+Length=18
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.140    0.423    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 11596086
+Query= et|GW787488.1_Lnc308_t3_frag_0_ORF6
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.346    0.153    0.561    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531196.1_Lnc95_M13R_CH-169_A03_031_frag_0_ORF1
+Length=22
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.144    0.533    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14172994
+Query= et|JZ531196.1_Lnc95_M13R_CH-169_A03_031_frag_0_ORF3
+Length=86
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.313    0.134    0.389    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16227044
+Query= et|JZ531196.1_Lnc95_M13R_CH-169_A03_031_frag_0_ORF4
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.122    0.433    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531196.1_Lnc95_M13R_CH-169_A03_031_frag_0_ORF5
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.123    0.441    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531196.1_Lnc95_M13R_CH-169_A03_031_frag_0_ORF8
+Length=41
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.137    0.448    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16540864
+Query= et|JZ531196.1_Lnc95_M13R_CH-169_A03_031_frag_0_ORF10
+Length=41
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.133    0.441    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16540864
+Query= et|JZ531196.1_Lnc95_M13R_CH-169_A03_031_frag_0_ORF12
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.132    0.458    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= et|JZ531196.1_Lnc95_M13R_CH-169_A03_031_frag_0_ORF13
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.132    0.461    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= et|JZ531058.1_Lnc146_M13R_CH-170_G02_004_frag_0_ORF2
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.112    0.386    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531058.1_Lnc146_M13R_CH-170_G02_004_frag_0_ORF4
+Length=88
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.312    0.124    0.331    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16704310
+Query= et|JZ531058.1_Lnc146_M13R_CH-170_G02_004_frag_0_ORF5
+Length=74
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.314    0.126    0.343    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16454542
+Query= et|JZ531058.1_Lnc146_M13R_CH-170_G02_004_frag_0_ORF6
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.316    0.124    0.371    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= et|JZ531058.1_Lnc146_M13R_CH-170_G02_004_frag_0_ORF7
+Length=36
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.313    0.121    0.344    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16478422
+Query= et|GW787494.1_Lnc293_t3_frag_0_ORF1
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.314    0.122    0.408    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|GW787494.1_Lnc293_t3_frag_0_ORF2
+Length=35
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.123    0.390    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15946860
+Query= et|GW787494.1_Lnc293_t3_frag_0_ORF3
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.309    0.117    0.348    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|GW787494.1_Lnc293_t3_frag_0_ORF10
+Length=99
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.316    0.134    0.410    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 17288000
+Query= et|GW787494.1_Lnc293_t3_frag_0_ORF11
+Length=74
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.314    0.131    0.393    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16454542
+Query= et|GW787494.1_Lnc293_t3_frag_0_ORF12
+Length=60
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.312    0.128    0.367    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16511006
+Query= et|JZ531191.1_Lnc87_M13R_CH-169_C02_012_frag_0_ORF1
+Length=68
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.316    0.122    0.362    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16230296
+Query= et|JZ531191.1_Lnc87_M13R_CH-169_C02_012_frag_0_ORF2
+Length=48
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.316    0.120    0.356    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15918086
+Query= et|JZ531191.1_Lnc87_M13R_CH-169_C02_012_frag_0_ORF3
+Length=24
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.304    0.110    0.266    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15461448
+Query= et|JZ531191.1_Lnc87_M13R_CH-169_C02_012_frag_0_ORF4
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.304    0.113    0.278    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531191.1_Lnc87_M13R_CH-169_C02_012_frag_0_ORF7
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.308    0.116    0.284    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531191.1_Lnc87_M13R_CH-169_C02_012_frag_0_ORF9
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.356    0.159    0.470    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531191.1_Lnc87_M13R_CH-169_C02_012_frag_0_ORF10
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.134    0.469    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531191.1_Lnc87_M13R_CH-169_C02_012_frag_0_ORF14
+Length=40
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.316    0.126    0.333    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16054368
+Query= et|JZ531143.1_Lnc219_M13R_CH-173_G06_036_frag_0_ORF1
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.161    0.640    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|JZ531143.1_Lnc219_M13R_CH-173_G06_036_frag_0_ORF4
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.336    0.143    0.474    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531143.1_Lnc219_M13R_CH-173_G06_036_frag_0_ORF10
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.343    0.140    0.543    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531143.1_Lnc219_M13R_CH-173_G06_036_frag_0_ORF11
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.138    0.524    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|GW787508.1_Lnc282_t3_frag_0_ORF3
+Length=23
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.136    0.451    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14817221
+Query= et|GW787508.1_Lnc282_t3_frag_0_ORF6
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.134    0.374    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|GW787508.1_Lnc282_t3_frag_0_ORF7
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.137    0.395    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW787508.1_Lnc282_t3_frag_0_ORF9
+Length=20
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.315    0.128    0.365    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12884540
+Query= et|GW787508.1_Lnc282_t3_frag_0_ORF10
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.127    0.305    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531041.1_Lnc129_M13R_CH-170_D06_042_frag_0_ORF1
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.148    0.438    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= et|JZ531041.1_Lnc129_M13R_CH-170_D06_042_frag_0_ORF2
+Length=28
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.146    0.430    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16785738
+Query= et|JZ531042.1_Lnc12_M13R_CH-170_A07_063_frag_0_ORF1
+Length=18
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.151    0.508    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 11596086
+Query= et|JZ531042.1_Lnc12_M13R_CH-170_A07_063_frag_0_ORF2
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.123    0.317    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|JZ531042.1_Lnc12_M13R_CH-170_A07_063_frag_0_ORF3
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.316    0.123    0.315    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|JZ531042.1_Lnc12_M13R_CH-170_A07_063_frag_0_ORF8
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.347    0.157    0.515    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531042.1_Lnc12_M13R_CH-170_A07_063_frag_0_ORF9
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.139    0.400    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531042.1_Lnc12_M13R_CH-170_A07_063_frag_0_ORF10
+Length=22
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.139    0.686    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14172994
+Query= et|JZ531042.1_Lnc12_M13R_CH-170_A07_063_frag_0_ORF11
+Length=41
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.135    0.481    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16540864
+Query= et|JZ531042.1_Lnc12_M13R_CH-170_A07_063_frag_0_ORF12
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.140    0.435    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531139.1_Lnc214_M13R_CH-173_G01_003_frag_0_ORF2
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.350    0.135    0.313    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531139.1_Lnc214_M13R_CH-173_G01_003_frag_0_ORF4
+Length=37
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.135    0.463    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15779899
+Query= et|JZ531139.1_Lnc214_M13R_CH-173_G01_003_frag_0_ORF9
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.131    0.391    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531139.1_Lnc214_M13R_CH-173_G01_003_frag_0_ORF13
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.143    0.546    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531139.1_Lnc214_M13R_CH-173_G01_003_frag_0_ORF16
+Length=30
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.143    0.496    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16776508
+Query= et|JZ531139.1_Lnc214_M13R_CH-173_G01_003_frag_0_ORF17
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.339    0.145    0.599    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|JZ531139.1_Lnc214_M13R_CH-173_G01_003_frag_0_ORF18
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.135    0.504    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531139.1_Lnc214_M13R_CH-173_G01_003_frag_0_ORF24
+Length=29
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.143    0.515    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16177347
+Query= et|GW787474.1_Lnc_frag_0_ORF1
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.149    0.436    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= et|GW787474.1_Lnc_frag_0_ORF2
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.139    0.397    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|GW787474.1_Lnc_frag_0_ORF3
+Length=25
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.143    0.646    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16105675
+Query= et|GW787474.1_Lnc_frag_0_ORF6
+Length=18
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.337    0.131    0.548    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 11596086
+Query= et|GW787474.1_Lnc_frag_0_ORF7
+Length=55
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.144    0.481    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16074733
+Query= et|GW787474.1_Lnc_frag_0_ORF8
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.146    0.436    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|GW787474.1_Lnc_frag_0_ORF12
+Length=69
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.145    0.404    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16536528
+Query= et|GW787474.1_Lnc_frag_0_ORF13
+Length=68
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.328    0.145    0.405    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16230296
+Query= et|GW787474.1_Lnc_frag_0_ORF15
+Length=40
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.142    0.384    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16054368
+Query= et|GW787497.1_Lnc296_t3_frag_0_ORF2
+Length=93
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.130    0.354    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15991400
+Query= et|GW787497.1_Lnc296_t3_frag_0_ORF3
+Length=41
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.129    0.339    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16540864
+Query= et|GW787497.1_Lnc296_t3_frag_0_ORF4
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.310    0.116    0.308    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= et|GW787497.1_Lnc296_t3_frag_0_ORF5
+Length=41
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.135    0.351    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16540864
+Query= et|GW787497.1_Lnc296_t3_frag_0_ORF6
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.131    0.313    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|GW787497.1_Lnc296_t3_frag_0_ORF12
+Length=24
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.131    0.405    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15461448
+Query= et|GW787497.1_Lnc296_t3_frag_0_ORF13
+Length=20
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.134    0.426    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12884540
+Query= et|GW787497.1_Lnc296_t3_frag_0_ORF14
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.117    0.377    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531145.1_Lnc221_M13R_CH-173_G08_052_frag_0_ORF1
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.315    0.125    0.387    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= et|JZ531145.1_Lnc221_M13R_CH-173_G08_052_frag_0_ORF2
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.129    0.380    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|JZ531176.1_Lnc6_M13R_CH-170_A04_032_frag_0_ORF6
+Length=57
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.128    0.379    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16822395
+Query= et|JZ531176.1_Lnc6_M13R_CH-170_A04_032_frag_0_ORF10
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.135    0.458    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531176.1_Lnc6_M13R_CH-170_A04_032_frag_0_ORF12
+Length=28
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.134    0.399    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16785738
+Query= et|JZ531171.1_Lnc62_M13R_CH-170_C01_011_frag_0_ORF6
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.143    0.428    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= et|JZ531116.1_Lnc197_M13R_NAR-8_E06_040_frag_0_ORF1
+Length=35
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.137    0.440    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15946860
+Query= et|JZ531116.1_Lnc197_M13R_NAR-8_E06_040_frag_0_ORF2
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.137    0.456    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|JZ531116.1_Lnc197_M13R_NAR-8_E06_040_frag_0_ORF3
+Length=26
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.128    0.395    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16749902
+Query= et|JZ531047.1_Lnc136_M13R_CH-170_F05_037_frag_0_ORF1
+Length=35
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.136    0.437    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15946860
+Query= et|JZ531047.1_Lnc136_M13R_CH-170_F05_037_frag_0_ORF2
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.131    0.433    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|JZ531047.1_Lnc136_M13R_CH-170_F05_037_frag_0_ORF3
+Length=35
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.140    0.374    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15946860
+Query= et|JZ531047.1_Lnc136_M13R_CH-170_F05_037_frag_0_ORF4
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.143    0.374    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|JZ531047.1_Lnc136_M13R_CH-170_F05_037_frag_0_ORF5
+Length=26
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.144    0.374    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16749902
+Query= et|JZ531028.1_Lnc114_M13R_CH-169_H04_018_frag_0_ORF3
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.136    0.447    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531072.1_Lnc160_M13R_CH-170_D11_089_frag_0_ORF1
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.139    0.543    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|JZ531072.1_Lnc160_M13R_CH-170_D11_089_frag_0_ORF2
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.146    0.564    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531072.1_Lnc160_M13R_CH-170_D11_089_frag_0_ORF4
+Length=45
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.133    0.367    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15891480
+Query= et|JZ531072.1_Lnc160_M13R_CH-170_D11_089_frag_0_ORF6
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.142    0.418    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531072.1_Lnc160_M13R_CH-170_D11_089_frag_0_ORF7
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.132    0.360    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531099.1_Lnc184_M13R_CH-170_E07_055_frag_0_ORF6
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.138    0.442    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531099.1_Lnc184_M13R_CH-170_E07_055_frag_0_ORF7
+Length=24
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.347    0.155    0.504    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15461448
+Query= et|JZ531184.1_Lnc7_M13R_CH-170_A05_047_frag_0_ORF2
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.359    0.159    0.511    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531184.1_Lnc7_M13R_CH-170_A05_047_frag_0_ORF3
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.296    0.125    0.366    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531031.1_Lnc118_M13R_CH-169_B05_045_frag_0_ORF3
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.372    0.161    0.436    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531031.1_Lnc118_M13R_CH-169_B05_045_frag_0_ORF4
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.369    0.166    0.443    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531031.1_Lnc118_M13R_CH-169_B05_045_frag_0_ORF6
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.146    0.528    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531031.1_Lnc118_M13R_CH-169_B05_045_frag_0_ORF7
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.143    0.439    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531030.1_Lnc116_M13R_CH-170_D01_009_frag_0_ORF1
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.349    0.140    0.405    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531030.1_Lnc116_M13R_CH-170_D01_009_frag_0_ORF2
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.350    0.141    0.438    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531030.1_Lnc116_M13R_CH-170_D01_009_frag_0_ORF5
+Length=28
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.331    0.141    0.369    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16785738
+Query= et|JZ531030.1_Lnc116_M13R_CH-170_D01_009_frag_0_ORF6
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.144    0.388    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531030.1_Lnc116_M13R_CH-170_D01_009_frag_0_ORF7
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.337    0.130    0.310    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531018.1_Lnc100_M13R_CH-169_E03_023_frag_0_ORF3
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.134    0.389    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531018.1_Lnc100_M13R_CH-169_E03_023_frag_0_ORF5
+Length=65
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.136    0.415    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16767015
+Query= et|JZ531018.1_Lnc100_M13R_CH-169_E03_023_frag_0_ORF6
+Length=64
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.335    0.136    0.415    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16438250
+Query= et|JZ531018.1_Lnc100_M13R_CH-169_E03_023_frag_0_ORF7
+Length=53
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.134    0.412    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16647288
+Query= et|JZ531018.1_Lnc100_M13R_CH-169_E03_023_frag_0_ORF8
+Length=23
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.135    0.390    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14817221
+Query= et|JZ531076.1_Lnc164_M13R_CH-170_H05_033_frag_0_ORF4
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.310    0.122    0.355    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|GW820094.1_Lnc275_t3_frag_0_ORF5
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.369    0.163    0.681    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|GW820094.1_Lnc275_t3_frag_0_ORF6
+Length=28
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.135    0.353    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16785738
+Query= et|GW820094.1_Lnc275_t3_frag_0_ORF8
+Length=41
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.129    0.400    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16540864
+Query= et|GW820094.1_Lnc275_t3_frag_0_ORF9
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.340    0.128    0.328    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531035.1_Lnc121_M13R_CH-170_D03_025_frag_0_ORF1
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.147    0.446    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531035.1_Lnc121_M13R_CH-170_D03_025_frag_0_ORF3
+Length=22
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.353    0.166    0.468    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14172994
+Query= et|JZ531035.1_Lnc121_M13R_CH-170_D03_025_frag_0_ORF2
+Length=20
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.136    0.479    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12884540
+Query= et|JZ531035.1_Lnc121_M13R_CH-170_D03_025_frag_0_ORF3
+Length=18
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.136    0.488    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 11596086
+Query= et|JZ531073.1_Lnc161_M13R_CH-170_D12_090_frag_0_ORF1
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.331    0.137    0.422    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531073.1_Lnc161_M13R_CH-170_D12_090_frag_0_ORF3
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.123    0.464    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531073.1_Lnc161_M13R_CH-170_D12_090_frag_0_ORF5
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.336    0.151    0.410    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|JZ531073.1_Lnc161_M13R_CH-170_D12_090_frag_0_ORF9
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.339    0.149    0.507    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531073.1_Lnc161_M13R_CH-170_D12_090_frag_0_ORF10
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.337    0.148    0.511    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531193.1_Lnc91_M13R_CH-169_G02_004_frag_0_ORF3
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.343    0.136    0.427    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531193.1_Lnc91_M13R_CH-169_G02_004_frag_0_ORF6
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.344    0.140    0.341    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531193.1_Lnc91_M13R_CH-169_G02_004_frag_0_ORF7
+Length=88
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.129    0.352    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16704310
+Query= et|JZ531193.1_Lnc91_M13R_CH-169_G02_004_frag_0_ORF8
+Length=84
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.129    0.355    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15749778
+Query= et|JZ531193.1_Lnc91_M13R_CH-169_G02_004_frag_0_ORF9
+Length=81
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.129    0.350    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16714624
+Query= et|JZ531193.1_Lnc91_M13R_CH-169_G02_004_frag_0_ORF10
+Length=37
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.140    0.399    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15779899
+Query= et|JZ531193.1_Lnc91_M13R_CH-169_G02_004_frag_0_ORF11
+Length=34
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.139    0.398    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16622850
+Query= et|JZ531193.1_Lnc91_M13R_CH-169_G02_004_frag_0_ORF12
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.347    0.156    0.459    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|GW787505.1_Lnc271_t3_frag_0_ORF1
+Length=68
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.122    0.369    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16230296
+Query= et|GW787505.1_Lnc271_t3_frag_0_ORF2
+Length=48
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.121    0.366    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15918086
+Query= et|GW787505.1_Lnc271_t3_frag_0_ORF3
+Length=24
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.307    0.112    0.284    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15461448
+Query= et|GW787505.1_Lnc271_t3_frag_0_ORF4
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.308    0.116    0.299    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|GW787505.1_Lnc271_t3_frag_0_ORF5
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.317    0.132    0.453    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|GW787505.1_Lnc271_t3_frag_0_ORF6
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.138    0.502    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|GW787505.1_Lnc271_t3_frag_0_ORF7
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.126    0.438    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW787505.1_Lnc271_t3_frag_0_ORF9
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.308    0.116    0.284    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|GW787505.1_Lnc271_t3_frag_0_ORF10
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.154    0.431    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|GW787505.1_Lnc271_t3_frag_0_ORF11
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.135    0.413    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|GW820096.1_Lnc277_t3_frag_0_ORF1
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.319    0.129    0.380    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|GW820096.1_Lnc277_t3_frag_0_ORF2
+Length=71
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.132    0.432    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 17148992
+Query= et|GW820096.1_Lnc277_t3_frag_0_ORF3
+Length=70
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.133    0.433    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16842760
+Query= et|GW820096.1_Lnc277_t3_frag_0_ORF4
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.143    0.480    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|GW820096.1_Lnc277_t3_frag_0_ORF5
+Length=96
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.315    0.129    0.408    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16639700
+Query= et|GW820096.1_Lnc277_t3_frag_0_ORF6
+Length=51
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.315    0.128    0.450    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15854560
+Query= et|GW820096.1_Lnc277_t3_frag_0_ORF7
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.305    0.120    0.347    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531101.1_Lnc186_M13R_CH-170_E08_056_frag_0_ORF2
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.336    0.142    0.403    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|JZ531122.1_Lnc201_M13R_CH-171_G04_020_frag_0_ORF1
+Length=66
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.133    0.394    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 17095780
+Query= et|JZ531122.1_Lnc201_M13R_CH-171_G04_020_frag_0_ORF2
+Length=45
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.322    0.132    0.380    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15891480
+Query= et|JZ531122.1_Lnc201_M13R_CH-171_G04_020_frag_0_ORF3
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.136    0.338    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531122.1_Lnc201_M13R_CH-171_G04_020_frag_0_ORF8
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.129    0.308    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531122.1_Lnc201_M13R_CH-171_G04_020_frag_0_ORF9
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.124    0.293    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531122.1_Lnc201_M13R_CH-171_G04_020_frag_0_ORF11
+Length=31
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.156    0.490    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16145584
+Query= et|JZ531071.1_Lnc159_M13R_CH-170_H02_002_frag_0_ORF5
+Length=66
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.134    0.401    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 17095780
+Query= et|JZ531071.1_Lnc159_M13R_CH-170_H02_002_frag_0_ORF6
+Length=45
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.134    0.395    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15891480
+Query= et|JZ531071.1_Lnc159_M13R_CH-170_H02_002_frag_0_ORF7
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.136    0.338    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531071.1_Lnc159_M13R_CH-170_H02_002_frag_0_ORF8
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.332    0.138    0.491    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|JZ531071.1_Lnc159_M13R_CH-170_H02_002_frag_0_ORF11
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.133    0.387    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531071.1_Lnc159_M13R_CH-170_H02_002_frag_0_ORF13
+Length=70
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.134    0.398    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16842760
+Query= et|JZ531071.1_Lnc159_M13R_CH-170_H02_002_frag_0_ORF14
+Length=49
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.130    0.388    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16336983
+Query= et|GW787511.1_Lnc269_t3_frag_0_ORF1
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.141    0.421    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= et|GW787511.1_Lnc269_t3_frag_0_ORF2
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.140    0.428    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|GW787511.1_Lnc269_t3_frag_0_ORF3
+Length=20
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.341    0.148    0.609    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12884540
+Query= et|GW787511.1_Lnc269_t3_frag_0_ORF4
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.128    0.421    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|GW787511.1_Lnc269_t3_frag_0_ORF6
+Length=75
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.326    0.138    0.438    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16738241
+Query= et|GW787511.1_Lnc269_t3_frag_0_ORF7
+Length=37
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.133    0.418    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15779899
+Query= et|GW787511.1_Lnc269_t3_frag_0_ORF9
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.315    0.139    0.414    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531138.1_Lnc213_M13R_CH-173_F12_086_frag_0_ORF1
+Length=14
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.345    0.149    0.603    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9019178
+Query= et|JZ531138.1_Lnc213_M13R_CH-173_F12_086_frag_0_ORF2
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.350    0.150    0.656    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531138.1_Lnc213_M13R_CH-173_F12_086_frag_0_ORF4
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.329    0.127    0.392    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531138.1_Lnc213_M13R_CH-173_F12_086_frag_0_ORF5
+Length=16
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.345    0.160    0.434    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10307632
+Query= et|JZ531050.1_Lnc139_M13R_CH-170_F08_054_frag_0_ORF2
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.134    0.362    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531050.1_Lnc139_M13R_CH-170_F08_054_frag_0_ORF5
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.338    0.152    0.409    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= et|JZ531050.1_Lnc139_M13R_CH-170_F08_054_frag_0_ORF9
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.340    0.137    0.549    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|JZ531050.1_Lnc139_M13R_CH-170_F08_054_frag_0_ORF10
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.339    0.131    0.518    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531102.1_Lnc187_M13R_CH-171_B03_029_frag_0_ORF2
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.318    0.127    0.440    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|JZ531102.1_Lnc187_M13R_CH-171_B03_029_frag_0_ORF3
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.373    0.170    0.471    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531102.1_Lnc187_M13R_CH-171_B03_029_frag_0_ORF2
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.362    0.162    0.815    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531121.1_Lnc200_M13R_CH-171_F04_022_frag_0_ORF1
+Length=47
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.139    0.422    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16774340
+Query= et|JZ531121.1_Lnc200_M13R_CH-171_F04_022_frag_0_ORF4
+Length=98
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.314    0.135    0.392    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 17071900
+Query= et|JZ531121.1_Lnc200_M13R_CH-171_F04_022_frag_0_ORF5
+Length=79
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.314    0.136    0.396    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16192292
+Query= et|JZ531121.1_Lnc200_M13R_CH-171_F04_022_frag_0_ORF6
+Length=58
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.316    0.136    0.406    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15808410
+Query= et|JZ531121.1_Lnc200_M13R_CH-171_F04_022_frag_0_ORF7
+Length=57
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.316    0.136    0.407    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16822395
+Query= et|JZ531121.1_Lnc200_M13R_CH-171_F04_022_frag_0_ORF8
+Length=10
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.119    0.319    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 6442270
+Query= et|JZ531121.1_Lnc200_M13R_CH-171_F04_022_frag_0_ORF10
+Length=22
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.308    0.108    0.298    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14172994
+Query= et|JZ531121.1_Lnc200_M13R_CH-171_F04_022_frag_0_ORF11
+Length=11
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.313    0.105    0.272    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7086497
+Query= et|JZ531121.1_Lnc200_M13R_CH-171_F04_022_frag_0_ORF12
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.309    0.102    0.267    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531104.1_Lnc188_M13R_NAR-5_B06_046_frag_0_ORF1
+Length=34
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.308    0.118    0.357    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16622850
+Query= et|JZ531104.1_Lnc188_M13R_NAR-5_B06_046_frag_0_ORF2
+Length=20
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.316    0.115    0.366    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12884540
+Query= et|JZ531104.1_Lnc188_M13R_NAR-5_B06_046_frag_0_ORF3
+Length=8
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.299   0.0999    0.240    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5153816
+Query= et|JZ531104.1_Lnc188_M13R_NAR-5_B06_046_frag_0_ORF6
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.303    0.108    0.281    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= et|JZ531095.1_Lnc17_M13R_CH-170_A11_095_frag_0_ORF6
+Length=7
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.143    0.583    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 4509589
+Query= et|JZ531155.1_Lnc231_M13R_CH-173_H06_034_frag_0_ORF2
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.139    0.389    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044
+Query= et|JZ531155.1_Lnc231_M13R_CH-173_H06_034_frag_0_ORF3
+Length=6
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.125    0.356    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 3865362
+Query= et|JZ531155.1_Lnc231_M13R_CH-173_H06_034_frag_0_ORF5
+Length=13
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.325    0.128    0.397    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 8374951
+Query= et|JZ531155.1_Lnc231_M13R_CH-173_H06_034_frag_0_ORF7
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.324    0.139    0.397    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531078.1_Lnc166_M13R_CH-170_E01_007_frag_0_ORF1
+Length=18
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.334    0.145    0.500    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 11596086
+Query= et|JZ531078.1_Lnc166_M13R_CH-170_E01_007_frag_0_ORF2
+Length=17
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.344    0.156    0.553    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 10951859
+Query= et|JZ531078.1_Lnc166_M13R_CH-170_E01_007_frag_0_ORF3
+Length=37
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.333    0.138    0.416    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15779899
+Query= et|JZ531078.1_Lnc166_M13R_CH-170_E01_007_frag_0_ORF4
+Length=21
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.337    0.138    0.417    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 13528767
+Query= et|JZ531078.1_Lnc166_M13R_CH-170_E01_007_frag_0_ORF6
+Length=19
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.140    0.363    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 12240313
+Query= et|JZ531078.1_Lnc166_M13R_CH-170_E01_007_frag_0_ORF8
+Length=15
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.330    0.134    0.468    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 9663405
+Query= et|JZ531078.1_Lnc166_M13R_CH-170_E01_007_frag_0_ORF9
+Length=9
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.348    0.148    0.457    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 5798043
+Query= et|JZ531078.1_Lnc166_M13R_CH-170_E01_007_frag_0_ORF10
+Length=66
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.311    0.126    0.365    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 17095780
+Query= et|JZ531078.1_Lnc166_M13R_CH-170_E01_007_frag_0_ORF11
+Length=43
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.310    0.122    0.336    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16238705
+Query= et|JZ531168.1_Lnc56_M13R_CH-170_B10_078_frag_0_ORF1
+Length=30
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.327    0.130    0.388    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16776508
+Query= et|JZ531088.1_Lnc175_M13R_CH-170_H12_082_frag_0_ORF1
+Length=52
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.311    0.119    0.329    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16250924
+Query= et|JZ531088.1_Lnc175_M13R_CH-170_H12_082_frag_0_ORF2
+Length=27
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.307    0.114    0.337    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16164044

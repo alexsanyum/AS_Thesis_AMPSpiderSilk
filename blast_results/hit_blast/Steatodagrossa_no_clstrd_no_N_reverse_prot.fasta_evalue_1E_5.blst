@@ -1,0 +1,26 @@
+Query= et|HS977041.1_Stg90_sp6_ORF1
+Length=42
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+L12A10608| unnamed protein product                                    42.7    4e-09
+L03A000325| unnamed protein product                                   37.4    6e-07
+>L12A10608| unnamed protein product
+Length=58
+ Score = 42.7 bits (99),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 18/38 (47%), Positives = 23/38 (61%), Gaps = 0/38 (0%)
+Query  4   RFYYNDVAKKCEIFYYGGCKGNENNFPSEDHCKEACGG  41
+           R++YN  A  C+ F YGGC+   NNF S + C   CGG
+Sbjct  20  RYFYNAKAGLCQPFVYGGCRAKRNNFKSSEDCMRTCGG  57
+>L03A000325| unnamed protein product
+Length=60
+ Score = 37.4 bits (85),  Expect = 6e-07, Method: Compositional matrix adjust.
+ Identities = 18/40 (45%), Positives = 22/40 (55%), Gaps = 2/40 (5%)
+Query  4   RFYYNDVAKKCEIFYYGGCKGNENNFP--SEDHCKEACGG  41
+           R++YN  A  C+ F YGGC    NNF   S + C   CGG
+Sbjct  20  RYFYNAKAGLCQTFVYGGCIAKRNNFTFKSAEDCMRTCGG  59
+Lambda      K        H        a         alpha
+   0.322    0.144    0.499    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15774742

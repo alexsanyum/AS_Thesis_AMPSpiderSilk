@@ -1,0 +1,26 @@
+Query= et|GT029970.1_50_ORF1
+Length=42
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+L12A08936| unnamed protein product                                    62.8    6e-17
+L13A12186| unnamed protein product                                    62.4    6e-17
+>L12A08936| unnamed protein product
+Length=74
+ Score = 62.8 bits (151),  Expect = 6e-17, Method: Compositional matrix adjust.
+ Identities = 31/37 (84%), Positives = 32/37 (86%), Gaps = 0/37 (0%)
+Query  1   MQIFVKTLTGKTITLESEPSDTIENVKTKIQTKKASP  37
+           MQIFVKTLTGKTITLE EPSDTIENVK KIQ K+  P
+Sbjct  1   MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIP  37
+>L13A12186| unnamed protein product
+Length=50
+ Score = 62.4 bits (150),  Expect = 6e-17, Method: Compositional matrix adjust.
+ Identities = 31/37 (84%), Positives = 32/37 (86%), Gaps = 0/37 (0%)
+Query  1   MQIFVKTLTGKTITLESEPSDTIENVKTKIQTKKASP  37
+           MQIFVKTLTGKTITLE EPSDTIENVK KIQ K+  P
+Sbjct  1   MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIP  37
+Lambda      K        H        a         alpha
+   0.302    0.117    0.288    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 15774742

@@ -1,0 +1,81 @@
+Query= Leucaugevenusta_0_75_5_ORF6
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.148    0.342    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Leucaugevenusta_0_75_6_ORF1
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.148    0.342    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Leucaugevenusta_0_75_7_ORF1
+Length=40
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.128    0.359    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16054368
+Query= Leucaugevenusta_0_75_7_ORF2
+Length=33
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.129    0.364    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16068755
+Query= Leucaugevenusta_0_75_7_ORF3
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.320    0.129    0.364    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= Leucaugevenusta_0_75_7_ORF4
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.323    0.134    0.382    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724
+Query= Leucaugevenusta_0_75_7_ORF5
+Length=32
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.321    0.134    0.399    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 16722212
+Query= Leucaugevenusta_0_75_7_ORF6
+Length=23
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.315    0.129    0.364    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 14817221
+Query= Leucaugevenusta_0_75_7_ORF8
+Length=12
+***** No hits found *****
+Lambda      K        H        a         alpha
+   0.342    0.148    0.342    0.792     4.96 
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+Effective search space used: 7730724

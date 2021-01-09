@@ -1,0 +1,35 @@
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (19 residues)
+Target model(s):                          88  (3042 nodes)
+Passed MSV filter:                         0  (0); expected 1.8 (0.02)
+Passed bias filter:                        0  (0); expected 1.8 (0.02)
+Passed Vit filter:                         0  (0); expected 0.1 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                 88  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: inf
+//
+
+Query:       et|GT029908.1_CN575_ORF9  [L=18]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------          -----------
+    0.00077   12.7   0.3    0.00077   12.7   0.2    1.1  1  Bacteriocin_22-11 
+
+
+Domain annotation for each model (and alignments):
+>> Bacteriocin_22-11  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   12.7   0.2   8.7e-06   0.00077       5      20 ..       2      17 ..       1      18 [] 0.92
+
+  Alignments for each domain:
+  == domain 1    score: 12.7 bits;  conditional E-value: 8.7e-06
+         Bacteriocin_22-11  5 tvctaglvitgsfnsg 20
+                              +vcta+l++t ++n++
+  et|GT029908.1_CN575_ORF9  2 MVCTAILKRTCVNNFF 17
+                              9************996 PP
+
