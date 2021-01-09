@@ -1,0 +1,9 @@
+Specie,Query,SubjectID,Subject,Identity,Length,Mismatch,Gapopen,Qstart,Qend,Sstart,Send,evalue,bitscore
+Latrodectus hesperus,et|JZ531198.1_Lnc98_M13R_CH-169_C03_027_ORF3,CAMPSQ3754,Ubiquicidin,94.444,18,1,0,29,46,1,18,1.39E-06,37.4
+Latrodectus hesperus,et|JZ531198.1_Lnc98_M13R_CH-169_C03_027_ORF4,CAMPSQ3754,Ubiquicidin,83.333,24,4,0,1,24,36,59,1.64E-10,45.4
+Leucauge venusta,et|JZ979745.1_LvS41_T7_ORF1,CAMPSQ616,Chymotrypsin-elastase inhibitor ixodidin,30.612,49,32,1,19,67,4,50,4.12E-05,33.9
+Nephila antipodiana,et|GT029970.1_50_ORF1,CAMPSQ3702,CgUbiquitin,83.784,37,6,0,1,37,1,37,6.43E-17,62.8
+Nephila antipodiana,et|GT029501.1_BN437_ORF1,CAMPSQ616,Chymotrypsin-elastase inhibitor ixodidin,47.619,42,21,1,25,65,9,50,8.46E-08,40.8
+Nephila antipodiana,et|GT029726.1_BN120__ORF14,CAMPSQ3345,TCP,41.379,58,29,2,1,53,23,80,5.45E-07,39.3
+Steatoda grossa,et|HS977042.1_Stg90_T7_ORF1,CAMPSQ2798,Luxuriosin,41.818,55,32,0,20,74,3,57,1.23E-11,50.4
+Steatoda grossa,et|HS977042.1_Stg90_T7_ORF2,CAMPSQ2798,Luxuriosin,47.368,38,20,0,4,41,20,57,3.75E-09,42.7
