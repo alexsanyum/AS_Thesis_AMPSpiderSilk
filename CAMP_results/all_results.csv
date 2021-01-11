@@ -1,8 +1,8 @@
-Peptide,Source
-Bacteriocin_32-6,Gram negative-Gram positive bacteria
-Cathelicidin_18-5,
-Cathelicidin_18-5,
-Temporin_17-9,
-Temporin_17-9,
-Bacteriocin_22-11,
-Dermaseptin,
+Specie,Query,model(subjet),domian,i-evalue,c-evalue,HMMFrom,HMMEnd,AliFrom,AliEnd
+Latrodectus hesperus,et|GW787487.1_Lnc307_t3_frag_0_ORF560,Bacteriocin_32-6,2,0.0049,5.60E-05,11,23,25,37
+Latrodectus hesperus,et|JZ531069.1_Lnc156_M13R_CH-170_G11_083_frag_0_ORF2,Cathelicidin_18-5,1,0.0006,6.80E-06,1,15,5,19
+Latrodectus hesperus,et|JZ531069.1_Lnc156_M13R_CH-170_G11_083_frag_0_ORF3,Cathelicidin_18-5,1,0.00033,3.80E-06,1,15,2,16
+Latrodectus hesperus,et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF548,Temporin_17-9,2,0.02,0.00022,1,14,22,35
+Latrodectus hesperus,et|JZ531020.1_Lnc102_M13R_CH-169_G03_019_frag_0_ORF549,Temporin_17-9,2,0.014,0.00016,1,14,17,30
+Nephila antipodiana,et|GT029908.1_CN575_ORF9,Bacteriocin_22-11,1,0.00077,8.70E-06,5,20,2,17
+Steatoda grossa,et|HS977055.1_Stg95_T7_frag_0_ORF5,Dermaseptin,1,0.00089,1.00E-05,20,32,8,20
