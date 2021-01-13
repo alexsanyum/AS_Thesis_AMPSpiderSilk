@@ -6,13 +6,14 @@ Next grahp describes the desing and used pipeline
 ![](/pipeline.png)
 
 ## 1. Expressed Sequence Tag (EST) data
-EST data used in this thesis were collect from NCBI database. We focus on nucleotide sequences of spiders species that were obtained from at least one spider silk gland. We use next key words: spider, silk gland, mRNA, cDNA in EST-NCBI database. We found entries for next species:
+EST data used in this thesis were collect from NCBI database. We focus on nucleotide sequences of spiders species that were obtained from at least one spider silk gland. We use next key words: spider, silk gland, mRNA, cDNA in EST-NCBI database. Reads were download in fasta format. All sequences are available in [EST_data](/EST_data) directory. There is also a [feature file](/EST_data/feature_info) that contains biosample ID, vectors used and tissues for each data set. 
+We found entries for next species:
 * *Latrodectus hesperus*
 * *Leucauge venusta*
 * *Nephila antipodiana*
 * *Parasteatoda tepidariorum*
 * *Steatoga grossa*
-Reads were download in fasta format. All sequences are available in [EST_data](/EST_data) directory. There is also a [feature file](/EST_data/feature_info) that contains biosample ID, vectors used and tissues for each data set. 
+
 ## 2. Vector clipping 
 In order to avoid to cluster non related or paralogous sequences we check out if reads have cloning vectors residues on. For this we use [Figaro](http://amos.sourceforge.net/wiki/index.php?title=Figaro) and [cross_match](http://www.phrap.org/phredphrapconsed.html) programs. Figaro use a statistical model and return a file with 5' trim point and cross_match compare reads with the vector and replace vector residue by X in the sequences. 
 Figaro was used with next example command line:
