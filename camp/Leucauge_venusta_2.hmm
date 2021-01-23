@@ -1,0 +1,42 @@
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (13 residues)
+Target model(s):                          88  (3042 nodes)
+Passed MSV filter:                         1  (0.0113636); expected 1.8 (0.02)
+Passed bias filter:                        1  (0.0113636); expected 1.8 (0.02)
+Passed Vit filter:                         0  (0); expected 0.1 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                 88  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: inf
+//
+
+Query:       et|JZ979713.1_LvA11_T7_reverse_ORF13  [L=21]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model            Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------         -----------
+  ------ inclusion threshold ------
+       0.04    6.6   6.7      0.021    7.4   2.1    1.9  2  Dermaseptin_28-9 
+
+
+Domain annotation for each model (and alignments):
+>> Dermaseptin_28-9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    7.4   2.1   0.00024     0.021       2       8 ..       7      13 ..       6      14 .. 0.95
+   2 ?    1.1   0.1     0.024       2.1      15      19 ..      17      21 .]      16      21 .] 0.88
+
+  Alignments for each domain:
+  == domain 1    score: 7.4 bits;  conditional E-value: 0.00024
+                      Dermaseptin_28-9  2 LWKtiLK 8 
+                                          LWKt+LK
+  et|JZ979713.1_LvA11_T7_reverse_ORF13  7 LWKTLLK 13
+                                          9*****9 PP
+
+  == domain 2    score: 1.1 bits;  conditional E-value: 0.024
+                      Dermaseptin_28-9 15 GkAaL 19
+                                          GkA+L
+  et|JZ979713.1_LvA11_T7_reverse_ORF13 17 GKAGL 21
+                                          89998 PP
