@@ -1,0 +1,60 @@
+Query:       NM_004345.5_ORF5  [L=62]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model              Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------           -----------
+    3.9e-22   70.3   4.8    4.7e-22   70.0   3.3    1.1  1  Cathelicidin_37-10 
+    1.3e-12   40.4   0.9      5e-12   38.5   0.2    1.8  2  Cathelicidin       
+      0.002   11.1   6.3     0.0057    9.7   4.4    1.7  2  Cathelicidin_34-7  
+
+
+Domain annotation for each model (and alignments):
+>> Cathelicidin_37-10  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   70.0   3.3   1.6e-23   4.7e-22       2      37 .]      27      62 .]      26      62 .] 0.98
+
+  Alignments for each domain:
+  == domain 1    score: 70.0 bits;  conditional E-value: 1.6e-23
+  Cathelicidin_37-10  2 LgnrlrkfkeKigeklkkivqkIkdFiknLiPrtes 37
+                        Lg+++rk+keKig+++k+ivq+IkdF++nL+Prtes
+    NM_004345.5_ORF5 27 LGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES 62
+                        9**********************************8 PP
+
+>> Cathelicidin  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.9   0.0     0.053       1.6      73      88 ..       2      18 ..       1      24 [. 0.86
+   2 !   38.5   0.2   1.7e-13     5e-12       2      41 ..      24      61 ..      23      62 .] 0.94
+
+  Alignments for each domain:
+  == domain 1    score: 0.9 bits;  conditional E-value: 0.053
+      Cathelicidin 73 Gtvfldqspd.lelnCr 88
+                      Gtv+l+q    ++  C 
+  NM_004345.5_ORF5  2 GTVTLNQARGsFDISCD 18
+                      9*******999***996 PP
+
+  == domain 2    score: 38.5 bits;  conditional E-value: 1.7e-13
+      Cathelicidin  2 itrlegffrktlekileeikrlaqrIkdflsglsirlrea 41
+                      ++ l++ffrk++eki++e+kr++qrIkdfl++l  ++r++
+  NM_004345.5_ORF5 24 FALLGDFFRKSKEKIGKEFKRIVQRIKDFLRNL--VPRTE 61
+                      5689*****************************..99987 PP
+
+>> Cathelicidin_34-7  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    4.0   0.0     0.013      0.39      20      34 .]      19      33 ..      18      33 .. 0.89
+   2 !    9.7   4.4   0.00019    0.0057       7      32 ..      28      53 ..      22      55 .. 0.78
+
+  Alignments for each domain:
+  == domain 1    score: 4.0 bits;  conditional E-value: 0.013
+  Cathelicidin_34-7 20 KfkkkpevIgvsfeg 34
+                       K +k++  +g++f++
+   NM_004345.5_ORF5 19 KDNKRFALLGDFFRK 33
+                       6799*********97 PP
+
+  == domain 2    score: 9.7 bits;  conditional E-value: 0.00019
+  Cathelicidin_34-7  7 kkklkrsvkKiakKfkkkpevIgvsf 32
+                       ++ +++s+ Ki+k fk++ ++I+++ 
+   NM_004345.5_ORF5 28 GDFFRKSKEKIGKEFKRIVQRIKDFL 53
+                       67788899999999999999998875 PP

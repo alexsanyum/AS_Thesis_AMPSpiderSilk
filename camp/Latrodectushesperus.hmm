@@ -1,0 +1,42 @@
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (26 residues)
+Target model(s):                          88  (3042 nodes)
+Passed MSV filter:                         3  (0.0340909); expected 1.8 (0.02)
+Passed bias filter:                        3  (0.0340909); expected 1.8 (0.02)
+Passed Vit filter:                         0  (0); expected 0.1 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                 88  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.02u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 5.27
+//
+
+Query:       et|GW787487.1_Lnc307_t3_frag_1_reverse_ORF14  [L=49]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model            Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------         -----------
+     0.0012   11.3   1.0     0.0049    9.3   0.3    1.9  2  Bacteriocin_32-6 
+
+
+Domain annotation for each model (and alignments):
+>> Bacteriocin_32-6  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.2   0.0     0.041       3.6      17      26 ..       4      13 ..       2      14 .. 0.80
+   2 !    9.3   0.3   5.6e-05    0.0049      11      23 ..      25      37 ..      22      38 .. 0.86
+
+  Alignments for each domain:
+  == domain 1    score: 0.2 bits;  conditional E-value: 0.041
+                              Bacteriocin_32-6 17 qtylltvite 26
+                                                  qt++  vi +
+  et|GW787487.1_Lnc307_t3_frag_1_reverse_ORF14  4 QTSFVDVIPC 13
+                                                  9999999877 PP
+
+  == domain 2    score: 9.3 bits;  conditional E-value: 5.6e-05
+                              Bacteriocin_32-6 11 CvTgglqtylltv 23
+                                                  + Tg++++y++++
+  et|GW787487.1_Lnc307_t3_frag_1_reverse_ORF14 25 SPTGLNTVYASLT 37
+                                                  569********98 PP
+
