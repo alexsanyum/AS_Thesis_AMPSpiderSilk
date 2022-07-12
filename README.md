@@ -3,7 +3,7 @@ This repository contains all data, methods and scripts used for the thesis Disco
 
 ## ISCB Student Council Symposium 2022 - Poster 
 Next poster was presented in the SCS 2022. 
-![](/sanyumale_Sanchez_Alex_Discovery_of_antimicrobial.pdf)
+[Poster](/sanyumale_Sanchez_Alex_Discovery_of_antimicrobial.pdf)
 ## Pipeline 
 Next grahp describes the desing and used pipeline
 ![](/pipeline.png)
