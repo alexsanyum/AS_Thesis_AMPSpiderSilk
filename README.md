@@ -1,6 +1,9 @@
 # Discovery of antimicrobial peptides of spider silk glands using Expressed Sequence Tags data
 This repository contains all data, methods and scripts used for the thesis Discovery of antimicrobial peptides of spider silk glands using Expressed Sequence Tags data.
 
+## ISCB Student Council Symposium 2022 - Poster 
+Next poster was presented in the SCS 2022. 
+![](/sanyumale_Sanchez_Alex_Discovery_of_antimicrobial.pdf)
 ## Pipeline 
 Next grahp describes the desing and used pipeline
 ![](/pipeline.png)
